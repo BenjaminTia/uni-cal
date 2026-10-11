@@ -1203,4 +1203,20 @@ DESCRIPTION:Last day of the collection window. Collect in person from the
  372. Source: CC Examination Team notification 16 Sep 2026\, ref Grad_AD11
  3_AENG-EE-02.
 END:VEVENT
+BEGIN:VEVENT
+UID:4b8e2d15c7a3496f8e0b3d92a6f5c130@hkmu
+DTSTAMP:20261011T171344Z
+DTSTART;TZID=Asia/Hong_Kong:20261228T100000
+DTEND;TZID=Asia/Hong_Kong:20261228T113000
+SUMMARY:Collect HKU SPACE graduation certificate - KEC College Office\, Kowloon Bay
+DESCRIPTION:The errand itself. KEC College Office\, 2/F Lee Shiu Building
+ \, 28 Wang Hoi Road\, Kowloon Bay\; open Mon-Fri 09:30-17:00 only. Timed 
+ after the exam period ends on 27 Dec and two days before the window close
+ s on 30 Dec\, so there is one fallback day if this slips. Bring the 16 Se
+ p 07:33 email (Ref Grad_AD113_AENG-EE-02) plus HKID or passport. If someo
+ ne goes for you\, they need the printed authorisation form (electronic co
+ pies are not accepted) and a copy of your HKID or passport. No postal opt
+ ion exists. Queries: Examination Team 3762 2372. Printed authorisation fo
+ rm saved at iCloudDrive/Downloads/HKMU/.
+END:VEVENT
 END:VCALENDAR
