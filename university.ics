@@ -1157,36 +1157,33 @@ DESCRIPTION:Collect in person from the KEC College Office\, 2/F Lee Shiu Buildin
 END:VEVENT
 BEGIN:VEVENT
 UID:c7a41e0b93d54f2ab6e5d1c8f0a29347@hkmu
-DTSTAMP:20261011T110829Z
+DTSTAMP:20261011T120000Z
 DTSTART;TZID=Asia/Hong_Kong:20261016T100000
 DTEND;TZID=Asia/Hong_Kong:20261016T113000
 SUMMARY:COMP 3500SEF Interim Project Report 02 - draft and submit
-DESCRIPTION:
-Intended block: open the OLE Assignment File item 'Project Logbook
- Submission (Interim Progress - 02)'\, read the brief and format\, then
- draft from it. Email from Dr Ndudi Ezeamuzie (nezeamuz@hkmu.edu.hk)\,
+DESCRIPTION:Intended block: open the OLE Assignment File item 'Project Log
+ book Submission (Interim Progress - 02)'\, read the brief and format\, th
+ en draft from it. Email from Dr Ndudi Ezeamuzie (nezeamuz@hkmu.edu.hk)\, 
  received 10 Oct 22:51 HKT: 'The submission portal for the Interim Project
- Report for Oct 15\, 2026 is now open... Deadline: Oct 19\, 2026.' The
- title says Oct 15 while the body says Oct 19\; Oct 15 is the report's
- cover date. Confirm the dropbox's own date and time when it is open. HKMU
- systems are offline from 22:00 Fri 16 Oct to 12:00 Sat 17 Oct for the
- electrical inspection\, so draft and submit before that window.
- Assessment piece 02 of the same COMP 3500SEF group project as the Interim
- Progress 01 logbook (done 4 Oct). Submitting is Benjamin's to do.
+  Report for Oct 15\, 2026 is now open... Deadline: Oct 19\, 2026.' The ti
+ tle says Oct 15 while the body says Oct 19\; Oct 15 is the report's cover
+  date. Confirm the dropbox's own date and time when it is open. HKMU syst
+ ems are offline from 22:00 Fri 16 Oct to 12:00 Sat 17 Oct for the electri
+ cal inspection\, so draft and submit before that window. Assessment piece
+  02 of the same COMP 3500SEF group project as the Interim Progress 01 log
+ book (done 4 Oct). Submitting is Benjamin's to do.
 CATEGORIES:COMP3500
 END:VEVENT
 BEGIN:VEVENT
 UID:d18b3f47a6c94e0d8b2f5c69a13e7d20@hkmu
-DTSTAMP:20261011T110829Z
+DTSTAMP:20261011T120000Z
 DTSTART;TZID=Asia/Hong_Kong:20261019T235900
 DTEND;TZID=Asia/Hong_Kong:20261019T235900
-SUMMARY:COMP 3500SEF Interim Project Report 02 - DUE Mon 19 Oct (confirm
- OLE)
-DESCRIPTION:
-Email body states 'Deadline: Oct 19\, 2026' with no time\; 23:59 is
- assumed until the OLE dropbox is read. The email title's Oct 15 is the
- report's cover date\, not a due date. Source: Dr Ndudi Ezeamuzie\, 10 Oct
- 2026 22:51 HKT.
+SUMMARY:COMP 3500SEF Interim Project Report 02 - DUE Mon 19 Oct (confirm OLE)
+DESCRIPTION:Email body states 'Deadline: Oct 19\, 2026' with no time\; 23:
+ 59 is assumed until the OLE dropbox is read. The email title's Oct 15 is 
+ the report's cover date\, not a due date. Source: Dr Ndudi Ezeamuzie\, 10
+  Oct 2026 22:51 HKT.
 CATEGORIES:COMP3500
 END:VEVENT
 END:VCALENDAR
