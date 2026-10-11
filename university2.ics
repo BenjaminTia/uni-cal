@@ -1186,4 +1186,21 @@ DESCRIPTION:Email body states 'Deadline: Oct 19\, 2026' with no time\; 23:
   Oct 2026 22:51 HKT.
 CATEGORIES:COMP3500
 END:VEVENT
+BEGIN:VEVENT
+UID:9c1f4b7ad2e34c8f9b6a05d3e7c24188@hkmu
+DTSTAMP:20261011T170434Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:HKU SPACE graduation certificate - collection window CLOSES (KEC\, Kowloon Bay)
+DESCRIPTION:Last day of the collection window. Collect in person from the 
+ KEC College Office\, 2/F Lee Shiu Building\, 28 Wang Hoi Road\, Kowloon B
+ ay\, Mon-Fri 09:30-17:00 only\, so this Wednesday is the final realistic 
+ day. 25 Dec (Christmas)\, the 26 Dec substitute holiday and 1 Jan 2027 ar
+ e all closed. Bring the 16 Sep 07:33 email plus HKID or passport\; a repr
+ esentative needs the printed authorisation form plus a copy of the ID. No
+  postal option is offered. The notice does not state what happens to an u
+ ncollected certificate after this date\; queries: Examination Team 3762 2
+ 372. Source: CC Examination Team notification 16 Sep 2026\, ref Grad_AD11
+ 3_AENG-EE-02.
+END:VEVENT
 END:VCALENDAR
