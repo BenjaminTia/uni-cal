@@ -1259,4 +1259,43 @@ DESCRIPTION:Long-term startup internships: 6+ months\, March to August\, a
  pplications from January 2027. Source: HKSTP Career Talk slides 12 Oct 20
  26.
 END:VEVENT
+BEGIN:VEVENT
+UID:dc122410a9e9bddabefa09d9934011d5@hkmu
+DTSTAMP:20261012T110729Z
+DTSTART;TZID=Asia/Hong_Kong:20261030T170000
+DTEND;TZID=Asia/Hong_Kong:20261030T170000
+SUMMARY:Hsin Chong Bursaries 2026/27 - application DUE Fri 30 Oct 17:00 (hand in at SAO A0626)
+DESCRIPTION:HK$10\,000 each\, 41 places. Submit the completed form plus all supporting documents IN PERSON to SAO\, Room A0626\, 6/F Cheng Yu Tung Building (Block A)\, by 5:00 p.m. Fri 30 Oct 2026. Min CGPA 2.0. Eligibility as stated: full-time LOCAL undergraduates facing significant financial hardship - verify first. Sender sao_sfs@hkmu.edu.hk\, received 12 Oct 17:33 HKT.
+CATEGORIES:Bursary
+URL:https://www.hkmu.edu.hk/SAO/forms/Hsin_Chong_Bursaries__GuidanceNotestoApplicants2026-27.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:b47ff052ef669e22847dd76014ddfe52@hkmu
+DTSTAMP:20261012T110729Z
+DTSTART;TZID=Asia/Hong_Kong:20261106T235900
+DTEND;TZID=Asia/Hong_Kong:20261106T235900
+SUMMARY:HKSAR SPSS 2026/27 - Talent Development Scholarship application DUE Fri 6 Nov
+DESCRIPTION:Award $10\,000 for achievements or talent in non-academic areas. CGPA of not less than 2.5/4.0 or 2.69/4.3. Deadline as stated: "6 November 2026 (Friday)" - no time given\, so 23:59 is a placeholder. The parallel Endeavour Scholarship (3 Nov) is for students with Special Educational Needs. Sender sao_sch@hkmu.edu.hk\, received 12 Oct 15:25 HKT.
+CATEGORIES:Scholarship
+URL:https://www.hkmu.edu.hk/sao/sch/ft-spss/
+END:VEVENT
+BEGIN:VEVENT
+UID:b93ff8d2f9c5e0259cfeb56309e063be@hkmu
+DTSTAMP:20261012T110729Z
+DTSTART;TZID=Asia/Hong_Kong:20261030T123000
+DTEND;TZID=Asia/Hong_Kong:20261030T140000
+SUMMARY:Physical Wellness Talk - The Heart Health Toolkit 12:30-14:00 (register by Sun 25 Oct)
+DESCRIPTION:Vibrance Hub\, 5/F Ho Sik Yee Library (JCC). Speaker Dr Nestor MUI Chun Yue\, cardiology specialist. Registration deadline "25 October 2026 (Sunday)"; quota limited\, first-come-first-served\, confirmation by 28 Oct. Register at hkmu.qualtrics.com/jfe/form/SV_1HPTgnFyWjua8EC (SAO Sports\, received 12 Oct 12:15 HKT).
+CATEGORIES:Wellness
+URL:https://hkmu.qualtrics.com/jfe/form/SV_1HPTgnFyWjua8EC
+END:VEVENT
+BEGIN:VEVENT
+UID:9861e4f2e5324a1da54202a62d629644@hkmu
+DTSTAMP:20261012T110729Z
+DTSTART;TZID=Asia/Hong_Kong:20261017T090000
+DTEND;TZID=Asia/Hong_Kong:20261017T103000
+SUMMARY:Prep: Hsin Chong bursary application - check eligibility and fill the form
+DESCRIPTION:90-minute block. Read the Guidance Notes\, confirm local-student status and the financial-hardship evidence\, fill Hsin_Chong_Bursaries_ApplicationForm2026-27.pdf and assemble the supporting documents so the in-person hand-in is not a deadline-day scramble. Added by the 12 Oct 19:00 mail scan; submitting is his.
+CATEGORIES:Bursary
+END:VEVENT
 END:VCALENDAR
