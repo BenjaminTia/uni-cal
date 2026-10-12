@@ -1304,4 +1304,23 @@ SUMMARY:Prep: Hsin Chong bursary application - check eligibility and fill the fo
 DESCRIPTION:90-minute block. Read the Guidance Notes\, confirm local-student status and the financial-hardship evidence\, fill Hsin_Chong_Bursaries_ApplicationForm2026-27.pdf and assemble the supporting documents so the in-person hand-in is not a deadline-day scramble. Added by the 12 Oct 19:00 mail scan; submitting is his.
 CATEGORIES:Bursary
 END:VEVENT
+BEGIN:VEVENT
+UID:ad20a1ed9d304e08acd99e4c66f0ce67@hkmu
+DTSTAMP:20261012T155115Z
+DTSTART;TZID=Asia/Hong_Kong:20261014T110000
+DTEND;TZID=Asia/Hong_Kong:20261014T114500
+SUMMARY:Kitty Lau - Zoom call (Techathon+ diabetic foot screening project)
+LOCATION:Zoom (online)
+DESCRIPTION:Join: https://hkmu.zoom.us/j/92161474365 | Meeting ID: 921 6147 4365. Hoste
+ d from his own HKMU Zoom account\, so he is the host and may have to admit
+  her from the waiting room. Purpose: understand the diabetic foot screenin
+ g project before deciding anything\, since he is already on Kehan's team f
+ or the same Techathon+. Ask the twelve questions in the vault prep note (T
+ echathon+ Gujizai folder\, Kitty Lau - Zoom call prep and questions): hard
+ ware existence\, what the device measures\, where the 800 and 40 percent f
+ igures come from\, ethics approval for patient data\, regulatory route\, h
+ is exact role and hours\, IP ownership\, and what happens after the compet
+ ition. Keep it to about 45 minutes and finish by asking what the next step
+  is and when she needs an answer.
+END:VEVENT
 END:VCALENDAR
