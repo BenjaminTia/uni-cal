@@ -1219,4 +1219,22 @@ DESCRIPTION:The errand itself. KEC College Office\, 2/F Lee Shiu Building
  ion exists. Queries: Examination Team 3762 2372. Printed authorisation fo
  rm saved at iCloudDrive/Downloads/HKMU/.
 END:VEVENT
+BEGIN:VEVENT
+UID:8d4b6f2190ab47c3b5e7f28c6a1d93e4@hkmu
+DTSTAMP:20261012T085139Z
+DTSTART;TZID=Asia/Hong_Kong:20261015T093000
+DTEND;TZID=Asia/Hong_Kong:20261015T164500
+SUMMARY:HKSTP x PCIM Asia 2026 - power electronics expo\, hiring + networking (Golden Egg)
+DESCRIPTION:HKSTP x PCIM Asia: Power Electronics Innovation Across Asia 20
+ 26\, Charles K. Kao Auditorium (the Golden Egg)\, HKSTP. Keynotes from Mi
+ tsubishi\, Bosch\, Infineon and STMicroelectronics. The two sessions wort
+ h attending: Talent Engagement Session 12:40-14:30 outside the Golden Egg
+  (hiring and networking\, refreshments\; Infineon\, Wurth Electronics\, S
+ tarFive\, STMicroelectronics\, Murata\, SMC Automation) and the Pitching 
+ and Networking Showcase 15:15-16:45 inside (tech demos\, startup pitches
+ \, Q&A\; Advanced Semiconductor\, Atom Semiconductor\, Dynamic Vision). R
+ egistration link read off the slide QR on 12 Oct 2026: https://pcimac.jsj
+ form.com/f/Na13xB Registration is Benjamin's to complete. Source: HKSTP C
+ areer Talk slides\, 12 Oct 2026.
+END:VEVENT
 END:VCALENDAR
