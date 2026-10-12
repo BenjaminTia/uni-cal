@@ -1237,4 +1237,26 @@ DESCRIPTION:HKSTP x PCIM Asia: Power Electronics Innovation Across Asia 20
  form.com/f/Na13xB Registration is Benjamin's to complete. Source: HKSTP C
  areer Talk slides\, 12 Oct 2026.
 END:VEVENT
+BEGIN:VEVENT
+UID:a1c9f3e70b6d42a8b7e5c40d92f18360@hkmu
+DTSTAMP:20261012T085447Z
+DTSTART;TZID=Asia/Hong_Kong:20261201T090000
+DTEND;TZID=Asia/Hong_Kong:20261201T100000
+SUMMARY:HKSTP summer internship applications OPEN (Dec 2026 - confirm exact date)
+DESCRIPTION:Slides from the HKSTP Career Talk on 12 Oct 2026: HKSTP intern
+ ship applications open December 2026\, placements run 7 to 8 weeks in sum
+ mer (timeline Dec 2026 to Jul 2027). Startup internships open January 202
+ 7 (6+ months\, Mar to Aug). Training is mostly one-off sessions on weekda
+ ys. Watch hkstp.org and join Talent Foundry for the exact dates.
+END:VEVENT
+BEGIN:VEVENT
+UID:b2d7e4a15c8f4306ab91e2d7c60f3951@hkmu
+DTSTAMP:20261012T085447Z
+DTSTART;TZID=Asia/Hong_Kong:20270104T090000
+DTEND;TZID=Asia/Hong_Kong:20270104T100000
+SUMMARY:HKSTP startup internship applications OPEN (Jan 2027 - confirm exact date)
+DESCRIPTION:Long-term startup internships: 6+ months\, March to August\, a
+ pplications from January 2027. Source: HKSTP Career Talk slides 12 Oct 20
+ 26.
+END:VEVENT
 END:VCALENDAR
