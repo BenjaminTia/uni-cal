@@ -1327,46 +1327,37 @@ CATEGORIES:Bursary
 END:VEVENT
 BEGIN:VEVENT
 UID:ad20a1ed9d304e08acd99e4c66f0ce67@hkmu
-DTSTAMP:20261013T110000Z
+DTSTAMP:20261013T130000Z
 DTSTART;TZID=Asia/Hong_Kong:20261014T110000
 DTEND;TZID=Asia/Hong_Kong:20261014T130000
 SUMMARY:Kitty Lau - Zoom call (Techathon+ diabetic foot screening project)
 DESCRIPTION:Join: https://hkmu.zoom.us/j/92161474365 | Meeting ID: 921 614
  7 4365. Hosted from his own HKMU Zoom account, so he is the host and has t
- o admit her from the waiting room. PURPOSE: decide whether there is a defi
- ned engineering opportunity worth a second conversation. Not to agree to j
- oin, and not to agree to build. BOUNDARIES: exploratory only; no undefined
-  help out role; do not imply availability for a competition roster; no pat
- ient facing work, data handling, spending or deliverables before responsib
- ilities and permissions are clear; existing programme screening is not evi
- dence that the proposed new device works. IF THE CALL IS SHORT, ASK THE SE
- VEN MUST ASKS: 1 what screening decision the device supports and what happ
- ens after the result; 2 what evidence comes from the device itself rather 
- than the programme; 5 the smallest hardware deliverable and what counts as
-  finished; 9 what data can be used now and who can authorise it; 13 whethe
- r she wants a competition member, a collaborator or someone to own the har
- dware long term; 17 can the task, ownership, credit, expenses and end poin
- t be agreed in writing first; 25 what must be finished by the January pitc
- h deadline and what can stay proposed. KEEP KEHAN OUT OF THE OPENING: rais
- e the existing team commitment only if she raises membership, registration
-  or a definite commitment, in one sentence: he already has a competition t
- eam commitment so he is not offering to join another roster, he is explori
- ng a separate, clearly scoped technical role. ROLE OPTIONS, from the offic
- ial rules: each individual may only be on one team in this edition, so thr
- ee roles exist, outside technical collaborator with no roster place, forma
- l advisor (allowed for Student Group, confirm with organisers if her team 
- is in Deep Tech and Open Group), or leaving GUJIZAI, which this call shoul
- d not drive. LAST TWO MINUTES, RECORD SIX THINGS: proposed task, current e
- vidence, responsibility, dependencies, terms, next step with an owner and 
- a date. A good first call outcome is material to review or agreement on a 
- second technical discussion. Full 28 question checklist with strong and we
- ak answers is in the vault prep note, Techathon+ Gujizai folder, Kitty Lau
-  - Zoom call prep and questions.
+ o admit her from the waiting room. Join five minutes early and test mic an
+ d camera. PURPOSE: decide whether her role for him is bigger and better th
+ an the one GUJIZAI gives him. Nothing gets agreed on the call. THE FIVE QU
+ ESTIONS THAT DECIDE IT: what would he own end to end and what is the first
+  deliverable; how many hours a week between now and January; who else is o
+ n the team today and is he the first member or the only engineer; why him 
+ specifically; and what exists today, a working device, a prototype or a de
+ sign. THE COMPARISON: role size, who sets technical direction, team maturi
+ ty, evidence behind the idea, first deliverable, hours, what he gets out o
+ f it, and risk of the team dissolving. THREE OUTCOMES: stay on GUJIZAI and
+  help from outside her roster, which is rules compatible; switch to her te
+ am, which means telling Kehan first; or decline and keep the relationship.
+  THE RULES, verbatim: each individual member can only participate in only 
+ one team in this edition, so it is a swap, not an addition. BOUNDARIES: ex
+ ploratory only, no undefined help out role, no spending, no patient facing
+  work on this call. Do not open with GUJIZAI, but answer directly if she r
+ aises the team question. RECORD SIX THINGS: her role and title, who else i
+ s on the team, what he would own, the first deliverable, hours per week, a
+ nd what exists today. Full eighteen question checklist is in the vault not
+ e, Techathon+ Gujizai folder, Kitty Lau - Zoom call prep and questions.
 LOCATION:Zoom (online)
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:Kitty Zoom in 30 min - be host, admit her, seven must asks
+DESCRIPTION:Kitty Zoom in 30 min - be host, admit her, five decision questions
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
