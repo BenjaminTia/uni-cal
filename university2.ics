@@ -1221,33 +1221,39 @@ DESCRIPTION:The errand itself. KEC College Office\, 2/F Lee Shiu Building
 END:VEVENT
 BEGIN:VEVENT
 UID:8d4b6f2190ab47c3b5e7f28c6a1d93e4@hkmu
-DTSTAMP:20261013T080000Z
+DTSTAMP:20261013T090000Z
 DTSTART;TZID=Asia/Hong_Kong:20261015T093000
 DTEND;TZID=Asia/Hong_Kong:20261015T170000
 SUMMARY:HKSTP x PCIM Asia 2026 - power electronics expo\, hiring + networking (Golden Egg)
 DESCRIPTION:HKSTP x PCIM Asia: Power Electronics Innovation Across Asia. R
- EGISTRATION CONFIRMED, confirmation no. PA265 (give this number or your fu
- ll name at on-site check-in; the badge is issued at registration). Officia
- l times from the confirmation email of 13 Oct 2026: check-in 09:30-10:00; 
- opening remarks 10:00-10:10; keynote 10:10-12:10; HKSTP CEO 12:10-12:20; p
- artnership signing 12:20-12:30; TALENT ENGAGEMENT 12:30-14:30; keynote 14:
- 30-15:15; business pitching 15:15-16:15; booth and networking 16:15-17:00.
-  Language bilingual English and Mandarin. PLAN, revised 13 Oct: he registe
- red without ticking the morning session, choosing the noon and afternoon s
- essions, so he will leave ELEC 3630 early and aims to reach the registrati
- on desk at or before 12:00, which lands the whole Talent Engagement block.
-  The reply drafted to the organiser (Candice Chen, Messe Frankfurt) gives 
- PA265, restates that the morning session was deliberately not ticked, asks
-  whether the desk can still issue the badge around noon and asks them to h
- old the seat, and says that if a noon check-in is not possible he will com
- e in the morning instead. A formal participant notice with the final agend
- a arrives by email on 14 October. Venue: Charles K. Kao Auditorium and Atr
- ium Link, Hong Kong Science Park.
-LOCATION:Charles K. Kao Auditorium and Atrium Link\, Hong Kong Science Park
+ EGISTRATION CONFIRMED, confirmation no. PA265. NOON ARRIVAL AGREED: Candic
+ e Chen replied on 13 Oct at 14:55 HKT, verbatim, "No problem. You can chec
+ k in and get your badge at noon upon arrival. We will keep your seat for t
+ he Talent Engagement session." EXACT PLACE: the venue is the Charles K. Ka
+ o Auditorium, also called the Golden Egg, at 1/F, Building 10W, 10 Science
+  Park West Avenue, Hong Kong Science Park, Pak Shek Kok, New Territories. 
+ The registration desk and badge collection are at the Atrium Link, which i
+ s the G/F entrance of Building 10W, directly under the Golden Egg. Go ther
+ e first, give the name or PA265, collect the badge, then go up to the audi
+ torium. Campus address: Hong Kong Science Park, Pak Shek Kok, New Territor
+ ies. HOW TO GET THERE: East Rail Line to University Station, then KMB 272K
+  from the University Station bus terminus to Science Park (the connection 
+ HKSTP itself recommends); other buses 272A, 272P, 272S, 272X, 43P, 43S, 74
+ D, 74P, 82C, 263A, 271B, 907D, 96 and 582 also serve the park, and a minib
+ us runs from Sha Tin MTR Station Pai Tau Street. The free InnoCentre shutt
+ le runs mornings and evenings only, so it does not help at noon. Official 
+ times: check-in 09:30-10:00; opening remarks 10:00-10:10; keynote 10:10-12
+ :10; HKSTP CEO 12:10-12:20; partnership signing 12:20-12:30; TALENT ENGAGE
+ MENT 12:30-14:30; keynote 14:30-15:15; business pitching 15:15-16:15; boot
+ h and networking 16:15-17:00. He registered without ticking the morning se
+ ssion, leaves ELEC 3630 early and aims to reach the desk at or before 12:0
+ 0. A formal participant notice with the final agenda arrives by email on 1
+ 4 October.
+LOCATION:Atrium Link\, G/F Building 10W (under the Golden Egg)\, 10 Science Park West Avenue\, Hong Kong Science Park\, Pak Shek Kok
 BEGIN:VALARM
 TRIGGER:-PT90M
 ACTION:DISPLAY
-DESCRIPTION:PCIM Asia x HKSTP today - bring confirmation no. PA265
+DESCRIPTION:PCIM Asia x HKSTP today - badge desk is Atrium Link\, G/F Building 10W\, bring PA265
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
