@@ -1319,23 +1319,37 @@ CATEGORIES:Bursary
 END:VEVENT
 BEGIN:VEVENT
 UID:ad20a1ed9d304e08acd99e4c66f0ce67@hkmu
-DTSTAMP:20261012T160209Z
+DTSTAMP:20261013T101500Z
 DTSTART;TZID=Asia/Hong_Kong:20261014T110000
 DTEND;TZID=Asia/Hong_Kong:20261014T130000
 SUMMARY:Kitty Lau - Zoom call (Techathon+ diabetic foot screening project)
-LOCATION:Zoom (online)
 DESCRIPTION:Join: https://hkmu.zoom.us/j/92161474365 | Meeting ID: 921 614
- 7 4365. Hosted from his own HKMU Zoom account\, so he is the host and may
-  have to admit her from the waiting room. Purpose: understand the diabeti
- c foot screening project before deciding anything\, since he is already o
- n Kehan's team for the same Techathon+. Ask the twelve questions in the v
- ault prep note (Techathon+ Gujizai folder\, Kitty Lau - Zoom call prep an
- d questions): hardware existence\, what the device measures\, where the 8
- 00 and 40 percent figures come from\, ethics approval for patient data\, 
- regulatory route\, his exact role and hours\, IP ownership\, and what hap
- pens after the competition. Keep it to about 45 minutes and finish by ask
- ing what the next step is and when she needs an answer. The calendar entr
- y is blocked 11:00 to 13:00 so it cannot be missed; the call itself is pl
- anned for about 45 minutes.
+ 7 4365. Hosted from his own HKMU Zoom account, so he is the host and has t
+ o admit her from the waiting room. Join five minutes early and test the mi
+ c and camera. Purpose: understand the diabetic foot screening project befo
+ re deciding anything, since he is already on Kehan's team in the same Tech
+ athon+ edition. ROLE, settled by the rules checked 13 Oct: the official jo
+ in page states that each individual member can only participate in only on
+ e team in the current edition, so he cannot be a core member of her team a
+ s well. Three roles exist: outside technical collaborator with no roster p
+ lace, which matches the real gap (device, sensors, firmware, prototype); f
+ ormal advisor, which the Student Group rules allow explicitly (research po
+ stgraduates, researchers and professors can be the team's advisors but not
+  core project members and directors), with the caveat that the clause sits
+  under Student Group so the organisers should confirm an advisor is accept
+ able if her team is in Deep Tech and Open Group; or leaving GUJIZAI to joi
+ n as a member, which this call should not drive. If he collaborates, the w
+ ork is the sensor front end, the microcontroller and display, the risk cla
+ ssifier, the enclosure and the validation record. Five things to get in wr
+ iting first: scope, credit, IP ownership, who funds parts, who holds the c
+ linical data. The vault prep note (Techathon+ Gujizai folder, Kitty Lau - 
+ Zoom call prep and questions) now carries eighteen questions, 14 to 18 bei
+ ng the role ones.
+LOCATION:Zoom (online)
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Kitty Zoom in 30 min - be host, admit her, questions 1-18
+END:VALARM
 END:VEVENT
 END:VCALENDAR
