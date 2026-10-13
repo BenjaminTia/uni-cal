@@ -1221,7 +1221,7 @@ DESCRIPTION:The errand itself. KEC College Office\, 2/F Lee Shiu Building
 END:VEVENT
 BEGIN:VEVENT
 UID:8d4b6f2190ab47c3b5e7f28c6a1d93e4@hkmu
-DTSTAMP:20261013T070000Z
+DTSTAMP:20261013T080000Z
 DTSTART;TZID=Asia/Hong_Kong:20261015T093000
 DTEND;TZID=Asia/Hong_Kong:20261015T170000
 SUMMARY:HKSTP x PCIM Asia 2026 - power electronics expo\, hiring + networking (Golden Egg)
@@ -1232,17 +1232,17 @@ DESCRIPTION:HKSTP x PCIM Asia: Power Electronics Innovation Across Asia. R
  opening remarks 10:00-10:10; keynote 10:10-12:10; HKSTP CEO 12:10-12:20; p
  artnership signing 12:20-12:30; TALENT ENGAGEMENT 12:30-14:30; keynote 14:
  30-15:15; business pitching 15:15-16:15; booth and networking 16:15-17:00.
-  Language bilingual English and Mandarin. PLAN: ELEC 3630 runs until 11:50
- , leave campus immediately, arrive about 12:40 and go straight to the regi
- stration desk, which still lands the whole Talent Engagement block. The em
- ail states check-in is 09:30-10:00 and that seating is subject to venue ca
- pacity, so a reply is drafted to the organiser (Candice Chen, Messe Frankf
- urt) confirming the noon arrival, asking whether the desk can still issue 
- the badge at that time and asking them to hold the seat. A formal particip
- ant notice with the final agenda arrives by email on 14 October. If he can
- not attend at all, the organisers ask for a reply email so the seat is rel
- eased. Venue: Charles K. Kao Auditorium and Atrium Link, Hong Kong Science
-  Park.
+  Language bilingual English and Mandarin. PLAN, revised 13 Oct: he registe
+ red without ticking the morning session, choosing the noon and afternoon s
+ essions, so he will leave ELEC 3630 early and aims to reach the registrati
+ on desk at or before 12:00, which lands the whole Talent Engagement block.
+  The reply drafted to the organiser (Candice Chen, Messe Frankfurt) gives 
+ PA265, restates that the morning session was deliberately not ticked, asks
+  whether the desk can still issue the badge around noon and asks them to h
+ old the seat, and says that if a noon check-in is not possible he will com
+ e in the morning instead. A formal participant notice with the final agend
+ a arrives by email on 14 October. Venue: Charles K. Kao Auditorium and Atr
+ ium Link, Hong Kong Science Park.
 LOCATION:Charles K. Kao Auditorium and Atrium Link\, Hong Kong Science Park
 BEGIN:VALARM
 TRIGGER:-PT90M
