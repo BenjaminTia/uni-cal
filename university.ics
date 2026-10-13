@@ -985,7 +985,15 @@ DTSTAMP:20261002T131757Z
 DTSTART;TZID=Asia/Hong_Kong:20261020T235900
 DTEND;TZID=Asia/Hong_Kong:20261020T235900
 SUMMARY:COMP 3500SEF Assignment 1 (Requirement Engineering) — DUE 20 Oct
-DESCRIPTION:Individual work: one PDF spec (<=1200 words) for the project where his team was the engineering side (Benjamin confirmed Team A: MIL (Insurance Claim App)), plus a <=1000-character reflection and an evidence link on the MS form. Group must split into Team A and Team B, run the client meetings, and record them in English with student IDs visible. Written independently, copying is plagiarism.
+DESCRIPTION:OLE due-date alert received 13 Oct 2026 06:35 HKT (noreply@hkm
+ u.edu.hk), verbatim: "We would like to remind you that the due date for A
+ ssignment Assign 1 is 20-10-2026 ( Tue ) ." No OLE receipt ("Receipt of a
+ ssignment") exists for COMP 3500SEF, so nothing is submitted yet. Individ
+ ual work: one PDF spec (<=1200 words) for the project where his team was 
+ the engineering side (Team A: MIL (Insurance Claim App)), plus a <=1000-c
+ haracter reflection and an evidence link on the MS form. Group must run a
+ nd record the client meetings in English with student IDs visible. Writte
+ n independently, copying is plagiarism.
 END:VEVENT
 BEGIN:VEVENT
 UID:4e442404b1291ed5f27950c2448d30b1@hkmu
@@ -1360,5 +1368,25 @@ TRIGGER:-PT30M
 ACTION:DISPLAY
 DESCRIPTION:Kitty Zoom in 30 min - be host, admit her, seven must asks
 END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aeea396ed6d51bd4cfcfa63c4d30d96b@hkmu
+DTSTAMP:20261013T111029Z
+DTSTART;TZID=Asia/Hong_Kong:20261111T235900
+DTEND;TZID=Asia/Hong_Kong:20261111T235900
+SUMMARY:For Our Future Scholarship 2026/27 - application DUE Wed 11 Nov
+DESCRIPTION:HK$50,000 each, 15 awardees across 13 Hong Kong institutions, 
+ no fixed quota per institution. Apply through the MyHKMU student portal (
+ info sheet linked). Deadline as stated: "Application Deadline: 11 Novembe
+ r 2026 (Wednesday) [for HKMU students only]"; no time given, so 23:59 is 
+ a placeholder. Eligibility as stated: full-time LOCAL student; at least o
+ ne year of bachelor's study completed; aged 18-30; CGPA "not less than 3.
+ 3 out of 4.0, or 3.5 out of 4.3 (of the last academic year)"; distinctive
+  performance in academic projects and in social services. VERIFY the CGPA
+  and local-student bars on MyHKMU FIRST - the last known HKMU figure is w
+ ell below 3.3. Sender sao_sch@hkmu.edu.hk, received 13 Oct 2026 09:58 HKT
+ .
+CATEGORIES:Scholarship
+URL:https://www.hkmu.edu.hk/SAO/Scholarship/Information_Sheet_FOF.pdf
 END:VEVENT
 END:VCALENDAR
