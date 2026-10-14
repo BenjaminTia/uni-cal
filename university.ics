@@ -9,7 +9,38 @@ DTSTAMP:20261010T141207Z
 DTSTART;TZID=Asia/Hong_Kong:20261015T170000
 DTEND;TZID=Asia/Hong_Kong:20261015T180000
 SUMMARY:COMP 3500 - Zoom meeting (class assignment) 17:00
-DESCRIPTION:COMP 3500SEF Software Engineering. Zoom meeting for the class assignment at 17:00 (5 pm). End time assumed 18:00 - confirm. Link not yet recorded. Ties to the Requirement Engineering assignment (OLE Assign 2\, DUE Tue 20 Oct) and the group project (50% of the course). Thu class is ELEC 3630 09:00-11:50\; yoga workshop option starts 18:00.
+DESCRIPTION:HKSTP x PCIM Asia 2026. REGISTRATION CONFIRMED\, confirmation no. PA265. 
+ NOON ARRIVAL AGREED: Candice Chen (Messe Frankfurt) replied 13 Oct 14:55
+  HKT\, verbatim\, "No problem. You can check in and get your badge at no
+ on upon arrival. We will keep your seat for the Talent Engagement sessio
+ n." OFFICIAL PARTICIPANT NOTICE arrived 14 Oct 12:37 HKT: check-in 09:30
+ -10:00 at G/F Building 10W\, badge issued on site against your registere
+ d full name or the confirmation number\, badge must be worn in the audit
+ orium and exhibition area and is NON-TRANSFERABLE\, event hours 10:00-17
+ :00\, bilingual English and Mandarin. The notice also warns seating is f
+ irst-come-first-served\, so noon is permission to arrive\, not a guarant
+ eed seat\; carry Candice's reply and answer from that thread if the desk
+  queries it. HOW TO GET THERE (notice wording): MTR to University Statio
+ n then bus 272K to Hong Kong Science Park\, or minibus 27 from MTR Sha T
+ in Station\; by car via Tolo Highway with over 1500 paid parking spaces 
+ on site including EV charging. Place: Charles K. Kao Auditorium (the Gol
+ den Egg)\, Hong Kong Science Park\, Pak Shek Kok\, Sha Tin\; registratio
+ n and badge collection at G/F\, Building 10W\, directly under the audito
+ rium. OFFICIAL PROGRAMME: 09:30-10:00 registration\; 10:00-10:10 opening
+  remarks (Mr Richard Li\, Messe Frankfurt HK)\; 10:10-10:30 keynote Gaoq
+ ing Song\, Mitsubishi Electric\; 10:30-10:50 keynote Kim Wang\, Infineon
+ \; 10:50-11:10 keynote Liyuan Ran\, Bosch\; 11:10-11:30 keynote Joe Guo\
+ , STMicroelectronics\; 11:30-12:10 panel discussion with joint universit
+ ies\; 12:10-12:20 HKSTP CEO speech\; 12:20-12:30 HKSTP and PCIM partners
+ hip signing\; 12:30-14:30 TALENT ENGAGEMENT (the session the seat is hel
+ d for)\; 14:30-14:45 keynote Devin Gu\, Murata\; 14:45-15:00 keynote Tim
+  Wong\, SMC Automation\; 15:00-15:15 keynote Barry Mok\, VTech\; 15:15-1
+ 6:15 business pitching\; 16:15-17:00 booth communication and networking.
+  Recording presentations is prohibited without consent\; personal photos
+  for non-commercial use only. Notice PDF filed in the vault beside the e
+ vent note (17 Events/PCIM Asia x HKSTP - Participant Notice (14 Oct 2026
+ ).pdf) and in Downloads/pcim-asia-15oct/.
+
 END:VEVENT
 BEGIN:VEVENT
 UID:6658ef7e2bfc431aa9f15c8ff8bac221@hkmu
@@ -1270,7 +1301,7 @@ DESCRIPTION:HKSTP x PCIM Asia: Power Electronics Innovation Across Asia. R
  g Science Park\, Pak Shek KokBEGIN:VALARMTRIGGER:-PT90MACTION:DISPLAYDESC
  RIPTION:PCIM Asia x HKSTP today - badge desk is Atrium Link\, G/F Buildin
  g 10W\, bring PA265END:VALARM
-END:VEVENT
+
 BEGIN:VEVENT
 UID:a1c9f3e70b6d42a8b7e5c40d92f18360@hkmu
 DTSTAMP:20261012T085447Z
