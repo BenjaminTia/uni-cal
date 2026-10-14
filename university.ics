@@ -9,38 +9,7 @@ DTSTAMP:20261010T141207Z
 DTSTART;TZID=Asia/Hong_Kong:20261015T170000
 DTEND;TZID=Asia/Hong_Kong:20261015T180000
 SUMMARY:COMP 3500 - Zoom meeting (class assignment) 17:00
-DESCRIPTION:HKSTP x PCIM Asia 2026. REGISTRATION CONFIRMED\, confirmation no. PA265. 
- NOON ARRIVAL AGREED: Candice Chen (Messe Frankfurt) replied 13 Oct 14:55
-  HKT\, verbatim\, "No problem. You can check in and get your badge at no
- on upon arrival. We will keep your seat for the Talent Engagement sessio
- n." OFFICIAL PARTICIPANT NOTICE arrived 14 Oct 12:37 HKT: check-in 09:30
- -10:00 at G/F Building 10W\, badge issued on site against your registere
- d full name or the confirmation number\, badge must be worn in the audit
- orium and exhibition area and is NON-TRANSFERABLE\, event hours 10:00-17
- :00\, bilingual English and Mandarin. The notice also warns seating is f
- irst-come-first-served\, so noon is permission to arrive\, not a guarant
- eed seat\; carry Candice's reply and answer from that thread if the desk
-  queries it. HOW TO GET THERE (notice wording): MTR to University Statio
- n then bus 272K to Hong Kong Science Park\, or minibus 27 from MTR Sha T
- in Station\; by car via Tolo Highway with over 1500 paid parking spaces 
- on site including EV charging. Place: Charles K. Kao Auditorium (the Gol
- den Egg)\, Hong Kong Science Park\, Pak Shek Kok\, Sha Tin\; registratio
- n and badge collection at G/F\, Building 10W\, directly under the audito
- rium. OFFICIAL PROGRAMME: 09:30-10:00 registration\; 10:00-10:10 opening
-  remarks (Mr Richard Li\, Messe Frankfurt HK)\; 10:10-10:30 keynote Gaoq
- ing Song\, Mitsubishi Electric\; 10:30-10:50 keynote Kim Wang\, Infineon
- \; 10:50-11:10 keynote Liyuan Ran\, Bosch\; 11:10-11:30 keynote Joe Guo\
- , STMicroelectronics\; 11:30-12:10 panel discussion with joint universit
- ies\; 12:10-12:20 HKSTP CEO speech\; 12:20-12:30 HKSTP and PCIM partners
- hip signing\; 12:30-14:30 TALENT ENGAGEMENT (the session the seat is hel
- d for)\; 14:30-14:45 keynote Devin Gu\, Murata\; 14:45-15:00 keynote Tim
-  Wong\, SMC Automation\; 15:00-15:15 keynote Barry Mok\, VTech\; 15:15-1
- 6:15 business pitching\; 16:15-17:00 booth communication and networking.
-  Recording presentations is prohibited without consent\; personal photos
-  for non-commercial use only. Notice PDF filed in the vault beside the e
- vent note (17 Events/PCIM Asia x HKSTP - Participant Notice (14 Oct 2026
- ).pdf) and in Downloads/pcim-asia-15oct/.
-
+DESCRIPTION:COMP 3500SEF Software Engineering. Zoom meeting for the class assignment at 17:00 (5 pm). End time assumed 18:00 - confirm. Link not yet recorded. Ties to the Requirement Engineering assignment (OLE Assign 2\, DUE Tue 20 Oct) and the group project (50% of the course). Thu class is ELEC 3630 09:00-11:50\; yoga workshop option starts 18:00.
 END:VEVENT
 BEGIN:VEVENT
 UID:6658ef7e2bfc431aa9f15c8ff8bac221@hkmu
@@ -1264,44 +1233,37 @@ DTSTAMP:20261013T090000Z
 DTSTART;TZID=Asia/Hong_Kong:20261015T093000
 DTEND;TZID=Asia/Hong_Kong:20261015T170000
 SUMMARY:HKSTP x PCIM Asia 2026 - power electronics expo\, hiring + networking (Golden Egg)
-DESCRIPTION:HKSTP x PCIM Asia: Power Electronics Innovation Across Asia. R
- EGISTRATION CONFIRMED, confirmation no. PA265. NOON ARRIVAL AGREED: Candi
- ce Chen replied on 13 Oct at 14:55 HKT, verbatim, "No problem. You can ch
- eck in and get your badge at noon upon arrival. We will keep your seat fo
- r the Talent Engagement session." EXACT PLACE: the venue is the Charles K
- . Kao Auditorium, also called the Golden Egg, at 1/F, Building 10W, 10 Sc
- ience Park West Avenue, Hong Kong Science Park, Pak Shek Kok, New Territo
- ries. The registration desk and badge collection are at the Atrium Link, 
- which is the G/F entrance of Building 10W, directly under the Golden Egg.
-  Go there first, give the name or PA265, collect the badge, then go up to
-  the auditorium. Campus address: Hong Kong Science Park, Pak Shek Kok, Ne
- w Territories. HOW TO GET THERE: East Rail Line to University Station, th
- en KMB 272K from the University Station bus terminus to Science Park (the
-  connection HKSTP itself recommends); other buses 272A, 272P, 272S, 272X,
-  43P, 43S, 74D, 74P, 82C, 263A, 271B, 907D, 96 and 582 also serve the par
- k, and a minibus runs from Sha Tin MTR Station Pai Tau Street. The free I
- nnoCentre shuttle runs mornings and evenings only, so it does not help at
-  noon. Official times: check-in 09:30-10:00; opening remarks 10:00-10:10;
-  keynote 10:10-12:10; HKSTP CEO 12:10-12:20; partnership signing 12:20-12
- :30; TALENT ENGAGEMENT 12:30-14:30; keynote 14:30-15:15; business pitchin
- g 15:15-16:15; booth and networking 16:15-17:00. He registered without ti
- cking the morning session, leaves ELEC 3630 early and aims to reach the d
- esk at or before 12:00. PARTICIPANT NOTICE ARRIVED 14 Oct 2026 at 12:37 H
- KT (Candice Chen\, subject Participant Notice 参会须知): it repeats check-in 
- 09:30-10:00 at the Charles K. Kao Auditorium\, badge issued on site again
- st your registered full name or confirmation number\, and warns "Seating 
- is first-come-first-served\, early arrival is recommended" — so the noon 
- slot is permission to arrive\, not a guaranteed seat. That official 09:30
- -10:00 window collides with the ELEC 3630SEF lecture (09:00-11:50) and wi
- th Candice's own written answer above\, so keep the noon plan and carry h
- er 13 Oct reply; if the desk queries a noon check-in\, reply in that thre
- ad instead of queueing at 09:30. The notice also asks anyone who cannot a
- ttend to reply so the seat can be released.LOCATION:Atrium Link\, G/F Bui
- lding 10W (under the Golden Egg)\, 10 Science Park West Avenue\, Hong Kon
- g Science Park\, Pak Shek KokBEGIN:VALARMTRIGGER:-PT90MACTION:DISPLAYDESC
- RIPTION:PCIM Asia x HKSTP today - badge desk is Atrium Link\, G/F Buildin
- g 10W\, bring PA265END:VALARM
-
+DESCRIPTION:HKSTP x PCIM Asia 2026. REGISTRATION CONFIRMED\, confirmation no. PA265. 
+ NOON ARRIVAL AGREED: Candice Chen (Messe Frankfurt) replied 13 Oct 14:55
+  HKT\, verbatim\, "No problem. You can check in and get your badge at no
+ on upon arrival. We will keep your seat for the Talent Engagement sessio
+ n." OFFICIAL PARTICIPANT NOTICE arrived 14 Oct 12:37 HKT: check-in 09:30
+ -10:00 at G/F Building 10W\, badge issued on site against your registere
+ d full name or the confirmation number\, badge must be worn in the audit
+ orium and exhibition area and is NON-TRANSFERABLE\, event hours 10:00-17
+ :00\, bilingual English and Mandarin. The notice also warns seating is f
+ irst-come-first-served\, so noon is permission to arrive\, not a guarant
+ eed seat\; carry Candice's reply and answer from that thread if the desk
+  queries it. HOW TO GET THERE (notice wording): MTR to University Statio
+ n then bus 272K to Hong Kong Science Park\, or minibus 27 from MTR Sha T
+ in Station\; by car via Tolo Highway with over 1500 paid parking spaces 
+ on site including EV charging. Place: Charles K. Kao Auditorium (the Gol
+ den Egg)\, Hong Kong Science Park\, Pak Shek Kok\, Sha Tin\; registratio
+ n and badge collection at G/F\, Building 10W\, directly under the audito
+ rium. OFFICIAL PROGRAMME: 09:30-10:00 registration\; 10:00-10:10 opening
+  remarks (Mr Richard Li\, Messe Frankfurt HK)\; 10:10-10:30 keynote Gaoq
+ ing Song\, Mitsubishi Electric\; 10:30-10:50 keynote Kim Wang\, Infineon
+ \; 10:50-11:10 keynote Liyuan Ran\, Bosch\; 11:10-11:30 keynote Joe Guo\
+ , STMicroelectronics\; 11:30-12:10 panel discussion with joint universit
+ ies\; 12:10-12:20 HKSTP CEO speech\; 12:20-12:30 HKSTP and PCIM partners
+ hip signing\; 12:30-14:30 TALENT ENGAGEMENT (the session the seat is hel
+ d for)\; 14:30-14:45 keynote Devin Gu\, Murata\; 14:45-15:00 keynote Tim
+  Wong\, SMC Automation\; 15:00-15:15 keynote Barry Mok\, VTech\; 15:15-1
+ 6:15 business pitching\; 16:15-17:00 booth communication and networking.
+  Recording presentations is prohibited without consent\; personal photos
+  for non-commercial use only. Notice PDF filed in the vault beside the e
+ vent note and in Downloads.
+END:VEVENT
 BEGIN:VEVENT
 UID:a1c9f3e70b6d42a8b7e5c40d92f18360@hkmu
 DTSTAMP:20261012T085447Z
