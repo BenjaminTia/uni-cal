@@ -1453,4 +1453,71 @@ DESCRIPTION:COMP 3500SEF Assignment 1 (Requirement Engineering). Draft the MIL I
  orm link. Note: Assignment 1 - Requirement Engineering (the brief and th
  e plan).
 END:VEVENT
+BEGIN:VEVENT
+UID:03ef34d2f42e7a2e7f2967eb8d2e5aab@hkmu
+DTSTAMP:20261015T110900Z
+DTSTART;TZID=Asia/Hong_Kong:20261019T235900
+DTEND;TZID=Asia/Hong_Kong:20261019T235900
+SUMMARY:SAO Volunteer (AMS Ocean Park seniors trip) - registration DUE Mon 19 Oct
+DESCRIPTION:SAO Student Community Engagement saoce@hkmu.edu.hk\, received 
+ 15 Oct 16:42 HKT. Verbatim: "Registration Deadline: 19 October 2026 (Mond
+ ay)\, 11:59 pm". Event Sat 7 Nov 2026 08:00-13:30 at Ocean Park\; Cantone
+ se\; quota 10 HKMU students\; HK$50 deposit refunded within a month after
+  the event\; 3 recognised engagement hours\; results emailed 20 Oct. Regi
+ ster hkmu.qualtrics.com/jfe/form/SV_0umoH2LYNmcCmtU. Registering is his.
+CATEGORIES:SAO/Volunteer
+URL:https://hkmu.qualtrics.com/jfe/form/SV_0umoH2LYNmcCmtU
+END:VEVENT
+BEGIN:VEVENT
+UID:d60828e88a3f18f65c0b3385d260726c@hkmu
+DTSTAMP:20261015T110900Z
+DTSTART;TZID=Asia/Hong_Kong:20261021T235900
+DTEND;TZID=Asia/Hong_Kong:20261021T235900
+SUMMARY:SAO Fitness Introductory Course (non-local students) - registration DUE Wed 21 Oct
+DESCRIPTION:SAO Sports and Physical Education saosw@hkmu.edu.hk\, subject 
+ Fitness Introductory Course for Non-local Students (English) - Nov 2026\,
+  received 15 Oct 15:32 HKT. Verbatim: "Registration period: 15 Oct - 21 O
+ ct 2026". Course Sat 7 Nov 2026\; Class A theory 10:00-11:00 and practica
+ l 11:00-13:00\; Class B theory 14:00-15:00 and practical 15:00-17:00. HK$
+ 50\; full-time non-local undergraduates\; quota first-come-first-served w
+ ith priority to non-local students. Finishing FIC is what makes him eligi
+ ble to register as a user of the HKMU Gymnasium and the LCSD fitness room
+ s. It clashes with the AMS Ocean Park volunteer run that morning\, so Cla
+ ss B is the one that fits both. Register hkmu.qualtrics.com/jfe/form/SV_b
+ 7x9c4YoHepXsXQ. Registering is his.
+CATEGORIES:SAO/Sports
+URL:https://hkmu.qualtrics.com/jfe/form/SV_b7x9c4YoHepXsXQ
+END:VEVENT
+BEGIN:VEVENT
+UID:911c3172b11ad80b0d95222a105752c3@hkmu
+DTSTAMP:20261015T110900Z
+DTSTART;TZID=Asia/Hong_Kong:20261021T235900
+DTEND;TZID=Asia/Hong_Kong:20261021T235900
+SUMMARY:Language Centre Cantonese coffee workshop - registration DUE Wed 21 Oct
+DESCRIPTION:Language Centre lc2@hkmu.edu.hk\, subject Cantonese thematic w
+ orkshops - 2026 autumn term (week 4 of October)\, received 15 Oct 11:43 a
+ nd 12:11 HKT (two copies of the same mail). Verbatim: registration closin
+ g date 21 October 2026. Workshop Fri 23 Oct 14:00-16:00\, Room A0411\, Ma
+ in Campus\; free\; 30 places\; buying coffee in Cantonese\, coffee tastin
+ g and a French-press pour-over tasting. Register on ERS eid=010762. Regis
+ tering is his.
+CATEGORIES:Language Centre
+URL:https://student.intranet.hkmu.edu.hk/ers/prod/ERS_detail.jsp?eid=010762&lang=eng&mode=all
+END:VEVENT
+BEGIN:VEVENT
+UID:b70d4fb8716390fe81e230ac8bc7f8fc@hkmu
+DTSTAMP:20261015T110900Z
+DTSTART;TZID=Asia/Hong_Kong:20261028T235900
+DTEND;TZID=Asia/Hong_Kong:20261028T235900
+SUMMARY:PMIHK Project Management Case Competition 2027 - application DUE Wed 28 Oct
+DESCRIPTION:SAO Student Career Development career@hkmu.edu.hk\, subject PM
+ IHK Student Club - Project Management Case Competition 2027\, received 15
+  Oct 15:28 HKT. Verbatim: "Application period: 7-28 October 2026". Fee HK
+ $250 per group application or HK$50 per individual\; four-month programme
+  with coaching and workshops\; HK$5\,000 champion prize. Apply shorturl.a
+ t/p7gj4. Business/project-management track rather than his engineering la
+ ne. Applying is his.
+CATEGORIES:Career
+URL:https://shorturl.at/p7gj4
+END:VEVENT
 END:VCALENDAR
