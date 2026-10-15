@@ -1433,4 +1433,24 @@ DESCRIPTION:Kitty's diabetic foot screening project: call with Kitty and the pro
  ue 20 Oct and the assessment modules. Prep note: Kitty plus the programm
  er — Sunday 18 Oct call prep.
 END:VEVENT
+BEGIN:VEVENT
+UID:2165683c9b0541c29c3ea390b49e0fe6@hkmu
+DTSTAMP:20261015T120000Z
+DTSTART;TZID=Asia/Hong_Kong:20261017T150000
+DTEND;TZID=Asia/Hong_Kong:20261017T173000
+SUMMARY:COMP 3500SEF A1 - draft the MIL specification (1200 words)
+DESCRIPTION:COMP 3500SEF Assignment 1 (Requirement Engineering). Draft the MIL Insura
+ nce Claim App specification\, not more than 1200 words\, written indepen
+ dently. Word budget: introduction and scope 120\, purpose and glossary 8
+ 0\, stakeholders 100\, functional requirements 400\, non-functional requ
+ irements 250 classified as product\, organisational and external\, domai
+ n requirements 120 on PDPO and retention\, interfaces and data 100\, con
+ straints and assumptions 80\, acceptance and open questions 50. Structur
+ e it on the Lecture 4 document structure with the Mentcare document as t
+ he model. Local writing\, so the OLE outage does not matter. Remaining a
+ fter this block: finalise the PDF\, write the reflection of 1000 charact
+ ers\, confirm the evidence link opens for a stranger\, and find the MS F
+ orm link. Note: Assignment 1 - Requirement Engineering (the brief and th
+ e plan).
+END:VEVENT
 END:VCALENDAR
