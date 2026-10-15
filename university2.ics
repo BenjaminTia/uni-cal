@@ -1411,4 +1411,26 @@ DESCRIPTION:University-wide scholarship for a study-abroad year or semeste
 CATEGORIES:Scholarship
 URL:https://www.hkmu.edu.hk/SAO/Scholarship/Information_Sheet_HSBC_Global.pdf
 END:VEVENT
+BEGIN:VEVENT
+UID:b9e30407f2f4454cb8d42a9b14759bb4@hkmu
+DTSTAMP:20261015T100000Z
+DTSTART;TZID=Asia/Hong_Kong:20261018T140000
+DTEND;TZID=Asia/Hong_Kong:20261018T160000
+SUMMARY:Kitty + programmer call - Sunday afternoon (TIME TBC)
+DESCRIPTION:Kitty's diabetic foot screening project: call with Kitty and the programm
+ er she mentioned. AFTERNOON\, EXACT TIME NOT CONFIRMED: ask Kitty. Purpo
+ se from his side is to learn how the software side works so the hardware
+  fits it\, not to present or commit. Five questions for the programmer: 
+ what runs on the device versus the cloud\; what language and framework a
+ nd whether code already exists\; how the device talks to the software (B
+ luetooth\, serial\, Wi-Fi\, HTTP) and at what data rate\; what the softw
+ are needs the hardware to produce and in what format\; and where measure
+ ments go\, who can see them\, and what must stay on the device for priva
+ cy. Four asks for Kitty in the same call: a schedule of his pre-existing
+  work so it stays his\; the IP assignment limited to credited deliverabl
+ es with a credit line\; the non-compete narrowed or dropped\; and a mutu
+ al or capped indemnity. Bring back the Sham Shui Po screening time for T
+ ue 20 Oct and the assessment modules. Prep note: Kitty plus the programm
+ er — Sunday 18 Oct call prep.
+END:VEVENT
 END:VCALENDAR
