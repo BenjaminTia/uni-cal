@@ -1520,4 +1520,41 @@ DESCRIPTION:SAO Student Career Development career@hkmu.edu.hk\, subject PM
 CATEGORIES:Career
 URL:https://shorturl.at/p7gj4
 END:VEVENT
+BEGIN:VEVENT
+UID:2f9c0b538578a5596b8091ed9301d1de@hkmu
+DTSTAMP:20261016T110601Z
+DTSTART;TZID=Asia/Hong_Kong:20261026T235900
+DTEND;TZID=Asia/Hong_Kong:20261026T235900
+SUMMARY:Student Helper recruitment InfoDay 2026 (REG) - application DUE Mo
+ n 26 Oct
+DESCRIPTION:HKMU SAO career@hkmu.edu.hk\, subject "[每週就業資訊] Career Weekly 
+ Update: Job Opportunities & Other External Opportunities"\, received 16 O
+ ct 17:24 HKT. On-campus engagement row: Engagement ID 000000001478\, requ
+ ested department REG\, "Recruitment of Student Helper for InfoDay 2026"\,
+  subsidy HK$75/hour\, application deadline 26/10/2026 (the digest gives a
+  date only\, no time\, so 23:59 is used). Paid on-campus work. Apply thro
+ ugh the Internship Lab 2.0 on-campus opportunities page: hkmu.edu.hk/sao/
+ career/internships-industry-projects/internship-lab-2-0-on-campus-opportu
+ nities/ . Submitting is his.
+CATEGORIES:SAO/Career
+URL:https://www.hkmu.edu.hk/sao/career/internships-industry-projects/internship-lab-2-0-on-campus-opportunities/
+END:VEVENT
+BEGIN:VEVENT
+UID:03c992510350a0d3d10a0fbbfa13fadf@hkmu
+DTSTAMP:20261016T110601Z
+DTSTART;TZID=Asia/Hong_Kong:20261104T235900
+DTEND;TZID=Asia/Hong_Kong:20261104T235900
+SUMMARY:SAO Career "Job Search 101" workshop (non-local students) - regist
+ ration DUE Wed 4 Nov
+DESCRIPTION:HKMU SAO (Career Development) career@hkmu.edu.hk\, subject "[D
+ on't Miss Out!] Job Search 101: Your Guide to Getting a Job in Hong Kong"
+ \, received 16 Oct 10:36 HKT. Verbatim: "Application deadline 4 Nov (Wed)
+ ". Workshop itself: 9 Nov (Mon) 14:00-15:30\, Active Learning Space\, 1/F
+  Stanley Ho Library\, Main Campus\; free of charge with a HK$50 deposit (
+ refunded on attendance or non-selection)\; tailor-made for non-local stud
+ ents\; recognised by the Metro FAITH Scheme\, 2 engagement hours. Registe
+ r hkmu.qualtrics.com/jfe/form/SV_d5PjjqhrXHNOioK. Registering is his.
+CATEGORIES:SAO/Career
+URL:https://hkmu.qualtrics.com/jfe/form/SV_d5PjjqhrXHNOioK
+END:VEVENT
 END:VCALENDAR
