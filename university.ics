@@ -94,11 +94,7 @@ DTEND;TZID=Asia/Hong_Kong:20260927T173000
 
 SUMMARY:UNI 2002BEW: Units 1-2 progress check - Unit 3 not yet released (W1 due 26 Oct)
 
-DESCRIPTION:Updated 27 Sep 2026: only Units 1 (communication) and 2 (tea
- m formation) have been released so far\; Unit 3 (virtual teams) is not 
- out yet. Confirm all Unit 1 and Unit 2 assigned activities + quizzes ar
- e done\, then watch OLE for Unit 3. All released activities must be com
- plete before Worksheet 1\, due Mon 26 Oct 17:00.
+DESCRIPTION:Updated 27 Sep 2026: only Units 1 (communication) and 2 (team formation) have been released so far\; Unit 3 (virtual teams) is not out yet. Confirm all Unit 1 and Unit 2 assigned activities + quizzes are done\, then watch OLE for Unit 3. All released activities must be complete before Worksheet 1\, due Mon 26 Oct 17:00.
 
 END:VEVENT
 BEGIN:VEVENT
@@ -114,13 +110,7 @@ DTEND;TZID=Asia/Hong_Kong:20260912T170000
 SUMMARY:Wireshark mastery session Sat (networking + cyber security)
 
 
-DESCRIPTION:Chris Greer (the field's Wireshark teacher): beginners tutor
- ial https://www.youtube.com/watch?v=OU-A2EmVrKQ | DNS captured https://
- www.youtube.com/watch?v=fRRR0sU0BnY\nOfficial lab sheets: https://gaia.
- cs.umass.edu/kurose_ross/wireshark.php\nReal captures to practise on: h
- ttps://wiki.wireshark.org/SampleCaptures\nTarget: filters\, Follow Stre
- am\, Protocol Hierarchy\, tshark\, replay UnknownAttack.pcap cold\, own
-  live capture\, cheat sheet from memory.
+DESCRIPTION:Chris Greer (the field's Wireshark teacher): beginners tutorial https://www.youtube.com/watch?v=OU-A2EmVrKQ | DNS captured https://www.youtube.com/watch?v=fRRR0sU0BnY\nOfficial lab sheets: https://gaia.cs.umass.edu/kurose_ross/wireshark.php\nReal captures to practise on: https://wiki.wireshark.org/SampleCaptures\nTarget: filters\, Follow Stream\, Protocol Hierarchy\, tshark\, replay UnknownAttack.pcap cold\, own live capture\, cheat sheet from memory.
 END:VEVENT
 BEGIN:VEVENT
 UID:b955eab1251dab744867d9580896cf38@hkmu
@@ -129,30 +119,6 @@ DTSTART;TZID=Asia/Hong_Kong:20260916T110000
 DTEND;TZID=Asia/Hong_Kong:20260916T113000
 SUMMARY:DUE: AI Builders (SmartQS Copilot) submission 11:00
 DESCRIPTION:Devpost submission + demo video (3-5 min) + repo BenjaminTia/SmartQS-Copilot.
-END:VEVENT
-BEGIN:VEVENT
-UID:4e3a794d81c5cc4d4423040074e58c82@hkmu
-DTSTAMP:20260910T200000Z
-DTSTART;TZID=Asia/Hong_Kong:20261004T100000
-DTEND;TZID=Asia/Hong_Kong:20261004T120000
-SUMMARY:DEC: finish Modules 1-2 (⚠️ access still locked)
-DESCRIPTION:Registered 7 Sep. Module 6 must be done before Worksheet 1 Task A (26 Oct).
-END:VEVENT
-BEGIN:VEVENT
-UID:971b3de80b92815a7dc70e70d0cc3275@hkmu
-DTSTAMP:20260910T200000Z
-DTSTART;TZID=Asia/Hong_Kong:20261018T100000
-DTEND;TZID=Asia/Hong_Kong:20261018T120000
-SUMMARY:DEC: finish Modules 3-4
-DESCRIPTION:Keep ahead of the 26 Oct Worksheet 1.
-END:VEVENT
-BEGIN:VEVENT
-UID:13d4a7956f557d03d885936caf92f64e@hkmu
-DTSTAMP:20260910T200000Z
-DTSTART;TZID=Asia/Hong_Kong:20261025T100000
-DTEND;TZID=Asia/Hong_Kong:20261025T130000
-SUMMARY:DEC: finish Modules 5-6 (gates Worksheet 1 Task A)
-DESCRIPTION:Module 6 completion is required for Task A of Worksheet 1, due 26 Oct 17:00.
 END:VEVENT
 BEGIN:VEVENT
 UID:0e658adfb9c7c886ef1c1af95ca753f4@hkmu
@@ -185,11 +151,7 @@ DTSTART;TZID=Asia/Hong_Kong:20260910T210000
 DTEND;TZID=Asia/Hong_Kong:20260910T221500
 SUMMARY:Thu night block: ELEC 3630 Tutorial 1 review + flashcard pass
 
-DESCRIPTION:Quick pass\, 75 min: Neso Academy 'Introduction to Memory' t
- hen 'Memory Hierarchy & Interfacing' (short\, simple).\nThen re-read yo
- ur Tutorial 1 note: address pins\, capacity = cells x data width\, DDR 
- naming\, DDR2 timing.\nVideo: https://www.youtube.com/watch?v=PujjqfUht
- No | https://www.youtube.com/watch?v=lQcU4WwVALI
+DESCRIPTION:Quick pass\, 75 min: Neso Academy 'Introduction to Memory' then 'Memory Hierarchy & Interfacing' (short\, simple).\nThen re-read your Tutorial 1 note: address pins\, capacity = cells x data width\, DDR naming\, DDR2 timing.\nVideo: https://www.youtube.com/watch?v=PujjqfUhtNo | https://www.youtube.com/watch?v=lQcU4WwVALI
 END:VEVENT
 BEGIN:VEVENT
 UID:5ac7e214b0f7d5f539585035ccbdb592@hkmu
@@ -205,13 +167,7 @@ DTSTAMP:20260911T001500Z
 DTSTART;TZID=Asia/Hong_Kong:20261005T183000
 DTEND;TZID=Asia/Hong_Kong:20261005T200000
 SUMMARY:Eason Chan x HKMU talk (陳奕迅 X 都大師生) - 5 Oct 18:30
-DESCRIPTION:Cantonese-language talk\, Main Campus Multi-purpose Hall 10/
- F. Host Prof Chow Yiu Fai\; speakers Dr Wong Wing Sze\, Dr Tsang Chi Ch
- ung\, Mr Chan Ching Fan + HKMU students. Free\, seats first-come-first-
- served\, online registration via poster QR. Awareness only - likely not
-  attending. No timetable clash (Mon class ends 13:50). Registration lin
- k UNVERIFIED: poster QR would not decode and HKMU public site does not 
- list it.
+DESCRIPTION:Cantonese-language talk\, Main Campus Multi-purpose Hall 10/F. Host Prof Chow Yiu Fai\; speakers Dr Wong Wing Sze\, Dr Tsang Chi Chung\, Mr Chan Ching Fan + HKMU students. Free\, seats first-come-first-served\, online registration via poster QR. Awareness only - likely not attending. No timetable clash (Mon class ends 13:50). Registration link UNVERIFIED: poster QR would not decode and HKMU public site does not list it.
 END:VEVENT
 BEGIN:VEVENT
 UID:7f9323aecc8fc3e8709bc906635946d5@hkmu
@@ -331,9 +287,7 @@ DTSTAMP:20260913T000000Z
 DTSTART;TZID=Asia/Hong_Kong:20261026T170000
 DTEND;TZID=Asia/Hong_Kong:20261026T170000
 SUMMARY:UNI 2002BEW Individual Assignment (Assignment 2) - DUE 17:00 Mon 26 Oct
-DESCRIPTION:OLE Assignments panel confirms Individual Assignment
- (Assignment 2)\, due 26 Oct 2026 at 17:00. This is Worksheet 1
- (individual\, 10%) on OLE.
+DESCRIPTION:OLE Assignments panel confirms Individual Assignment(Assignment 2)\, due 26 Oct 2026 at 17:00. This is Worksheet 1(individual\, 10%) on OLE.
 END:VEVENT
 BEGIN:VEVENT
 UID:c862c873b9f803fa64f5cb1b189a100b@hkmu
@@ -341,10 +295,7 @@ DTSTAMP:20260913T000000Z
 DTSTART;TZID=Asia/Hong_Kong:20261116T170000
 DTEND;TZID=Asia/Hong_Kong:20261116T170000
 SUMMARY:UNI 2002BEW Group Assignment (Assignment 1) - DUE 17:00 Mon 16 Nov
-DESCRIPTION:OLE Assignments panel confirms Group Assignment (Assignment
- 1)\, due 16 Nov 2026 at 17:00. This is Worksheet 2 (group\, 20%): Task
- C campaign plan and Task D team-performance video\; every member
- separately uploads their Peer Evaluation Form.
+DESCRIPTION:OLE Assignments panel confirms Group Assignment (Assignment1)\, due 16 Nov 2026 at 17:00. This is Worksheet 2 (group\, 20%): TaskC campaign plan and Task D team-performance video\; every memberseparately uploads their Peer Evaluation Form.
 END:VEVENT
 BEGIN:VEVENT
 UID:34b54d65ac3088b55218ebbb14f149fe@hkmu
@@ -352,15 +303,7 @@ DTSTAMP:20260913T000000Z
 DTSTART;TZID=Asia/Hong_Kong:20261128T130000
 DTEND;TZID=Asia/Hong_Kong:20261128T160000
 SUMMARY:UNI 2002BEW COMPULSORY Day School (T48) 13:00-16:00 - MISS = FAIL - Grand Ballroom, New World Millennium
-DESCRIPTION:Compulsory in-person AI co-creation workshop. ABSENCE = AUTOMATIC FAIL. 
- Venue: Grand Ballroom\, New World Millennium Hong Kong Hotel\, 72 Mody 
- Road\, Tsim Sha Tsui East (room shared with groups T47-T52\; 21 Nov is 
- the other cohorts' date). Session clock: 13:00 trainer briefing on the 
- AI tools\, 14:00 first draft of Worksheet 3 (Task E Campaign Promotion)
- \, 15:00 tutor consultation\, 15:30 finalise\, 15:30-16:00 upload Works
- heet 3 on OLE. Bring laptop + data access\; casual clothes + sports sho
- es (no skirt\, heels or sandals)\; water and a jacket. Tools used: HKMU
-  ChatGPT portal\, Canva\, Leonardo.Ai.
+DESCRIPTION:Compulsory in-person AI co-creation workshop. ABSENCE = AUTOMATIC FAIL. Venue: Grand Ballroom\, New World Millennium Hong Kong Hotel\, 72 Mody Road\, Tsim Sha Tsui East (room shared with groups T47-T52\; 21 Nov is the other cohorts' date). Session clock: 13:00 trainer briefing on the AI tools\, 14:00 first draft of Worksheet 3 (Task E Campaign Promotion)\, 15:00 tutor consultation\, 15:30 finalise\, 15:30-16:00 upload Worksheet 3 on OLE. Bring laptop + data access\; casual clothes + sports shoes (no skirt\, heels or sandals)\; water and a jacket. Tools used: HKMU ChatGPT portal\, Canva\, Leonardo.Ai.
 LOCATION:Grand Ballroom\, New World Millennium Hong Kong Hotel\, 72 Mody Road\, Tsim Sha Tsui East
 END:VEVENT
 BEGIN:VEVENT
@@ -450,14 +393,7 @@ DTSTAMP:20260918T120000Z
 DTSTART;TZID=Asia/Hong_Kong:20261121T090000
 DTEND;TZID=Asia/Hong_Kong:20261121T175000
 SUMMARY:UNI 2002BEW - L04 session listed on OLE (09:00-17:50) - VERIFY against your Day School
-DESCRIPTION:OLE notice pasted 18 Sep 2026: 事項名稱 UNI2002BEW\, 開始日期 2026-11-21 09:00\,
-  結束日期 2026-11-21 17:50\, 地點 Refer to OLE\, (Gp L04 講學 (全日制)). CAUTION: 
- this is the LECTURE-group row. Your own compulsory Day School is Sat 28
-  Nov 13:00-16:00 at the New World Millennium Grand Ballroom\, because t
- he induction deck assigns day schools by TUTORIAL group and T48 sits in
-  the 28 Nov afternoon band. Expect the confirming email in October\; un
- til it arrives\, treat 28 Nov as your real date and keep this date clea
- r as a precaution.
+DESCRIPTION:OLE notice pasted 18 Sep 2026: 事項名稱 UNI2002BEW\, 開始日期 2026-11-21 09:00\, 結束日期 2026-11-21 17:50\, 地點 Refer to OLE\, (Gp L04 講學 (全日制)). CAUTION: this is the LECTURE-group row. Your own compulsory Day School is Sat 28 Nov 13:00-16:00 at the New World Millennium Grand Ballroom\, because the induction deck assigns day schools by TUTORIAL group and T48 sits in the 28 Nov afternoon band. Expect the confirming email in October\; until it arrives\, treat 28 Nov as your real date and keep this date clear as a precaution.
 END:VEVENT
 BEGIN:VEVENT
 UID:b6ef18ac38a206dc7f8349098d63adc1@hkmu
@@ -465,14 +401,7 @@ DTSTAMP:20260918T130000Z
 DTSTART;TZID=Asia/Hong_Kong:20260925T180000
 DTEND;TZID=Asia/Hong_Kong:20260925T193000
 SUMMARY:ELEC 3630SEF Assignment 1 (100 marks) - answering block 1 of 2
-DESCRIPTION:100 marks\, four questions: Q1 DRAM chip with 10 address pins and 8 data
-  pins plus RAS/CAS (12 marks). Q2 PC2-6400 DDR SDRAM with tCL-tRCD-tRP-
- tRAS = 2-7-9-10\, including the memory cycle time for 8 consecutive dat
- awords without precharge (24 marks). Q3 two set-associative caches\, co
- mplete the parameter table (40 marks). Q4 the LPDDR video\, three advan
- tages of LPDDR4(x) over LPDDR3 and of LPDDR5 over LPDDR4(x) (24 marks).
-  Draw on Lecture 1-3 and Tutorials 2-3. PDF only\, name + student numbe
- r on page 1\, show steps\, upload to OLE\, never by email.
+DESCRIPTION:100 marks\, four questions: Q1 DRAM chip with 10 address pins and 8 data pins plus RAS/CAS (12 marks). Q2 PC2-6400 DDR SDRAM with tCL-tRCD-tRP-tRAS = 2-7-9-10\, including the memory cycle time for 8 consecutive datawords without precharge (24 marks). Q3 two set-associative caches\, complete the parameter table (40 marks). Q4 the LPDDR video\, three advantages of LPDDR4(x) over LPDDR3 and of LPDDR5 over LPDDR4(x) (24 marks). Draw on Lecture 1-3 and Tutorials 2-3. PDF only\, name + student number on page 1\, show steps\, upload to OLE\, never by email.
 END:VEVENT
 BEGIN:VEVENT
 UID:efe18684b7d0d68be4bf94f1def7fee3@hkmu
@@ -480,9 +409,7 @@ DTSTAMP:20260918T130000Z
 DTSTART;TZID=Asia/Hong_Kong:20260926T100000
 DTEND;TZID=Asia/Hong_Kong:20260926T113000
 SUMMARY:ELEC 3630SEF Assignment 1 - finish and submit early (block 2 of 2)
-DESCRIPTION:Second and final answering block. Submit on OLE today so the 2 Oct 23:59
-  cut-off is a formality. PDF only\, name + student number on page 1\, s
- how steps.
+DESCRIPTION:Second and final answering block. Submit on OLE today so the 2 Oct 23:59 cut-off is a formality. PDF only\, name + student number on page 1\, show steps.
 END:VEVENT
 BEGIN:VEVENT
 UID:4c8a4f0683952732590f45913fb1f20d@hkmu
@@ -490,9 +417,7 @@ DTSTAMP:20260918T130000Z
 DTSTART;TZID=Asia/Hong_Kong:20261002T235900
 DTEND;TZID=Asia/Hong_Kong:20261002T235900
 SUMMARY:ELEC 3630SEF Assignment 1 (100 marks) - OLE CUT-OFF 23:59 Fri 2 Oct
-DESCRIPTION:OLE Assignments panel confirms the 2 Oct 2026 23:59
- deadline. PDF only\, name + student number on page 1\, show steps\,
- upload to OLE.
+DESCRIPTION:OLE Assignments panel confirms the 2 Oct 2026 23:59deadline. PDF only\, name + student number on page 1\, show steps\,upload to OLE.
 END:VEVENT
 BEGIN:VEVENT
 UID:e394584c30bdef522740105752a5e57a@hkmu
@@ -510,10 +435,7 @@ DTSTAMP:20260918T150000Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:CHECK: September close-out - are you on track?
-DESCRIPTION:Review hour\, not a deadline. ELEC 3050SEF Tutorial 1 + Lab 0 submitted 
- (due Sun 20 Sep 23:59). ELEC 363
- 0SEF A1 started (due Fri 2 Oct 23:59). SCORPIO leg modelled in Fusion? 
- Anything overdue moves to a Friday or Saturday block.
+DESCRIPTION:Review hour\, not a deadline. ELEC 3050SEF Tutorial 1 + Lab 0 submitted (due Sun 20 Sep 23:59). ELEC 3630SEF A1 started (due Fri 2 Oct 23:59). SCORPIO leg modelled in Fusion? Anything overdue moves to a Friday or Saturday block.
 END:VEVENT
 BEGIN:VEVENT
 UID:6f57ff8a10401f7192575d5148c7586a@hkmu
@@ -537,10 +459,7 @@ DTSTAMP:20260918T150000Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:CHECK: October close-out - are you on track?
-DESCRIPTION:Worksheet 1 submitted (26 Oct 17:00). UNI 2002BEW team T48E opened for T
- ask C (30 Oct). L.I.O.N. + Tencent applications decided (31 Oct). Next 
- up in November: Worksheet 2 group video (due 16 Nov) and the UNI 1002AB
- W essay (due 23 Nov).
+DESCRIPTION:Worksheet 1 submitted (26 Oct 17:00). UNI 2002BEW team T48E opened for Task C (30 Oct). L.I.O.N. + Tencent applications decided (31 Oct). Next up in November: Worksheet 2 group video (due 16 Nov) and the UNI 1002ABW essay (due 23 Nov).
 END:VEVENT
 BEGIN:VEVENT
 UID:ae73d9325afd2fce393002a46c81ee2c@hkmu
@@ -548,10 +467,7 @@ DTSTAMP:20260918T150000Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:CHECK: pre-Assign 1 - video captured?
-DESCRIPTION:UNI 2002BEW Worksheet 2 for Mon 16 Nov 17:00: Task D video filmed in the
-  9 to 15 Nov window\, Task C campaign plan drafted\, peer evaluation fo
- rm ready. UNI 1002ABW essay draft started (due 23 Nov). ELEC 3050SEF te
- st result noted (test 2 Nov).
+DESCRIPTION:UNI 2002BEW Worksheet 2 for Mon 16 Nov 17:00: Task D video filmed in the 9 to 15 Nov window\, Task C campaign plan drafted\, peer evaluation form ready. UNI 1002ABW essay draft started (due 23 Nov). ELEC 3050SEF test result noted (test 2 Nov).
 END:VEVENT
 BEGIN:VEVENT
 UID:3d6d442df43e3cd603e100a28c8a53e2@hkmu
@@ -559,11 +475,7 @@ DTSTAMP:20260918T150000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:CHECK: finish line - everything submitted?
-DESCRIPTION:UNI 2002BEW Assign 1 submitted (16 Nov). UNI 1002ABW reflective essay su
- bmitted or about to be (due Mon 23 Nov 23:59). Day School prep for 28 N
- ov 13:00 Grand Ballroom: laptop with data\, casual clothes + sports sho
- es\, Worksheet 3 uploaded on the day. Exam revision plan for 7 to 27 De
- c.
+DESCRIPTION:UNI 2002BEW Assign 1 submitted (16 Nov). UNI 1002ABW reflective essay submitted or about to be (due Mon 23 Nov 23:59). Day School prep for 28 Nov 13:00 Grand Ballroom: laptop with data\, casual clothes + sports shoes\, Worksheet 3 uploaded on the day. Exam revision plan for 7 to 27 Dec.
 END:VEVENT
 BEGIN:VEVENT
 UID:lab01-due-20260927@benjamintia
@@ -862,12 +774,7 @@ DTSTAMP:20260926T131917Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Pokémon TCG AI Battle - results check (judging closed 11 Oct)
-DESCRIPTION:Watch item\, no action needed. Both tracks closed: Simulatio
- n final submission 17 Aug 2026\, Strategy final 13 Sep 2026\, judging 1
- 4 Sep to 11 Oct 2026. Prize pool US$240\,000 on the Strategy track (8 x
-  US$30\,000) plus a possible Tokyo tournament. Results TBD - check for 
- the announcement\, and watch for a next edition. Verified from the comp
- etition's own Kaggle pages on 26 Sep 2026.
+DESCRIPTION:Watch item\, no action needed. Both tracks closed: Simulation final submission 17 Aug 2026\, Strategy final 13 Sep 2026\, judging 14 Sep to 11 Oct 2026. Prize pool US$240\,000 on the Strategy track (8 x US$30\,000) plus a possible Tokyo tournament. Results TBD - check for the announcement\, and watch for a next edition. Verified from the competition's own Kaggle pages on 26 Sep 2026.
 URL:https://www.kaggle.com/competitions/pokemon-tcg-ai-battle-challenge-strategy
 END:VEVENT
 BEGIN:VEVENT
@@ -877,9 +784,7 @@ DTSTART;TZID=Asia/Hong_Kong:20261012T160000
 DTEND;TZID=Asia/Hong_Kong:20261012T170000
 SUMMARY:HKSTP Career Talk (career pathways in HK's I&T ecosystem) - 12 Oct 16:00
 LOCATION:JCC D0710 (7/F, Jockey Club Campus)
-DESCRIPTION:On-campus seat CONFIRMED 7 Oct by HKMU. English talk on career 
- pathways in Hong Kong I&T. Clashes with HKU Techathon+ mixer 15:30-17:30; 
- choose one.
+DESCRIPTION:On-campus seat CONFIRMED 7 Oct by HKMU. English talk on career pathways in Hong Kong I&T. Clashes with HKU Techathon+ mixer 15:30-17:30; choose one.
 END:VEVENT
 BEGIN:VEVENT
 UID:ddbfd3c73662ec7705889efd47868bf0@hkmu
@@ -887,10 +792,7 @@ DTSTAMP:20260924T150000Z
 DTSTART;TZID=Asia/Hong_Kong:20261129T235900
 DTEND;TZID=Asia/Hong_Kong:20261129T235900
 SUMMARY:UNI 2002BEW: Units 1-3 assigned online activities - OLE deadline
-DESCRIPTION:Compulsory: Unit 1 (Activity 1.5\, AI activity 1.7\, review 
- quiz)\, Unit 2 (Activity 2.17\, AI activity 2.4\, review quiz)\, plus U
- nit 3 as released. Missing activities can fail the course. Source: Dr J
- oey Ng\, UNI 2002BEW Unit 2 email\, 24 Sep 2026.
+DESCRIPTION:Compulsory: Unit 1 (Activity 1.5\, AI activity 1.7\, review quiz)\, Unit 2 (Activity 2.17\, AI activity 2.4\, review quiz)\, plus Unit 3 as released. Missing activities can fail the course. Source: Dr Joey Ng\, UNI 2002BEW Unit 2 email\, 24 Sep 2026.
 END:VEVENT
 BEGIN:VEVENT
 UID:079e5a08991dde7dfe91@bencal
@@ -907,13 +809,7 @@ DTSTAMP:20260927T074900Z
 DTSTART;TZID=Asia/Hong_Kong:20261003T100000
 DTEND;TZID=Asia/Hong_Kong:20261003T113000
 SUMMARY:COMP 3500SEF Assignment 1 (Project Logbook) - draft and submit
-DESCRIPTION:Two things in the logbook: (1) your contributions to the gro
- up project so far\; (2) your academic integrity declaration (Generative
-  AI\, plagiarism). Individual: every member submits their own - a group
- mate's submission does not cover you. Submitted via the OLE form (Answe
- r Sheet tab - Next). Source: OLE assignment page 'Project Logbook Submi
- ssion (Interim Progress - 01)'\, read 27 Sep 2026. Do not leave it to S
- unday.
+DESCRIPTION:Two things in the logbook: (1) your contributions to the group project so far\; (2) your academic integrity declaration (Generative AI\, plagiarism). Individual: every member submits their own - a groupmate's submission does not cover you. Submitted via the OLE form (Answer Sheet tab - Next). Source: OLE assignment page 'Project Logbook Submission (Interim Progress - 01)'\, read 27 Sep 2026. Do not leave it to Sunday.
 CATEGORIES:COMP3500
 END:VEVENT
 BEGIN:VEVENT
@@ -922,10 +818,7 @@ DTSTAMP:20260927T074900Z
 DTSTART;TZID=Asia/Hong_Kong:20261004T235900
 DTEND;TZID=Asia/Hong_Kong:20261004T235900
 SUMMARY:COMP 3500SEF Assignment 1 (Microsoft Form) - DUE 23:59 Sun 4 Oct
-DESCRIPTION:OLE Assignments panel confirms the 4 Oct 2026 23:59
- deadline. Individual Microsoft Form\, not a paper submission. Enter
- Group 9 and Member 5\, paste the reviewed answers\, and optionally
- upload the evidence PDF.
+DESCRIPTION:OLE Assignments panel confirms the 4 Oct 2026 23:59deadline. Individual Microsoft Form\, not a paper submission. EnterGroup 9 and Member 5\, paste the reviewed answers\, and optionallyupload the evidence PDF.
 CATEGORIES:COMP3500
 END:VEVENT
 BEGIN:VEVENT
@@ -934,8 +827,7 @@ DTSTAMP:20260928T071446Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:ELEC 3050SEF Lab 2 DNS - DUE (time not announced)
-DESCRIPTION:Deadline confirmed by Benjamin on 28 Sep 2026. Review and uploa
- d the completed answers and evidence; no submission time was announced.
+DESCRIPTION:Deadline confirmed by Benjamin on 28 Sep 2026. Review and upload the completed answers and evidence; no submission time was announced.
 END:VEVENT
 BEGIN:VEVENT
 UID:025a0f836fa10324d3940aae29778ca7@hkmu
@@ -985,15 +877,7 @@ DTSTAMP:20261002T131757Z
 DTSTART;TZID=Asia/Hong_Kong:20261020T235900
 DTEND;TZID=Asia/Hong_Kong:20261020T235900
 SUMMARY:COMP 3500SEF Assignment 1 (Requirement Engineering) — DUE 20 Oct
-DESCRIPTION:OLE due-date alert received 13 Oct 2026 06:35 HKT (noreply@hkm
- u.edu.hk), verbatim: "We would like to remind you that the due date for A
- ssignment Assign 1 is 20-10-2026 ( Tue ) ." No OLE receipt ("Receipt of a
- ssignment") exists for COMP 3500SEF, so nothing is submitted yet. Individ
- ual work: one PDF spec (<=1200 words) for the project where his team was 
- the engineering side (Team A: MIL (Insurance Claim App)), plus a <=1000-c
- haracter reflection and an evidence link on the MS form. Group must run a
- nd record the client meetings in English with student IDs visible. Writte
- n independently, copying is plagiarism.
+DESCRIPTION:OLE due-date alert received 13 Oct 2026 06:35 HKT (noreply@hkmu.edu.hk), verbatim: "We would like to remind you that the due date for Assignment Assign 1 is 20-10-2026 ( Tue ) ." No OLE receipt ("Receipt of assignment") exists for COMP 3500SEF, so nothing is submitted yet. Individual work: one PDF spec (<=1200 words) for the project where his team was the engineering side (Team A: MIL (Insurance Claim App)), plus a <=1000-character reflection and an evidence link on the MS form. Group must run and record the client meetings in English with student IDs visible. Written independently, copying is plagiarism.
 END:VEVENT
 BEGIN:VEVENT
 UID:4e442404b1291ed5f27950c2448d30b1@hkmu
@@ -1115,9 +999,7 @@ DTSTAMP:20261009T160137Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:Dropbox files — storage-limit deletion warning (ACT by 8 Nov)
-DESCRIPTION:Dropbox email 9 Oct warns files may be deleted if no action by 
- 8 Nov 2026. Inspect storage quota directly and back up important files bef
- ore the date; no deletion or purchase authorized.
+DESCRIPTION:Dropbox email 9 Oct warns files may be deleted if no action by 8 Nov 2026. Inspect storage quota directly and back up important files before the date; no deletion or purchase authorized.
 END:VEVENT
 BEGIN:VEVENT
 UID:hkpc-innotalent-apply-20270331@hkmu
@@ -1169,17 +1051,7 @@ DTSTAMP:20261011T120000Z
 DTSTART;TZID=Asia/Hong_Kong:20261016T100000
 DTEND;TZID=Asia/Hong_Kong:20261016T113000
 SUMMARY:COMP 3500SEF Interim Project Report 02 - draft and submit
-DESCRIPTION:Intended block: open the OLE Assignment File item 'Project Log
- book Submission (Interim Progress - 02)'\, read the brief and format\, th
- en draft from it. Email from Dr Ndudi Ezeamuzie (nezeamuz@hkmu.edu.hk)\, 
- received 10 Oct 22:51 HKT: 'The submission portal for the Interim Project
-  Report for Oct 15\, 2026 is now open... Deadline: Oct 19\, 2026.' The ti
- tle says Oct 15 while the body says Oct 19\; Oct 15 is the report's cover
-  date. Confirm the dropbox's own date and time when it is open. HKMU syst
- ems are offline from 22:00 Fri 16 Oct to 12:00 Sat 17 Oct for the electri
- cal inspection\, so draft and submit before that window. Assessment piece
-  02 of the same COMP 3500SEF group project as the Interim Progress 01 log
- book (done 4 Oct). Submitting is Benjamin's to do.
+DESCRIPTION:Intended block: open the OLE Assignment File item 'Project Logbook Submission (Interim Progress - 02)'\, read the brief and format\, then draft from it. Email from Dr Ndudi Ezeamuzie (nezeamuz@hkmu.edu.hk)\, received 10 Oct 22:51 HKT: 'The submission portal for the Interim Project Report for Oct 15\, 2026 is now open... Deadline: Oct 19\, 2026.' The title says Oct 15 while the body says Oct 19\; Oct 15 is the report's cover date. Confirm the dropbox's own date and time when it is open. HKMU systems are offline from 22:00 Fri 16 Oct to 12:00 Sat 17 Oct for the electrical inspection\, so draft and submit before that window. Assessment piece 02 of the same COMP 3500SEF group project as the Interim Progress 01 logbook (done 4 Oct). Submitting is Benjamin's to do.
 CATEGORIES:COMP3500
 END:VEVENT
 BEGIN:VEVENT
@@ -1188,10 +1060,7 @@ DTSTAMP:20261011T120000Z
 DTSTART;TZID=Asia/Hong_Kong:20261019T235900
 DTEND;TZID=Asia/Hong_Kong:20261019T235900
 SUMMARY:COMP 3500SEF Interim Project Report 02 - DUE Mon 19 Oct (confirm OLE)
-DESCRIPTION:Email body states 'Deadline: Oct 19\, 2026' with no time\; 23:
- 59 is assumed until the OLE dropbox is read. The email title's Oct 15 is 
- the report's cover date\, not a due date. Source: Dr Ndudi Ezeamuzie\, 10
-  Oct 2026 22:51 HKT.
+DESCRIPTION:Email body states 'Deadline: Oct 19\, 2026' with no time\; 23:59 is assumed until the OLE dropbox is read. The email title's Oct 15 is the report's cover date\, not a due date. Source: Dr Ndudi Ezeamuzie\, 10 Oct 2026 22:51 HKT.
 CATEGORIES:COMP3500
 END:VEVENT
 BEGIN:VEVENT
@@ -1200,16 +1069,7 @@ DTSTAMP:20261011T170434Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:HKU SPACE graduation certificate - collection window CLOSES (KEC\, Kowloon Bay)
-DESCRIPTION:Last day of the collection window. Collect in person from the 
- KEC College Office\, 2/F Lee Shiu Building\, 28 Wang Hoi Road\, Kowloon B
- ay\, Mon-Fri 09:30-17:00 only\, so this Wednesday is the final realistic 
- day. 25 Dec (Christmas)\, the 26 Dec substitute holiday and 1 Jan 2027 ar
- e all closed. Bring the 16 Sep 07:33 email plus HKID or passport\; a repr
- esentative needs the printed authorisation form plus a copy of the ID. No
-  postal option is offered. The notice does not state what happens to an u
- ncollected certificate after this date\; queries: Examination Team 3762 2
- 372. Source: CC Examination Team notification 16 Sep 2026\, ref Grad_AD11
- 3_AENG-EE-02.
+DESCRIPTION:Last day of the collection window. Collect in person from the KEC College Office\, 2/F Lee Shiu Building\, 28 Wang Hoi Road\, Kowloon Bay\, Mon-Fri 09:30-17:00 only\, so this Wednesday is the final realistic day. 25 Dec (Christmas)\, the 26 Dec substitute holiday and 1 Jan 2027 are all closed. Bring the 16 Sep 07:33 email plus HKID or passport\; a representative needs the printed authorisation form plus a copy of the ID. No postal option is offered. The notice does not state what happens to an uncollected certificate after this date\; queries: Examination Team 3762 2372. Source: CC Examination Team notification 16 Sep 2026\, ref Grad_AD113_AENG-EE-02.
 END:VEVENT
 BEGIN:VEVENT
 UID:4b8e2d15c7a3496f8e0b3d92a6f5c130@hkmu
@@ -1217,15 +1077,7 @@ DTSTAMP:20261011T171344Z
 DTSTART;TZID=Asia/Hong_Kong:20261228T100000
 DTEND;TZID=Asia/Hong_Kong:20261228T113000
 SUMMARY:Collect HKU SPACE graduation certificate - KEC College Office\, Kowloon Bay
-DESCRIPTION:The errand itself. KEC College Office\, 2/F Lee Shiu Building
- \, 28 Wang Hoi Road\, Kowloon Bay\; open Mon-Fri 09:30-17:00 only. Timed 
- after the exam period ends on 27 Dec and two days before the window close
- s on 30 Dec\, so there is one fallback day if this slips. Bring the 16 Se
- p 07:33 email (Ref Grad_AD113_AENG-EE-02) plus HKID or passport. If someo
- ne goes for you\, they need the printed authorisation form (electronic co
- pies are not accepted) and a copy of your HKID or passport. No postal opt
- ion exists. Queries: Examination Team 3762 2372. Printed authorisation fo
- rm saved at iCloudDrive/Downloads/HKMU/.
+DESCRIPTION:The errand itself. KEC College Office\, 2/F Lee Shiu Building\, 28 Wang Hoi Road\, Kowloon Bay\; open Mon-Fri 09:30-17:00 only. Timed after the exam period ends on 27 Dec and two days before the window closes on 30 Dec\, so there is one fallback day if this slips. Bring the 16 Sep 07:33 email (Ref Grad_AD113_AENG-EE-02) plus HKID or passport. If someone goes for you\, they need the printed authorisation form (electronic copies are not accepted) and a copy of your HKID or passport. No postal option exists. Queries: Examination Team 3762 2372. Printed authorisation form saved at iCloudDrive/Downloads/HKMU/.
 END:VEVENT
 BEGIN:VEVENT
 UID:8d4b6f2190ab47c3b5e7f28c6a1d93e4@hkmu
@@ -1233,43 +1085,7 @@ DTSTAMP:20261013T090000Z
 DTSTART;TZID=Asia/Hong_Kong:20261015T093000
 DTEND;TZID=Asia/Hong_Kong:20261015T170000
 SUMMARY:HKSTP x PCIM Asia 2026 - power electronics expo\, hiring + networking (Golden Egg)
-DESCRIPTION:HKSTP x PCIM Asia 2026. REGISTRATION CONFIRMED\, confirmation no. PA265. 
- NOON ARRIVAL AGREED: Candice Chen (Messe Frankfurt) replied 13 Oct 14:55
-  HKT\, verbatim\, "No problem. You can check in and get your badge at no
- on upon arrival. We will keep your seat for the Talent Engagement sessio
- n." OFFICIAL PARTICIPANT NOTICE arrived 14 Oct 12:37 HKT: check-in 09:30
- -10:00 at G/F Building 10W\, badge issued on site against your registere
- d full name or the confirmation number\, badge must be worn in the audit
- orium and exhibition area and is NON-TRANSFERABLE\, event hours 10:00-17
- :00\, bilingual English and Mandarin. The notice also warns seating is f
- irst-come-first-served\, so noon is permission to arrive\, not a guarant
- eed seat\; carry Candice's reply and answer from that thread if the desk
-  queries it. HOW TO GET THERE (notice wording): MTR to University Statio
- n then bus 272K to Hong Kong Science Park\, or minibus 27 from MTR Sha T
- in Station\; by car via Tolo Highway with over 1500 paid parking spaces 
- on site including EV charging. Place: Charles K. Kao Auditorium (the Gol
- den Egg)\, Hong Kong Science Park\, Pak Shek Kok\, Sha Tin\; registratio
- n and badge collection at G/F\, Building 10W\, directly under the audito
- rium. OFFICIAL PROGRAMME: 09:30-10:00 registration\; 10:00-10:10 opening
-  remarks (Mr Richard Li\, Messe Frankfurt HK)\; 10:10-10:30 keynote Gaoq
- ing Song\, Mitsubishi Electric\; 10:30-10:50 keynote Kim Wang\, Infineon
- \; 10:50-11:10 keynote Liyuan Ran\, Bosch\; 11:10-11:30 keynote Joe Guo\
- , STMicroelectronics\; 11:30-12:10 panel discussion with joint universit
- ies\; 12:10-12:20 HKSTP CEO speech\; 12:20-12:30 HKSTP and PCIM partners
- hip signing\; 12:30-14:30 TALENT ENGAGEMENT (the session the seat is hel
- d for)\; 14:30-14:45 keynote Devin Gu\, Murata\; 14:45-15:00 keynote Tim
-  Wong\, SMC Automation\; 15:00-15:15 keynote Barry Mok\, VTech\; 15:15-1
- 6:15 business pitching\; 16:15-17:00 booth communication and networking.
-  Recording presentations is prohibited without consent\; personal photos
-  for non-commercial use only. Notice PDF filed in the vault beside the e
- vent note and in Downloads.
-  Earlier research kept for completeness: other routes also serve the par
- k (272A\, 272P\, 272S\, 272X\, 43P\, 43S\, 74D\, 74P\, 82C\, 263A\, 271B
- \, 907D\, 96\, 582)\, and the free Innocentre shuttle runs mornings and 
- evenings only\, so it does not help at noon.
-  If coming from home in Pak Shek Kok\, the venue is about a 15 minute wa
- lk away\, and the MTR plus 272K advice applies to arrivals from Sha Tin 
- or University only.
+DESCRIPTION:HKSTP x PCIM Asia 2026. REGISTRATION CONFIRMED\, confirmation no. PA265. NOON ARRIVAL AGREED: Candice Chen (Messe Frankfurt) replied 13 Oct 14:55 HKT\, verbatim\, "No problem. You can check in and get your badge at noon upon arrival. We will keep your seat for the Talent Engagement session." OFFICIAL PARTICIPANT NOTICE arrived 14 Oct 12:37 HKT: check-in 09:30-10:00 at G/F Building 10W\, badge issued on site against your registered full name or the confirmation number\, badge must be worn in the auditorium and exhibition area and is NON-TRANSFERABLE\, event hours 10:00-17:00\, bilingual English and Mandarin. The notice also warns seating is first-come-first-served\, so noon is permission to arrive\, not a guaranteed seat\; carry Candice's reply and answer from that thread if the desk queries it. HOW TO GET THERE (notice wording): MTR to University Station then bus 272K to Hong Kong Science Park\, or minibus 27 from MTR Sha Tin Station\; by car via Tolo Highway with over 1500 paid parking spaces on site including EV charging. Place: Charles K. Kao Auditorium (the Golden Egg)\, Hong Kong Science Park\, Pak Shek Kok\, Sha Tin\; registration and badge collection at G/F\, Building 10W\, directly under the auditorium. OFFICIAL PROGRAMME: 09:30-10:00 registration\; 10:00-10:10 opening remarks (Mr Richard Li\, Messe Frankfurt HK)\; 10:10-10:30 keynote Gaoqing Song\, Mitsubishi Electric\; 10:30-10:50 keynote Kim Wang\, Infineon\; 10:50-11:10 keynote Liyuan Ran\, Bosch\; 11:10-11:30 keynote Joe Guo\, STMicroelectronics\; 11:30-12:10 panel discussion with joint universities\; 12:10-12:20 HKSTP CEO speech\; 12:20-12:30 HKSTP and PCIM partnership signing\; 12:30-14:30 TALENT ENGAGEMENT (the session the seat is held for)\; 14:30-14:45 keynote Devin Gu\, Murata\; 14:45-15:00 keynote Tim Wong\, SMC Automation\; 15:00-15:15 keynote Barry Mok\, VTech\; 15:15-16:15 business pitching\; 16:15-17:00 booth communication and networking. Recording presentations is prohibited without consent\; personal photos for non-commercial use only. Notice PDF filed in the vault beside the event note and in Downloads. Earlier research kept for completeness: other routes also serve the park (272A\, 272P\, 272S\, 272X\, 43P\, 43S\, 74D\, 74P\, 82C\, 263A\, 271B\, 907D\, 96\, 582)\, and the free Innocentre shuttle runs mornings and evenings only\, so it does not help at noon. If coming from home in Pak Shek Kok\, the venue is about a 15 minute walk away\, and the MTR plus 272K advice applies to arrivals from Sha Tin or University only.
 END:VEVENT
 BEGIN:VEVENT
 UID:a1c9f3e70b6d42a8b7e5c40d92f18360@hkmu
@@ -1277,11 +1093,7 @@ DTSTAMP:20261012T085447Z
 DTSTART;TZID=Asia/Hong_Kong:20261201T090000
 DTEND;TZID=Asia/Hong_Kong:20261201T100000
 SUMMARY:HKSTP summer internship applications OPEN (Dec 2026 - confirm exact date)
-DESCRIPTION:Slides from the HKSTP Career Talk on 12 Oct 2026: HKSTP intern
- ship applications open December 2026\, placements run 7 to 8 weeks in sum
- mer (timeline Dec 2026 to Jul 2027). Startup internships open January 202
- 7 (6+ months\, Mar to Aug). Training is mostly one-off sessions on weekda
- ys. Watch hkstp.org and join Talent Foundry for the exact dates.
+DESCRIPTION:Slides from the HKSTP Career Talk on 12 Oct 2026: HKSTP internship applications open December 2026\, placements run 7 to 8 weeks in summer (timeline Dec 2026 to Jul 2027). Startup internships open January 2027 (6+ months\, Mar to Aug). Training is mostly one-off sessions on weekdays. Watch hkstp.org and join Talent Foundry for the exact dates.
 END:VEVENT
 BEGIN:VEVENT
 UID:b2d7e4a15c8f4306ab91e2d7c60f3951@hkmu
@@ -1289,9 +1101,7 @@ DTSTAMP:20261012T085447Z
 DTSTART;TZID=Asia/Hong_Kong:20270104T090000
 DTEND;TZID=Asia/Hong_Kong:20270104T100000
 SUMMARY:HKSTP startup internship applications OPEN (Jan 2027 - confirm exact date)
-DESCRIPTION:Long-term startup internships: 6+ months\, March to August\, a
- pplications from January 2027. Source: HKSTP Career Talk slides 12 Oct 20
- 26.
+DESCRIPTION:Long-term startup internships: 6+ months\, March to August\, applications from January 2027. Source: HKSTP Career Talk slides 12 Oct 2026.
 END:VEVENT
 BEGIN:VEVENT
 UID:dc122410a9e9bddabefa09d9934011d5@hkmu
@@ -1338,28 +1148,7 @@ DTSTAMP:20261013T130000Z
 DTSTART;TZID=Asia/Hong_Kong:20261014T110000
 DTEND;TZID=Asia/Hong_Kong:20261014T130000
 SUMMARY:Kitty Lau - Zoom call (Techathon+ diabetic foot screening project)
-DESCRIPTION:Join: https://hkmu.zoom.us/j/92161474365 | Meeting ID: 921 614
- 7 4365. Hosted from his own HKMU Zoom account, so he is the host and has t
- o admit her from the waiting room. Join five minutes early and test mic an
- d camera. PURPOSE: decide whether her role for him is bigger and better th
- an the one GUJIZAI gives him. Nothing gets agreed on the call. THE FIVE QU
- ESTIONS THAT DECIDE IT: what would he own end to end and what is the first
-  deliverable; how many hours a week between now and January; who else is o
- n the team today and is he the first member or the only engineer; why him 
- specifically; and what exists today, a working device, a prototype or a de
- sign. THE COMPARISON: role size, who sets technical direction, team maturi
- ty, evidence behind the idea, first deliverable, hours, what he gets out o
- f it, and risk of the team dissolving. THREE OUTCOMES: stay on GUJIZAI and
-  help from outside her roster, which is rules compatible; switch to her te
- am, which means telling Kehan first; or decline and keep the relationship.
-  THE RULES, verbatim: each individual member can only participate in only 
- one team in this edition, so it is a swap, not an addition. BOUNDARIES: ex
- ploratory only, no undefined help out role, no spending, no patient facing
-  work on this call. Do not open with GUJIZAI, but answer directly if she r
- aises the team question. RECORD SIX THINGS: her role and title, who else i
- s on the team, what he would own, the first deliverable, hours per week, a
- nd what exists today. Full eighteen question checklist is in the vault not
- e, Techathon+ Gujizai folder, Kitty Lau - Zoom call prep and questions.
+DESCRIPTION:Join: https://hkmu.zoom.us/j/92161474365 | Meeting ID: 921 6147 4365. Hosted from his own HKMU Zoom account, so he is the host and has to admit her from the waiting room. Join five minutes early and test mic and camera. PURPOSE: decide whether her role for him is bigger and better than the one GUJIZAI gives him. Nothing gets agreed on the call. THE FIVE QUESTIONS THAT DECIDE IT: what would he own end to end and what is the first deliverable; how many hours a week between now and January; who else is on the team today and is he the first member or the only engineer; why him specifically; and what exists today, a working device, a prototype or a design. THE COMPARISON: role size, who sets technical direction, team maturity, evidence behind the idea, first deliverable, hours, what he gets out of it, and risk of the team dissolving. THREE OUTCOMES: stay on GUJIZAI and help from outside her roster, which is rules compatible; switch to her team, which means telling Kehan first; or decline and keep the relationship. THE RULES, verbatim: each individual member can only participate in only one team in this edition, so it is a swap, not an addition. BOUNDARIES: exploratory only, no undefined help out role, no spending, no patient facing work on this call. Do not open with GUJIZAI, but answer directly if she raises the team question. RECORD SIX THINGS: her role and title, who else is on the team, what he would own, the first deliverable, hours per week, and what exists today. Full eighteen question checklist is in the vault note, Techathon+ Gujizai folder, Kitty Lau - Zoom call prep and questions.
 LOCATION:Zoom (online)
 BEGIN:VALARM
 TRIGGER:-PT30M
@@ -1373,17 +1162,7 @@ DTSTAMP:20261013T111029Z
 DTSTART;TZID=Asia/Hong_Kong:20261111T235900
 DTEND;TZID=Asia/Hong_Kong:20261111T235900
 SUMMARY:For Our Future Scholarship 2026/27 - application DUE Wed 11 Nov
-DESCRIPTION:HK$50,000 each, 15 awardees across 13 Hong Kong institutions, 
- no fixed quota per institution. Apply through the MyHKMU student portal (
- info sheet linked). Deadline as stated: "Application Deadline: 11 Novembe
- r 2026 (Wednesday) [for HKMU students only]"; no time given, so 23:59 is 
- a placeholder. Eligibility as stated: full-time LOCAL student; at least o
- ne year of bachelor's study completed; aged 18-30; CGPA "not less than 3.
- 3 out of 4.0, or 3.5 out of 4.3 (of the last academic year)"; distinctive
-  performance in academic projects and in social services. VERIFY the CGPA
-  and local-student bars on MyHKMU FIRST - the last known HKMU figure is w
- ell below 3.3. Sender sao_sch@hkmu.edu.hk, received 13 Oct 2026 09:58 HKT
- .
+DESCRIPTION:HK$50,000 each, 15 awardees across 13 Hong Kong institutions, no fixed quota per institution. Apply through the MyHKMU student portal (info sheet linked). Deadline as stated: "Application Deadline: 11 November 2026 (Wednesday) [for HKMU students only]"; no time given, so 23:59 is a placeholder. Eligibility as stated: full-time LOCAL student; at least one year of bachelor's study completed; aged 18-30; CGPA "not less than 3.3 out of 4.0, or 3.5 out of 4.3 (of the last academic year)"; distinctive performance in academic projects and in social services. VERIFY the CGPA and local-student bars on MyHKMU FIRST - the last known HKMU figure is well below 3.3. Sender sao_sch@hkmu.edu.hk, received 13 Oct 2026 09:58 HKT.
 CATEGORIES:Scholarship
 URL:https://www.hkmu.edu.hk/SAO/Scholarship/Information_Sheet_FOF.pdf
 END:VEVENT
@@ -1393,21 +1172,7 @@ DTSTAMP:20261014T111729Z
 DTSTART;TZID=Asia/Hong_Kong:20261130T235900
 DTEND;TZID=Asia/Hong_Kong:20261130T235900
 SUMMARY:HSBC Global Scholarship 2027/28 - application DUE Mon 30 Nov
-DESCRIPTION:University-wide scholarship for a study-abroad year or semeste
- r in 2027/28: up to HK$300\,000 per awardee for the Global stream (or the
-  total cost of the overseas study\, whichever is lower)\, or HK$25\,000 f
- or the Chinese Mainland stream; apply through HSBC — info sheet on the HK
- MU SAO scholarship page. Deadline as stated: "Submission Deadline (for ap
- plicants who opt for the application form and essays advisory service - h
- ighly recommended) 30 November 2026"; the HSBC online application itself 
- closes "8 January 2027 (HKT 6pm)"\, so 30 Nov is the recommended early ro
- ute with form-and-essay help and 8 Jan 2027 is the hard end. No time is g
- iven for 30 Nov\, so 23:59 is a placeholder. Eligibility as stated: the m
- ail addresses "Dear Local Undergraduate Students" - verify the local-stud
- ent rule on MyHKMU\, and weigh a one-year placement against the PR-clock 
- caution on exchange. Sender sao_sch@hkmu.edu.hk\, subject "(Apply by 30 N
- ov) HSBC Global Scholarship 2027/28 (For Study Abroad in 2027/28)"\, rece
- ived 14 Oct 2026 10:00 HKT.
+DESCRIPTION:University-wide scholarship for a study-abroad year or semester in 2027/28: up to HK$300\,000 per awardee for the Global stream (or the total cost of the overseas study\, whichever is lower)\, or HK$25\,000 for the Chinese Mainland stream; apply through HSBC — info sheet on the HKMU SAO scholarship page. Deadline as stated: "Submission Deadline (for applicants who opt for the application form and essays advisory service - highly recommended) 30 November 2026"; the HSBC online application itself closes "8 January 2027 (HKT 6pm)"\, so 30 Nov is the recommended early route with form-and-essay help and 8 Jan 2027 is the hard end. No time is given for 30 Nov\, so 23:59 is a placeholder. Eligibility as stated: the mail addresses "Dear Local Undergraduate Students" - verify the local-student rule on MyHKMU\, and weigh a one-year placement against the PR-clock caution on exchange. Sender sao_sch@hkmu.edu.hk\, subject "(Apply by 30 Nov) HSBC Global Scholarship 2027/28 (For Study Abroad in 2027/28)"\, received 14 Oct 2026 10:00 HKT.
 CATEGORIES:Scholarship
 URL:https://www.hkmu.edu.hk/SAO/Scholarship/Information_Sheet_HSBC_Global.pdf
 END:VEVENT
@@ -1417,21 +1182,7 @@ DTSTAMP:20261015T100000Z
 DTSTART;TZID=Asia/Hong_Kong:20261018T140000
 DTEND;TZID=Asia/Hong_Kong:20261018T160000
 SUMMARY:Kitty + programmer call - Sunday afternoon (TIME TBC)
-DESCRIPTION:Kitty's diabetic foot screening project: call with Kitty and the programm
- er she mentioned. AFTERNOON\, EXACT TIME NOT CONFIRMED: ask Kitty. Purpo
- se from his side is to learn how the software side works so the hardware
-  fits it\, not to present or commit. Five questions for the programmer: 
- what runs on the device versus the cloud\; what language and framework a
- nd whether code already exists\; how the device talks to the software (B
- luetooth\, serial\, Wi-Fi\, HTTP) and at what data rate\; what the softw
- are needs the hardware to produce and in what format\; and where measure
- ments go\, who can see them\, and what must stay on the device for priva
- cy. Four asks for Kitty in the same call: a schedule of his pre-existing
-  work so it stays his\; the IP assignment limited to credited deliverabl
- es with a credit line\; the non-compete narrowed or dropped\; and a mutu
- al or capped indemnity. Bring back the Sham Shui Po screening time for T
- ue 20 Oct and the assessment modules. Prep note: Kitty plus the programm
- er — Sunday 18 Oct call prep.
+DESCRIPTION:Kitty's diabetic foot screening project: call with Kitty and the programmer she mentioned. AFTERNOON\, EXACT TIME NOT CONFIRMED: ask Kitty. Purpose from his side is to learn how the software side works so the hardware fits it\, not to present or commit. Five questions for the programmer: what runs on the device versus the cloud\; what language and framework and whether code already exists\; how the device talks to the software (Bluetooth\, serial\, Wi-Fi\, HTTP) and at what data rate\; what the software needs the hardware to produce and in what format\; and where measurements go\, who can see them\, and what must stay on the device for privacy. Four asks for Kitty in the same call: a schedule of his pre-existing work so it stays his\; the IP assignment limited to credited deliverables with a credit line\; the non-compete narrowed or dropped\; and a mutual or capped indemnity. Bring back the Sham Shui Po screening time for Tue 20 Oct and the assessment modules. Prep note: Kitty plus the programmer — Sunday 18 Oct call prep.
 END:VEVENT
 BEGIN:VEVENT
 UID:2165683c9b0541c29c3ea390b49e0fe6@hkmu
@@ -1439,19 +1190,7 @@ DTSTAMP:20261015T120000Z
 DTSTART;TZID=Asia/Hong_Kong:20261017T150000
 DTEND;TZID=Asia/Hong_Kong:20261017T173000
 SUMMARY:COMP 3500SEF A1 - draft the MIL specification (1200 words)
-DESCRIPTION:COMP 3500SEF Assignment 1 (Requirement Engineering). Draft the MIL Insura
- nce Claim App specification\, not more than 1200 words\, written indepen
- dently. Word budget: introduction and scope 120\, purpose and glossary 8
- 0\, stakeholders 100\, functional requirements 400\, non-functional requ
- irements 250 classified as product\, organisational and external\, domai
- n requirements 120 on PDPO and retention\, interfaces and data 100\, con
- straints and assumptions 80\, acceptance and open questions 50. Structur
- e it on the Lecture 4 document structure with the Mentcare document as t
- he model. Local writing\, so the OLE outage does not matter. Remaining a
- fter this block: finalise the PDF\, write the reflection of 1000 charact
- ers\, confirm the evidence link opens for a stranger\, and find the MS F
- orm link. Note: Assignment 1 - Requirement Engineering (the brief and th
- e plan).
+DESCRIPTION:COMP 3500SEF Assignment 1 (Requirement Engineering). Draft the MIL Insurance Claim App specification\, not more than 1200 words\, written independently. Word budget: introduction and scope 120\, purpose and glossary 80\, stakeholders 100\, functional requirements 400\, non-functional requirements 250 classified as product\, organisational and external\, domain requirements 120 on PDPO and retention\, interfaces and data 100\, constraints and assumptions 80\, acceptance and open questions 50. Structure it on the Lecture 4 document structure with the Mentcare document as the model. Local writing\, so the OLE outage does not matter. Remaining after this block: finalise the PDF\, write the reflection of 1000 characters\, confirm the evidence link opens for a stranger\, and find the MS Form link. Note: Assignment 1 - Requirement Engineering (the brief and the plan).
 END:VEVENT
 BEGIN:VEVENT
 UID:03ef34d2f42e7a2e7f2967eb8d2e5aab@hkmu
@@ -1459,12 +1198,7 @@ DTSTAMP:20261015T110900Z
 DTSTART;TZID=Asia/Hong_Kong:20261019T235900
 DTEND;TZID=Asia/Hong_Kong:20261019T235900
 SUMMARY:SAO Volunteer (AMS Ocean Park seniors trip) - registration DUE Mon 19 Oct
-DESCRIPTION:SAO Student Community Engagement saoce@hkmu.edu.hk\, received 
- 15 Oct 16:42 HKT. Verbatim: "Registration Deadline: 19 October 2026 (Mond
- ay)\, 11:59 pm". Event Sat 7 Nov 2026 08:00-13:30 at Ocean Park\; Cantone
- se\; quota 10 HKMU students\; HK$50 deposit refunded within a month after
-  the event\; 3 recognised engagement hours\; results emailed 20 Oct. Regi
- ster hkmu.qualtrics.com/jfe/form/SV_0umoH2LYNmcCmtU. Registering is his.
+DESCRIPTION:SAO Student Community Engagement saoce@hkmu.edu.hk\, received 15 Oct 16:42 HKT. Verbatim: "Registration Deadline: 19 October 2026 (Monday)\, 11:59 pm". Event Sat 7 Nov 2026 08:00-13:30 at Ocean Park\; Cantonese\; quota 10 HKMU students\; HK$50 deposit refunded within a month after the event\; 3 recognised engagement hours\; results emailed 20 Oct. Register hkmu.qualtrics.com/jfe/form/SV_0umoH2LYNmcCmtU. Registering is his.
 CATEGORIES:SAO/Volunteer
 URL:https://hkmu.qualtrics.com/jfe/form/SV_0umoH2LYNmcCmtU
 END:VEVENT
@@ -1474,17 +1208,7 @@ DTSTAMP:20261015T110900Z
 DTSTART;TZID=Asia/Hong_Kong:20261021T235900
 DTEND;TZID=Asia/Hong_Kong:20261021T235900
 SUMMARY:SAO Fitness Introductory Course (non-local students) - registration DUE Wed 21 Oct
-DESCRIPTION:SAO Sports and Physical Education saosw@hkmu.edu.hk\, subject 
- Fitness Introductory Course for Non-local Students (English) - Nov 2026\,
-  received 15 Oct 15:32 HKT. Verbatim: "Registration period: 15 Oct - 21 O
- ct 2026". Course Sat 7 Nov 2026\; Class A theory 10:00-11:00 and practica
- l 11:00-13:00\; Class B theory 14:00-15:00 and practical 15:00-17:00. HK$
- 50\; full-time non-local undergraduates\; quota first-come-first-served w
- ith priority to non-local students. Finishing FIC is what makes him eligi
- ble to register as a user of the HKMU Gymnasium and the LCSD fitness room
- s. It clashes with the AMS Ocean Park volunteer run that morning\, so Cla
- ss B is the one that fits both. Register hkmu.qualtrics.com/jfe/form/SV_b
- 7x9c4YoHepXsXQ. Registering is his.
+DESCRIPTION:SAO Sports and Physical Education saosw@hkmu.edu.hk\, subject Fitness Introductory Course for Non-local Students (English) - Nov 2026\, received 15 Oct 15:32 HKT. Verbatim: "Registration period: 15 Oct - 21 Oct 2026". Course Sat 7 Nov 2026\; Class A theory 10:00-11:00 and practical 11:00-13:00\; Class B theory 14:00-15:00 and practical 15:00-17:00. HK$50\; full-time non-local undergraduates\; quota first-come-first-served with priority to non-local students. Finishing FIC is what makes him eligible to register as a user of the HKMU Gymnasium and the LCSD fitness rooms. It clashes with the AMS Ocean Park volunteer run that morning\, so Class B is the one that fits both. Register hkmu.qualtrics.com/jfe/form/SV_b7x9c4YoHepXsXQ. Registering is his.
 CATEGORIES:SAO/Sports
 URL:https://hkmu.qualtrics.com/jfe/form/SV_b7x9c4YoHepXsXQ
 END:VEVENT
@@ -1494,13 +1218,7 @@ DTSTAMP:20261015T110900Z
 DTSTART;TZID=Asia/Hong_Kong:20261021T235900
 DTEND;TZID=Asia/Hong_Kong:20261021T235900
 SUMMARY:Language Centre Cantonese coffee workshop - registration DUE Wed 21 Oct
-DESCRIPTION:Language Centre lc2@hkmu.edu.hk\, subject Cantonese thematic w
- orkshops - 2026 autumn term (week 4 of October)\, received 15 Oct 11:43 a
- nd 12:11 HKT (two copies of the same mail). Verbatim: registration closin
- g date 21 October 2026. Workshop Fri 23 Oct 14:00-16:00\, Room A0411\, Ma
- in Campus\; free\; 30 places\; buying coffee in Cantonese\, coffee tastin
- g and a French-press pour-over tasting. Register on ERS eid=010762. Regis
- tering is his.
+DESCRIPTION:Language Centre lc2@hkmu.edu.hk\, subject Cantonese thematic workshops - 2026 autumn term (week 4 of October)\, received 15 Oct 11:43 and 12:11 HKT (two copies of the same mail). Verbatim: registration closing date 21 October 2026. Workshop Fri 23 Oct 14:00-16:00\, Room A0411\, Main Campus\; free\; 30 places\; buying coffee in Cantonese\, coffee tasting and a French-press pour-over tasting. Register on ERS eid=010762. Registering is his.
 CATEGORIES:Language Centre
 URL:https://student.intranet.hkmu.edu.hk/ers/prod/ERS_detail.jsp?eid=010762&lang=eng&mode=all
 END:VEVENT
@@ -1510,13 +1228,7 @@ DTSTAMP:20261015T110900Z
 DTSTART;TZID=Asia/Hong_Kong:20261028T235900
 DTEND;TZID=Asia/Hong_Kong:20261028T235900
 SUMMARY:PMIHK Project Management Case Competition 2027 - application DUE Wed 28 Oct
-DESCRIPTION:SAO Student Career Development career@hkmu.edu.hk\, subject PM
- IHK Student Club - Project Management Case Competition 2027\, received 15
-  Oct 15:28 HKT. Verbatim: "Application period: 7-28 October 2026". Fee HK
- $250 per group application or HK$50 per individual\; four-month programme
-  with coaching and workshops\; HK$5\,000 champion prize. Apply shorturl.a
- t/p7gj4. Business/project-management track rather than his engineering la
- ne. Applying is his.
+DESCRIPTION:SAO Student Career Development career@hkmu.edu.hk\, subject PMIHK Student Club - Project Management Case Competition 2027\, received 15 Oct 15:28 HKT. Verbatim: "Application period: 7-28 October 2026". Fee HK$250 per group application or HK$50 per individual\; four-month programme with coaching and workshops\; HK$5\,000 champion prize. Apply shorturl.at/p7gj4. Business/project-management track rather than his engineering lane. Applying is his.
 CATEGORIES:Career
 URL:https://shorturl.at/p7gj4
 END:VEVENT
@@ -1525,17 +1237,8 @@ UID:2f9c0b538578a5596b8091ed9301d1de@hkmu
 DTSTAMP:20261016T110601Z
 DTSTART;TZID=Asia/Hong_Kong:20261026T235900
 DTEND;TZID=Asia/Hong_Kong:20261026T235900
-SUMMARY:Student Helper recruitment InfoDay 2026 (REG) - application DUE Mo
- n 26 Oct
-DESCRIPTION:HKMU SAO career@hkmu.edu.hk\, subject "[每週就業資訊] Career Weekly 
- Update: Job Opportunities & Other External Opportunities"\, received 16 O
- ct 17:24 HKT. On-campus engagement row: Engagement ID 000000001478\, requ
- ested department REG\, "Recruitment of Student Helper for InfoDay 2026"\,
-  subsidy HK$75/hour\, application deadline 26/10/2026 (the digest gives a
-  date only\, no time\, so 23:59 is used). Paid on-campus work. Apply thro
- ugh the Internship Lab 2.0 on-campus opportunities page: hkmu.edu.hk/sao/
- career/internships-industry-projects/internship-lab-2-0-on-campus-opportu
- nities/ . Submitting is his.
+SUMMARY:Student Helper recruitment InfoDay 2026 (REG) - application DUE Mon 26 Oct
+DESCRIPTION:HKMU SAO career@hkmu.edu.hk\, subject "[每週就業資訊] Career Weekly Update: Job Opportunities & Other External Opportunities"\, received 16 Oct 17:24 HKT. On-campus engagement row: Engagement ID 000000001478\, requested department REG\, "Recruitment of Student Helper for InfoDay 2026"\, subsidy HK$75/hour\, application deadline 26/10/2026 (the digest gives a date only\, no time\, so 23:59 is used). Paid on-campus work. Apply through the Internship Lab 2.0 on-campus opportunities page: hkmu.edu.hk/sao/career/internships-industry-projects/internship-lab-2-0-on-campus-opportunities/ . Submitting is his.
 CATEGORIES:SAO/Career
 URL:https://www.hkmu.edu.hk/sao/career/internships-industry-projects/internship-lab-2-0-on-campus-opportunities/
 END:VEVENT
@@ -1544,17 +1247,10 @@ UID:03c992510350a0d3d10a0fbbfa13fadf@hkmu
 DTSTAMP:20261016T110601Z
 DTSTART;TZID=Asia/Hong_Kong:20261104T235900
 DTEND;TZID=Asia/Hong_Kong:20261104T235900
-SUMMARY:SAO Career "Job Search 101" workshop (non-local students) - regist
- ration DUE Wed 4 Nov
-DESCRIPTION:HKMU SAO (Career Development) career@hkmu.edu.hk\, subject "[D
- on't Miss Out!] Job Search 101: Your Guide to Getting a Job in Hong Kong"
- \, received 16 Oct 10:36 HKT. Verbatim: "Application deadline 4 Nov (Wed)
- ". Workshop itself: 9 Nov (Mon) 14:00-15:30\, Active Learning Space\, 1/F
-  Stanley Ho Library\, Main Campus\; free of charge with a HK$50 deposit (
- refunded on attendance or non-selection)\; tailor-made for non-local stud
- ents\; recognised by the Metro FAITH Scheme\, 2 engagement hours. Registe
- r hkmu.qualtrics.com/jfe/form/SV_d5PjjqhrXHNOioK. Registering is his.
+SUMMARY:SAO Career "Job Search 101" workshop (non-local students) - registration DUE Wed 4 Nov
+DESCRIPTION:HKMU SAO (Career Development) career@hkmu.edu.hk\, subject "[Don't Miss Out!] Job Search 101: Your Guide to Getting a Job in Hong Kong"\, received 16 Oct 10:36 HKT. Verbatim: "Application deadline 4 Nov (Wed)". Workshop itself: 9 Nov (Mon) 14:00-15:30\, Active Learning Space\, 1/F Stanley Ho Library\, Main Campus\; free of charge with a HK$50 deposit (refunded on attendance or non-selection)\; tailor-made for non-local students\; recognised by the Metro FAITH Scheme\, 2 engagement hours. Register hkmu.qualtrics.com/jfe/form/SV_d5PjjqhrXHNOioK. Registering is his.
 CATEGORIES:SAO/Career
 URL:https://hkmu.qualtrics.com/jfe/form/SV_d5PjjqhrXHNOioK
 END:VEVENT
+
 END:VCALENDAR
