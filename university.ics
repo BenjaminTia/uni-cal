@@ -1266,11 +1266,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hkuspace-cert-collection-20261021@hkmu
 DTSTAMP:20261017T151204Z
-DTSTART;TZID=Asia/Hong_Kong:20261021T150000
-DTEND;TZID=Asia/Hong_Kong:20261021T163000
+DTSTART;TZID=Asia/Hong_Kong:20261019T110000
+DTEND;TZID=Asia/Hong_Kong:20261019T123000
 SUMMARY:Collect HKU SPACE graduation certificate (office closes 17:00)
 LOCATION:KEC College Office, 2/F Lee Shiu Building, 28 Wang Hoi Road, Kowloon Bay
-DESCRIPTION:Bring the 16 Sep email and HKID or passport. Reference Grad_AD113_AENG-EE-02. Collection window 12 Oct to 30 Dec 2026, Mon to Fri 09:30 to 17:00 only. If a representative collects it: printed authorisation form plus a copy of your ID, form at iCloudDrive/Downloads/HKMU/HKU SPACE - Authorisation Form (graduation certificate collection).pdf. Choose another weekday after class if this one clashes.
+DESCRIPTION:Moved to Monday because there is no class that day (ELEC 3050 is in its midterm gap). Wednesday 21 Oct has ELEC 3250 at 16:00. Bring the 16 Sep email and HKID or passport. Reference Grad_AD113_AENG-EE-02. Collection window 12 Oct to 30 Dec 2026, Mon to Fri 09:30 to 17:00 only. If a representative collects it: printed authorisation form plus a copy of your ID, form at iCloudDrive/Downloads/HKMU/HKU SPACE - Authorisation Form (graduation certificate collection).pdf. Choose another weekday after class if this one clashes.
 CATEGORIES:Errand
 BEGIN:VALARM
 TRIGGER:-PT90M
