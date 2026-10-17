@@ -1253,4 +1253,22 @@ CATEGORIES:SAO/Career
 URL:https://hkmu.qualtrics.com/jfe/form/SV_d5PjjqhrXHNOioK
 END:VEVENT
 
+BEGIN:VEVENT
+UID:d02753783cbe9e6dc746b75b25f7de94@hkmu
+DTSTAMP:20261017T110600Z
+DTSTART;TZID=Asia/Hong_Kong:20261018T075900
+DTEND;TZID=Asia/Hong_Kong:20261018T085900
+SUMMARY:IEEEXtreme 20.0 - registration DUE Sat 17 Oct 23:59 UTC (Sun 18 Oct 07:59 HKT)
+DESCRIPTION:IEEEXtreme <ieee-xtreme@deliver.ieee.org>\, subject "Less Than
+  2 Days Left to Register for IEEEXtreme 20.0"\, received 16 Oct 2026 22:0
+ 8 HKT. Verbatim: "Registration closes on Saturday, 17 October 2026 23:59 
+ UTC. If you're planning to compete on 31 October 2026\, now is the time t
+ o secure your spot." Free and exclusive to IEEE Student Members\, individ
+ ual or team\, a registered proctor required; competition day 31 Oct 2026.
+  No registration confirmation exists in the mailbox as of 17 Oct 19:00\, 
+ so treat this as not yet registered. Register at ieeextreme.org. Register
+ ing is his.
+CATEGORIES:IEEEXtreme
+URL:https://ieeextreme.org/
+END:VEVENT
 END:VCALENDAR
