@@ -902,7 +902,7 @@ DTSTAMP:20261004T151545Z
 DTSTART;TZID=Asia/Hong_Kong:20261010T210000
 DTEND;TZID=Asia/Hong_Kong:20261011T020000
 SUMMARY:IEEEXtreme 20.0 MasterClass (Webex) 21:00-02:00 HKT
-DESCRIPTION:Covers the new hybrid format: AI-enabled vs AI-prohibited challenges. 9:00am-2:00pm EDT on 10 Oct = 21:00 Sat 10 Oct to 02:00 Sun 11 Oct HKT. Register through the Webex link in the IEEE mail (ieee-xtreme@deliver.ieee.org\, 2 Oct 2026). No published closing time - register before the session starts.\n==REGISTERED 4 Oct 2026== - Webex auto-approved the registration (confirmation mail from messenger@webex.com received the same evening). The IEEE membership number was NOT captured at registration; it is required at the IEEEXtreme team registration instead (deadline 17 Oct 23:59 GMT).
+DESCRIPTION:Covers the new hybrid format: AI-enabled vs AI-prohibited challenges. 9:00am-2:00pm EDT on 10 Oct = 21:00 Sat 10 Oct to 02:00 Sun 11 Oct HKT. Register through the Webex link in the IEEE mail (ieee-xtreme@deliver.ieee.org\, 2 Oct 2026). No published closing time - register before the session starts.\n==REGISTERED 4 Oct 2026== - Webex auto-approved the registration (confirmation mail from messenger@webex.com received the same evening). The IEEE membership number was NOT captured at registration; it is required at the IEEEXtreme team registration instead (registration deadline since extended to 25 Oct 23:59 UTC).
 URL:https://ieeextreme.org/
 CATEGORIES:Competition
 END:VEVENT
@@ -1255,15 +1255,27 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:d02753783cbe9e6dc746b75b25f7de94@hkmu
-DTSTAMP:20261017T110600Z
-DTSTART;TZID=Asia/Hong_Kong:20261018T075900
-DTEND;TZID=Asia/Hong_Kong:20261018T085900
-SUMMARY:IEEEXtreme 20.0 - registration DUE Sat 17 Oct 23:59 UTC (Sun 18 Oct 07:59 HKT)
-DESCRIPTION:IEEEXtreme <ieee-xtreme@deliver.ieee.org>\, subject "Less Than 2 Days Left to Register for IEEEXtreme 20.0"\, received 16 Oct 2026 22:08 HKT. Verbatim: "Registration closes on Saturday, 17 October 2026 23:59 UTC. If you're planning to compete on 31 October 2026\, now is the time to secure your spot." Free and exclusive to IEEE Student Members\, individual or team\, a registered proctor required; competition day 31 Oct 2026. No registration confirmation exists in the mailbox as of 17 Oct 19:00\, so treat this as not yet registered. Register at ieeextreme.org. Registering is his.
+DTSTAMP:20261018T110200Z
+DTSTART;TZID=Asia/Hong_Kong:20261026T075900
+DTEND;TZID=Asia/Hong_Kong:20261026T085900
+SUMMARY:IEEEXtreme 20.0 - registration DUE Sun 25 Oct 23:59 UTC (Mon 26 Oct 07:59 HKT) [EXTENDED]
+DESCRIPTION:IEEEXtreme <ieee-xtreme@deliver.ieee.org>\, subject "You Asked
+ \, We Extended It: Register for IEEEXtreme 20.0"\, received 18 Oct 2026 0
+ 8:03 HKT. Verbatim: "Missed the registration deadline? Good news. Due to 
+ strong interest from students around the world\, registration for IEEEXtr
+ eme 20.0 has been extended." / "You now have one final week to register."
+  / "Extended Registration Deadline: 25 October 2026\, 23:59 UTC". This su
+ persedes the original 17 Oct 23:59 UTC close. Free and exclusive to IEEE 
+ Student Members (his member no. 102755994)\, individual or team\, a regis
+ tered proctor required\, all members 18+. Competition starts 00:00 UTC 31
+  Oct 2026 = 08:00 HKT Sat 31 Oct and runs 24 hours\; new hybrid format wi
+ th AI-enabled and AI-prohibited tracks. Still NOT registered: no registra
+ tion confirmation exists anywhere in the mailbox as of 18 Oct 19:00 - rem
+ inders and this extension notice only. Register at ieeextreme.org. Regist
+ ering is his.
 CATEGORIES:IEEEXtreme
 URL:https://ieeextreme.org/
-END:VEVENT
-BEGIN:VEVENT
+END:VEVENTBEGIN:VEVENT
 UID:hkuspace-cert-collection-20261021@hkmu
 DTSTAMP:20261017T151204Z
 DTSTART;TZID=Asia/Hong_Kong:20261019T110000
