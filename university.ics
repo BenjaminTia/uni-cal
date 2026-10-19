@@ -1290,4 +1290,23 @@ ACTION:DISPLAY
 DESCRIPTION:Collect HKU SPACE certificate today
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:78981c2cf0b085da07e39f482852135a@hkmu
+DTSTAMP:20261019T110500Z
+DTSTART;TZID=Asia/Hong_Kong:20261026T235900
+DTEND;TZID=Asia/Hong_Kong:20261026T235900
+SUMMARY:COMP 3500SEF Assign 4 (OLE) - DUE Mon 26 Oct
+DESCRIPTION:OLE due-date alert from HKMU-OLE <noreply@hkmu.edu.hk>\, subje
+ ct 'COMP3500SEF Assign 4 Due Date Alert'\, received Mon 19 Oct 2026 06:40
+  HKT. Verbatim: "We would like to remind you that the due date for Assign
+ ment Assign 4 is 26-10-2026 ( Mon ) ." No time is stated in the mail\, so
+  23:59 is used as the close\; the OLE dropbox itself may carry an earlier
+  time. OLE numbers its dropboxes independently of the course's own titles
+  (Assign 3 was the 4 Oct logbook form\; Assign 2 was the Requirement Engi
+ neering brief due 20 Oct)\, so 'Assign 4' is not automatically the fourth
+  piece: open OLE > COMP 3500SEF > Assignment File > 'Assign 4' and read w
+ hat it asks for before planning the work. No prep block was scheduled bec
+ ause the piece's brief has not been read yet. Submitting is his.
+CATEGORIES:COMP3500
+END:VEVENT
 END:VCALENDAR
