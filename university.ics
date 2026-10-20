@@ -764,7 +764,20 @@ DTSTAMP:20260925T211000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261026
 SUMMARY:Apart AI Collusion Sprint (Hong Kong hub) - attend
-DESCRIPTION:Hybrid: global online 23-25 Oct\; in-person HK hub Sat-Sun 24-25 Oct\, 8:00 AM-11:30 PM. Status (3 Oct): registration APPROVED 1 Oct. Still required: the Apart pre-hackathon survey - without it you are listed as an observer only (no prizes, no team matching). Every teammate must also register individually. Prizes plus $1,000 friend referral; top HK team gets guaranteed entry to the 6-month Apart Fellowship. Top Hong Kong team gets guaranteed entry to the 6-month Apart Fellowship. Past Fellows went to Anthropic and METR.
+DESCRIPTION:Hybrid: global online 23-25 Oct\; in-person HK hub Sat-Sun 24-
+ 25 Oct\, 8:00 AM-11:30 PM. Status: Luma registration APPROVED 1 Oct. LUMA
+  REMINDER RECEIVED 19 Oct 17:21 HKT (HK AI Safety Hub\, hkaisafetyhub@use
+ r.luma-mail.com\, subject "Remind your teammates to register")\, verbatim
+ : "All your teammates must individually register to attend the hub. Pleas
+ e remind them to do so. Please also remind them to register on the Apart 
+ website. ... Only fully registered individuals (both Luma + Apart registe
+ red) will be permitted to enter the venue." So the gate is TWO registrati
+ ons per person: Luma AND the Apart sprint page. Still required of him: th
+ e Apart pre-hackathon survey - without it he is listed as an observer onl
+ y (no prizes\, no team matching). Venue for entry: Le Bureau\, 14/F Unive
+ rsal Trade Centre\, 3-5A Arbuthnot Rd\, Central. Prizes: US$2\,000 pool p
+ lus Apart Fellowship fast track\; top HK team gets guaranteed entry to th
+ e 6-month Apart Fellowship.
 LOCATION:Le Bureau\, 14/F\, Universal Trade Centre\, 3-5A Arbuthnot Rd\, Central\, Hong Kong
 CATEGORIES:Apart
 END:VEVENT
@@ -1323,5 +1336,67 @@ DESCRIPTION:Ten questions\, roughly 100 marks\, answered into the blue a
   The deadline is 4 Dec 2026 (Friday)' plus the paper itself ('Submissio
  n Deadline: 11:59 pm\, 4 Dec 2026 (Friday)')\, read 20 Oct 2026.
 CATEGORIES:ELEC 3050SEF
+END:VEVENT
+BEGIN:VEVENT
+UID:6fae6efd8beca18944c77b4387bdf0ba7f08836b@hkmu
+DTSTAMP:20261020T110000Z
+DTSTART;TZID=Asia/Hong_Kong:20261022T235900
+DTEND;TZID=Asia/Hong_Kong:20261022T235900
+SUMMARY:HKMU course enrolment records check (reply by 22 Oct) - DUE Thu 22 Oct
+DESCRIPTION:Registry / Enrolment Team (Undergraduate)\, regftae@hkmu.edu.h
+ k. Subject: "[Action Required] Tuition Fee for the 2026 Autumn Term Based
+  on Course Registration (Flat Fee)". Received 20 Oct 2026 12:29 HKT. Verb
+ atim: "Course Enrolment: Please check your enrolment records for the 2026
+  Autumn Term. If there are any errors or discrepancies\, kindly reply to 
+ this email on or before 22 October 2026." Action: open MyHKMU > Enrolment
+  Confirmation Enquiry\, compare the registered courses against the timeta
+ ble note\, reply only if something is wrong. Replying is his.
+CATEGORIES:HKMU
+END:VEVENT
+BEGIN:VEVENT
+UID:4edb8e46f170c629503caa53a62850d02adb8b88@hkmu
+DTSTAMP:20261020T110000Z
+DTSTART;TZID=Asia/Hong_Kong:20261029T235900
+DTEND;TZID=Asia/Hong_Kong:20261029T235900
+SUMMARY:HKMU 2026 Autumn Term tuition fee - DUE Thu 29 Oct
+DESCRIPTION:Registry / Enrolment Team (Undergraduate)\, regftae@hkmu.edu.h
+ k. Subject: "[Action Required] Tuition Fee for the 2026 Autumn Term Based
+  on Course Registration (Flat Fee)". Received 20 Oct 2026 12:29 HKT. Verb
+ atim: "If a positive amount is displayed in point (e): This indicates you
+  have an outstanding balance for the 2026 Autumn Term tuition fee. To set
+ tle the payment\, please log in to ePayment Platform (MyHKMU > My Program
+ me > Student Finance) and complete the payment of the remaining tuition f
+ ee on or before the stipulated deadline (i.e. 29 October 2026)." Also ver
+ batim: "If 0 amount is displayed in point (e): This indicates that you ha
+ ve fully settled the tuition fee for the 2026 Autumn Term. NO action is r
+ equired." CAVEAT: the amount has not been read - nobody has opened his st
+ udent-finance page\, so whether anything is owed is unknown. Check point 
+ (e) first. Separate earlier cutoff in the same mail: reply by 22 Oct if t
+ he enrolment records show errors. Paying is his.
+CATEGORIES:HKMU
+END:VEVENT
+BEGIN:VEVENT
+UID:35621cecda2741d440b2ed6b369e85b6ec1eb0f8@hkmu
+DTSTAMP:20261020T110000Z
+DTSTART;TZID=Asia/Hong_Kong:20261216T235900
+DTEND;TZID=Asia/Hong_Kong:20261216T235900
+SUMMARY:HKMU Hackathon 2027 - application - DUE Wed 16 Dec
+DESCRIPTION:SAO (Student Entrepreneurship)\, saomc@hkmu.edu.hk. Subject: "
+ Two Challenges\, Endless Possibilities - HKMU Hackathon 2027 Awaits You!"
+  Received 20 Oct 2026 14:25 HKT. The email prints "16 Dec 2027 (Wed)\, by
+  23:59" - an obvious typo\; the official page hkmu.edu.hk/sao/hkmu-hackat
+ hon (read 20 Oct 2026) states "16 December 2026 (Wed)\, by 23:59"\, and 1
+ 6 Dec 2026 is a Wednesday. 16 Dec 2026 is used here. Two-day event Wed 6 
+ - Thu 7 Jan 2027 (MU Tower\, then Jockey Club Campus)\; challenge stateme
+ nts from Hong Kong Maritime Museum and Hong Yip are released on Day 1. Te
+ ams of 4-6 current HKMU students\, or apply solo and SAO matches you\; pi
+ ck one partner challenge on the form. Champion HK$10\,000\, 2nd HK$6\,000
+ \, 3rd HK$4\,000\; all finalists get MetroFAITH 3h (UG) and fast-track to
+  the MetroChallenge 2027 final. Pre-hackathon sessions\, separate registr
+ ation: 13 Nov 14:30-16:30 AI-for-PowerPoint workshop\; 23 Nov 14:00-17:30
+  partner company visits\; 2 Dec 13:30-16:30 AI vibe-coding workshop. Judg
+ ed on Design Thinking\, Business Model Canvas and pitching rather than en
+ gineering depth. Applying is his.
+CATEGORIES:Hackathon
 END:VEVENT
 END:VCALENDAR
