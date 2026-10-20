@@ -1309,4 +1309,19 @@ DESCRIPTION:OLE due-date alert from HKMU-OLE <noreply@hkmu.edu.hk>\, subje
  ause the piece's brief has not been read yet. Submitting is his.
 CATEGORIES:COMP3500
 END:VEVENT
+BEGIN:VEVENT
+UID:2b424cb7d7b07ecc628c8d8d4585b053@hkmu
+DTSTAMP:20261020T030000Z
+DTSTART;TZID=Asia/Hong_Kong:20261204T235900
+DTEND;TZID=Asia/Hong_Kong:20261204T235900
+SUMMARY:ELEC 3050SEF Take-Home Assignment - DUE 23:59 (100 marks)
+DESCRIPTION:Ten questions\, roughly 100 marks\, answered into the blue a
+ reas of the assignment document. Highest weight: Q1 message segmentatio
+ n 15\, Q3 Go-Back-N vs Selective Repeat vs TCP 15\, Q4 TCP loss timelin
+ e 15. Submit as 14463982-ELEC 3050SEF-Assignment.pdf to OLE. Source: le
+ cturer email 'Take-home Assignment is released under the folder Week 7.
+  The deadline is 4 Dec 2026 (Friday)' plus the paper itself ('Submissio
+ n Deadline: 11:59 pm\, 4 Dec 2026 (Friday)')\, read 20 Oct 2026.
+CATEGORIES:ELEC 3050SEF
+END:VEVENT
 END:VCALENDAR
