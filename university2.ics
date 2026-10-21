@@ -299,12 +299,31 @@ DESCRIPTION:OLE Assignments panel confirms Group Assignment (Assignment1)\, due 
 END:VEVENT
 BEGIN:VEVENT
 UID:34b54d65ac3088b55218ebbb14f149fe@hkmu
-DTSTAMP:20260913T000000Z
+DTSTAMP:20261021T110000Z
 DTSTART;TZID=Asia/Hong_Kong:20261128T130000
 DTEND;TZID=Asia/Hong_Kong:20261128T160000
 SUMMARY:UNI 2002BEW COMPULSORY Day School (T48) 13:00-16:00 - MISS = FAIL - Grand Ballroom, New World Millennium
-DESCRIPTION:Compulsory in-person AI co-creation workshop. ABSENCE = AUTOMATIC FAIL. Venue: Grand Ballroom\, New World Millennium Hong Kong Hotel\, 72 Mody Road\, Tsim Sha Tsui East (room shared with groups T47-T52\; 21 Nov is the other cohorts' date). Session clock: 13:00 trainer briefing on the AI tools\, 14:00 first draft of Worksheet 3 (Task E Campaign Promotion)\, 15:00 tutor consultation\, 15:30 finalise\, 15:30-16:00 upload Worksheet 3 on OLE. Bring laptop + data access\; casual clothes + sports shoes (no skirt\, heels or sandals)\; water and a jacket. Tools used: HKMU ChatGPT portal\, Canva\, Leonardo.Ai.
+DESCRIPTION:Compulsory in-person AI co-creation workshop. ABSENCE = AUTOMATIC FAIL. Ve
+ nue: Grand Ballroom\, New World Millennium Hong Kong Hotel\, 72 Mody Road
+ \, Tsim Sha Tsui East (room shared with groups T47-T52).\n\nCONFIRMED BY 
+ THE COURSE LEADER (jng@hkmu.edu.hk\, 'Compulsory Day School for Lecture G
+ roup 04 (L04)'\, received Wed 21 Oct 2026 14:09 HKT)\, verbatim: 'This is
+  a reminder to attend the Compulsory Day School for Lecture Group 04 (L04
+ ) on Saturday\, 28 November 2026\, according to your official tutorial gr
+ oup.' and 'T47 - T52: 1:00 pm - 4:00 pm'. His tutorial group is T48\, so 
+ the afternoon band is his session. This settles the October confirmation 
+ the earlier verification was waiting on\; 21 Nov is not his date.\n\nSess
+ ion clock: 13:00 trainer briefing on the AI tools\, 14:00 first draft of 
+ Worksheet 3 (Task E Campaign Promotion)\, 15:00 tutor consultation\, 15:3
+ 0 finalise\, 15:30-16:00 upload Worksheet 3 on OLE. Attendance is taken f
+ or the whole session: 'Absence\, lateness\, or leaving before the end of 
+ your session may result in failure of the course.' Bring laptop + data ac
+ cess\, HKMU student ID AND HKID/passport (tutors check ID)\, name badge o
+ n arrival\, casual clothes + sports shoes (no skirt\, heels or sandals)\,
+  water and a jacket. Create free accounts for the HKMU ChatGPT portal and
+  Canva beforehand. Tools used: HKMU ChatGPT portal\, Canva\, Leonardo.Ai.
 LOCATION:Grand Ballroom\, New World Millennium Hong Kong Hotel\, 72 Mody Road\, Tsim Sha Tsui East
+CATEGORIES:UNI 2002BEW
 END:VEVENT
 BEGIN:VEVENT
 UID:2d8f862c7ff54b63ebc53962bd524221@hkmu
@@ -386,14 +405,6 @@ DTSTART;TZID=Asia/Hong_Kong:20260918T100000
 DTEND;TZID=Asia/Hong_Kong:20260918T113000
 SUMMARY:UNI 1002ABW - OLE setup + Module 1 start (core values)
 DESCRIPTION:Read What you need to know + click the acknowledgement; screenshot the marking rubric, the exact deadline time and the module schedule; start Module 1 viewing. Friday is class-free; Sat and Sun already carry the ELEC 3050 hand-ins, the FYP scoping session and the project day.
-END:VEVENT
-BEGIN:VEVENT
-UID:5f38b0933d052bfaff7eb7208a0654c1@hkmu
-DTSTAMP:20260918T120000Z
-DTSTART;TZID=Asia/Hong_Kong:20261121T090000
-DTEND;TZID=Asia/Hong_Kong:20261121T175000
-SUMMARY:UNI 2002BEW - L04 session listed on OLE (09:00-17:50) - VERIFY against your Day School
-DESCRIPTION:OLE notice pasted 18 Sep 2026: 事項名稱 UNI2002BEW\, 開始日期 2026-11-21 09:00\, 結束日期 2026-11-21 17:50\, 地點 Refer to OLE\, (Gp L04 講學 (全日制)). CAUTION: this is the LECTURE-group row. Your own compulsory Day School is Sat 28 Nov 13:00-16:00 at the New World Millennium Grand Ballroom\, because the induction deck assigns day schools by TUTORIAL group and T48 sits in the 28 Nov afternoon band. Expect the confirming email in October\; until it arrives\, treat 28 Nov as your real date and keep this date clear as a precaution.
 END:VEVENT
 BEGIN:VEVENT
 UID:b6ef18ac38a206dc7f8349098d63adc1@hkmu
@@ -1398,5 +1409,40 @@ DESCRIPTION:SAO (Student Entrepreneurship)\, saomc@hkmu.edu.hk. Subject: "
  ed on Design Thinking\, Business Model Canvas and pitching rather than en
  gineering depth. Applying is his.
 CATEGORIES:Hackathon
+END:VEVENT
+BEGIN:VEVENT
+UID:bbdde0768fe34ce8ad211cb207965b80@hkmu
+DTSTAMP:20261021T110000Z
+DTSTART;TZID=Asia/Hong_Kong:20261113T235900
+DTEND;TZID=Asia/Hong_Kong:20261113T235900
+SUMMARY:COMP 3500SEF Assignment 2 (System Modeling) - DUE Fri 13 Nov
+DESCRIPTION:Deadline: 13 November 2026 (no time stated in the mail\, so 23:59 shown).\
+ n\nSOURCE: Dr. Ndudi Okechukwu Ezeamuzie (nezeamuz@hkmu.edu.hk)\, subject
+  'Software Engineering: Assignment 2 (System Modeling)'\, received Wed 21
+  Oct 2026 16:54 HKT\, verbatim: 'The second assignment for the course is 
+ now available. To submit\, please check Assignment 2 - System Modeling in
+  OLE's Assignment File. Deadline: Nov 13\, 2026.'\n\nTopic is Sommerville
+  Ch.5 system modeling - context\, interaction\, structural and behavioura
+ l models - which his Lecture 5 note already covers. Submit in OLE\; the u
+ pload is his. Check whether the OLE dropbox called 'Assign 4' (due 26 Oct
+ ) is this same piece: OLE numbers its dropboxes independently of the cour
+ se's own assignment numbers.
+CATEGORIES:COMP3500SEF
+END:VEVENT
+BEGIN:VEVENT
+UID:b1fbd0e65663d5105019025857113f72@hkmu
+DTSTAMP:20261021T110000Z
+DTSTART;TZID=Asia/Hong_Kong:20261107T100000
+DTEND;TZID=Asia/Hong_Kong:20261107T113000
+SUMMARY:COMP 3500SEF Assignment 2 (System Modeling) - work block
+DESCRIPTION:Preparation block for COMP 3500SEF Assignment 2 (System Modeling)\, releas
+ ed 21 Oct 2026\, due Fri 13 Nov.\n\nWork to do: read the Assignment 2 bri
+ ef in OLE's Assignment File\, then build the models from Sommerville Ch.5
+  (context\, interaction\, structural\, behavioural)\, using the Lecture 5
+  note and its figures as the starting point. Saturday morning because Fri
+ day 6 Nov carries the SPSS Talent Development Scholarship deadline and Tu
+ esday 10 Nov onwards is exam-adjacent.\n\nSubmitting is his\; nothing is 
+ sent from here.
+CATEGORIES:COMP3500SEF
 END:VEVENT
 END:VCALENDAR
