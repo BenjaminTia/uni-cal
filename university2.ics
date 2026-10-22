@@ -1445,4 +1445,55 @@ DESCRIPTION:Preparation block for COMP 3500SEF Assignment 2 (System Modeling)\, 
  sent from here.
 CATEGORIES:COMP3500SEF
 END:VEVENT
+BEGIN:VEVENT
+UID:b4dcb70cfbdd1e06e4584011d461d91b@hkmu
+DTSTAMP:20261022T110458Z
+DTSTART;TZID=Asia/Hong_Kong:20261027T180000
+DTEND;TZID=Asia/Hong_Kong:20261027T200000
+SUMMARY:Huawei ICT Cloud Track - preliminary exam (Tue 27 Oct, 18:00-20:00) - TIME DISPUTED
+DESCRIPTION:Huawei Talent email (prmtalent@huawei.com)\, subject "[Huawei 
+ ICT Competition 2026-2027 Hong Kong SAR] Cloud Track Preliminary Stage Ex
+ am Notice"\, received 21 Oct 2026 22:15 HKT\, verbatim: "The Huawei ICT C
+ ompetition 2026-2027 Cloud Track Preliminary Stage will be held online on
+  the 27th October 2026\, 6:00pm-8:00pm."\nDISPUTED: the linked official e
+ xam-info page showed 10:30-12:00\, 60 minutes\, one attempt when checked 
+ 21 Oct. Confirm the session time with Huawei before the day\; this block 
+ uses the email's 18:00-20:00.\nSetup: laptop\, Chrome 140+\, disconnect e
+ xternal screens\, close other software\, disable pop-ups. Meeting: app.hu
+ awei.com/wmeeting/join/94485535 (ID 94485535\, passcode 235560). Testing 
+ link: talent.shixizhi.huawei.com (examInfo?examId=1952540523245666305). O
+ fficial exam link: examId=2112094499261509633. Log in with the account us
+ ed to register\, or the page shows Invitation Only.\nCompleting the paper
+  earns an Official Certification of Participation.
+CATEGORIES:Huawei
+LOCATION:Online
+BEGIN:VALARM
+TRIGGER:-PT90M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6f76f170f6db42c2ea6acfec46116ab3@hkmu
+DTSTAMP:20261022T110458Z
+DTSTART;TZID=Asia/Hong_Kong:20261026T195900
+DTEND;TZID=Asia/Hong_Kong:20261026T195900
+SUMMARY:Apart AI Collusion Sprint - research report DUE Mon 26 Oct 19:59 (23:59 AoE Sun)
+DESCRIPTION:Apart Research sprint email (kamil@apartresearch.com) "AI Coll
+ usion Research Sprint: what to know before Friday"\, received 21 Oct 2026
+  (02:49 HKT 22 Oct)\, verbatim: "Submissions close Sunday\, October 25\, 
+ 11:59 PM Anywhere on Earth (Monday\, October 26\, 11:59 AM UTC)."\nDelive
+ rable: research report PDF on the official template\, 4-8 pages (8-page h
+ ard cap\, references/appendices excluded)\, abstract 150 words or fewer\,
+  plus the required Limitations and Dual-Use / Ethical Considerations appe
+ ndix. Submit on the sprint page\; replacing a submission needs the exact 
+ same title.\nClashes the same week: UNI 2002BEW Assignment 2 closes 17:00
+  Mon 26 Oct and COMP 3500SEF Assign 4 closes 23:59 Mon 26 Oct.
+CATEGORIES:Competition
+BEGIN:VALARM
+TRIGGER:-PT90M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
 END:VCALENDAR
