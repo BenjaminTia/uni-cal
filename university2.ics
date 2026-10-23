@@ -2037,4 +2037,73 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:0d50487825e91f089f592acc7c1aa59c@hkmu
+DTSTAMP:20261023T110000Z
+DTSTART;TZID=Asia/Hong_Kong:20261023T093000
+DTEND;TZID=Asia/Hong_Kong:20261023T120000
+SUMMARY:UNI 2002BEW Assignment 2 - Task A evidence + Task B write-up (DUE M
+ on 26 Oct 17:00)
+DESCRIPTION:Assignment 2 (individual\, 10%) due Mon 26 Oct 17:00\, OLE only
+  - no email submissions. Task A (40 marks): two screenshots into Worksheet
+  1 - the My Course page showing his name and at least 15% course progress\
+ , and the Module 6 Knowledge Check page\; the Knowledge Check score needs 
+ to be at least 90%. Task B (60 marks\, max 300 words): "Thinking ahead\, d
+ o you expect to use AI mainly for automation\, for augmentation\, or for b
+ oth? Describe the roles you plan for AI in your teamwork." Current draft s
+ till has both screenshot placeholders empty and placeholder entries in the
+  AI-tools list.
+END:VEVENT
+BEGIN:VEVENT
+UID:a57fedda25b5d9ce49ca5e30fc16541a@hkmu
+DTSTAMP:20261023T110000Z
+DTSTART;TZID=Asia/Hong_Kong:20261023T133000
+DTEND;TZID=Asia/Hong_Kong:20261023T153000
+SUMMARY:Huawei ICT Cloud Track - preliminary exam revision (exam Tue 27 Oct
+ )
+DESCRIPTION:Preliminary exam Tue 27 Oct. TIME IS DISPUTED: the email states
+  18:00-20:00 while the exam-info page states 10:30-12:00. 60 minutes\, 100
+ 0 points\, one attempt only. Confirm the slot before the day.
+END:VEVENT
+BEGIN:VEVENT
+UID:db309546ef71bad549a6baaf4887175f@hkmu
+DTSTAMP:20261023T110000Z
+DTSTART;TZID=Asia/Hong_Kong:20261023T160000
+DTEND;TZID=Asia/Hong_Kong:20261023T173000
+SUMMARY:ELEC 3050SEF midterm revision (test Mon 2 Nov)
+DESCRIPTION:Midterm test Mon 2 Nov 2026. Lectures resume Mon 26 Oct after t
+ he midterm-week gap (no class on 19 Oct).
+END:VEVENT
+BEGIN:VEVENT
+UID:83690e52cb5770e8fc7e7e0266bce7d8@hkmu
+DTSTAMP:20261023T110000Z
+DTSTART;TZID=Asia/Hong_Kong:20261023T200000
+DTEND;TZID=Asia/Hong_Kong:20261023T220000
+SUMMARY:Apart AI Collusion Sprint - online kickoff + track reading
+DESCRIPTION:Sprint runs 23-25 Oct. In-person hub Sat 24 and Sun 25 Oct 08:0
+ 0-23:30. BLOCKER: the Apart-site sprint signup is still unfinished - Luma 
+ approval alone does not grant hub entry. Research report due Mon 26 Oct 19
+ :59 HKT (23:59 AoE Sun 25).
+END:VEVENT
+BEGIN:VEVENT
+UID:4b41e4190280bd9f9fdaf4e247451855@hkmu
+DTSTAMP:20261023T110000Z
+DTSTART;TZID=Asia/Hong_Kong:20261024T080000
+DTEND;TZID=Asia/Hong_Kong:20261024T233000
+SUMMARY:Apart AI Collusion Sprint - in person\, hub day 1
+LOCATION:Le Bureau\, 14/F Universal Trade Centre\, Central
+DESCRIPTION:In-person sprint day 1 of 2 at the Hong Kong hub in Central. Re
+ search report due Mon 26 Oct 19:59 HKT (23:59 AoE Sun 25). Hub entry needs
+  the Apart-site signup completed first.
+END:VEVENT
+BEGIN:VEVENT
+UID:ef7dd8c645663843e9672afd4c920136@hkmu
+DTSTAMP:20261023T110000Z
+DTSTART;TZID=Asia/Hong_Kong:20261025T080000
+DTEND;TZID=Asia/Hong_Kong:20261025T233000
+SUMMARY:Apart AI Collusion Sprint - in person\, hub day 2
+LOCATION:Le Bureau\, 14/F Universal Trade Centre\, Central
+DESCRIPTION:In-person sprint day 2 of 2 at the Hong Kong hub in Central. Re
+ search report due Mon 26 Oct 19:59 HKT (23:59 AoE Sun 25).
+END:VEVENT
 END:VCALENDAR
