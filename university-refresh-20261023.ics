@@ -1828,7 +1828,8 @@ DESCRIPTION:IEEEXtreme <ieee-xtreme@deliver.ieee.org>\, subject "You Asked\
  his extension notice only. Register at ieeextreme.org. Registering is his.
 CATEGORIES:IEEEXtreme
 URL:https://ieeextreme.org/
-END:VEVENTBEGIN:VEVENT
+END:VEVENT
+BEGIN:VEVENT
 UID:hkuspace-cert-collection-20261021@hkmu
 DTSTAMP:20261017T151204Z
 DTSTART;TZID=Asia/Hong_Kong:20261019T110000
