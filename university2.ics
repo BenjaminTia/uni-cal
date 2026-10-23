@@ -2106,4 +2106,22 @@ LOCATION:Le Bureau\, 14/F Universal Trade Centre\, Central
 DESCRIPTION:In-person sprint day 2 of 2 at the Hong Kong hub in Central. Re
  search report due Mon 26 Oct 19:59 HKT (23:59 AoE Sun 25).
 END:VEVENT
+BEGIN:VEVENT
+UID:4372825224e4f078280a60eb7feca147@hkmu
+DTSTAMP:20261023T110000Z
+DTSTART;TZID=Asia/Hong_Kong:20261026T235900
+DTEND;TZID=Asia/Hong_Kong:20261026T235900
+SUMMARY:COMP 3500SEF Assign 2 (OLE) - DUE Mon 26 Oct
+DESCRIPTION:OLE due-date alert\, HKMU-OLE <noreply@hkmu.edu.hk>\, subject "
+ COMP3500SEF Assign 2 Due Date Alert"\, received Fri 23 Oct 2026 06:50 HKT\
+ , verbatim: "We would like to remind you that the due date for Assignment 
+ Assign 2 is 26-10-2026 ( Mon ) ." No time is stated\, so 23:59 is used as 
+ the marker time\; read the dropbox own time in OLE. UNCERTAINTY: two COMP 
+ 3500 dropboxes now both report 26 Oct (Assign 4 alert fired 19 and 23 Oct\
+ , Assign 2 alert 23 Oct)\, while Dr Ezeamuzie mail of 21 Oct says "Assignm
+ ent 2 - System Modeling ... Deadline: Nov 13\, 2026" - a different dropbox
+ . Open OLE Assignment File and read the file names and dates before treati
+ ng this as still owed.
+CATEGORIES:COMP 3500SEF
+END:VEVENT
 END:VCALENDAR
