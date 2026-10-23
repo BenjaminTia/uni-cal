@@ -2076,35 +2076,45 @@ DESCRIPTION:Midterm test Mon 2 Nov 2026. Lectures resume Mon 26 Oct after t
 END:VEVENT
 BEGIN:VEVENT
 UID:83690e52cb5770e8fc7e7e0266bce7d8@hkmu
-DTSTAMP:20261023T110000Z
+DTSTAMP:20261023T120000Z
 DTSTART;TZID=Asia/Hong_Kong:20261023T200000
 DTEND;TZID=Asia/Hong_Kong:20261023T220000
 SUMMARY:Apart AI Collusion Sprint - online kickoff + track reading
-DESCRIPTION:Sprint runs 23-25 Oct. In-person hub Sat 24 and Sun 25 Oct 08:0
- 0-23:30. BLOCKER: the Apart-site sprint signup is still unfinished - Luma 
- approval alone does not grant hub entry. Research report due Mon 26 Oct 19
- :59 HKT (23:59 AoE Sun 25).
+DESCRIPTION:Sprint opens online at 20:00 HKT (23:59 AoE Friday). In-person 
+ hub Sat 24 and Sun 25 Oct\, 10:00-19:00 both days. BLOCKER: the Apart-site
+  sprint signup is still unfinished and entry needs both Luma and Apart reg
+ istration. Report due Mon 26 Oct 19:59 HKT\, with a mandatory initial draf
+ t upload Sun 25 Oct 15:00.
 END:VEVENT
 BEGIN:VEVENT
 UID:4b41e4190280bd9f9fdaf4e247451855@hkmu
-DTSTAMP:20261023T110000Z
-DTSTART;TZID=Asia/Hong_Kong:20261024T080000
-DTEND;TZID=Asia/Hong_Kong:20261024T233000
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Asia/Hong_Kong:20261024T100000
+DTEND;TZID=Asia/Hong_Kong:20261024T190000
 SUMMARY:Apart AI Collusion Sprint - in person\, hub day 1
-LOCATION:Le Bureau\, 14/F Universal Trade Centre\, Central
-DESCRIPTION:In-person sprint day 1 of 2 at the Hong Kong hub in Central. Re
- search report due Mon 26 Oct 19:59 HKT (23:59 AoE Sun 25). Hub entry needs
-  the Apart-site signup completed first.
+LOCATION:Le Bureau\, 14/F Universal Trade Centre\, 3-5A Arbuthnot Road\, Ce
+ ntral
+DESCRIPTION:Hub day 1 of 2. Venue hours 10:00-19:00 (the earlier 08:00-23:3
+ 0 figure came from the Luma listing and is superseded by the hub email of 
+ 23 Oct). Check in with venue host Lawrence Tse using your Luma QR code. 10
+ :15-10:45 welcome briefing plus team formation if you want teammates. Lunc
+ h provided 12:30-13:30. Venue closes 19:00\, work can continue online afte
+ r. Entry needs BOTH Luma and Apart-site registration - the Apart signup is
+  still unfinished.
 END:VEVENT
 BEGIN:VEVENT
 UID:ef7dd8c645663843e9672afd4c920136@hkmu
-DTSTAMP:20261023T110000Z
-DTSTART;TZID=Asia/Hong_Kong:20261025T080000
-DTEND;TZID=Asia/Hong_Kong:20261025T233000
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Asia/Hong_Kong:20261025T100000
+DTEND;TZID=Asia/Hong_Kong:20261025T190000
 SUMMARY:Apart AI Collusion Sprint - in person\, hub day 2
-LOCATION:Le Bureau\, 14/F Universal Trade Centre\, Central
-DESCRIPTION:In-person sprint day 2 of 2 at the Hong Kong hub in Central. Re
- search report due Mon 26 Oct 19:59 HKT (23:59 AoE Sun 25).
+LOCATION:Le Bureau\, 14/F Universal Trade Centre\, 3-5A Arbuthnot Road\, Ce
+ ntral
+DESCRIPTION:Hub day 2 of 2. Venue hours 10:00-19:00. 15:00 is the mandatory
+  initial draft upload on the Apart portal (resubmit with the exact same ti
+ tle to replace it). 18:30-19:00 closing remarks and the Local Hub Impact S
+ urvey\, which must be completed before leaving. Final hard deadline Mon 26
+  Oct 19:59 HKT.
 END:VEVENT
 BEGIN:VEVENT
 UID:4372825224e4f078280a60eb7feca147@hkmu
@@ -2123,5 +2133,16 @@ DESCRIPTION:OLE due-date alert\, HKMU-OLE <noreply@hkmu.edu.hk>\, subject "
  . Open OLE Assignment File and read the file names and dates before treati
  ng this as still owed.
 CATEGORIES:COMP 3500SEF
+END:VEVENT
+BEGIN:VEVENT
+UID:d1c2f0a4a11e4c33b0f1c0a5e7b29d10@hkmu
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Asia/Hong_Kong:20261025T150000
+DTEND;TZID=Asia/Hong_Kong:20261025T150000
+SUMMARY:Apart sprint - MANDATORY initial draft submission (portal)
+DESCRIPTION:Every team must upload an initial draft PDF on the Apart sprint
+  submission portal by 15:00 HKT Sunday. Resubmitting with the exact same p
+ roject title replaces the earlier version\, so get a baseline in early. Fi
+ nal hard deadline Mon 26 Oct 19:59 HKT.
 END:VEVENT
 END:VCALENDAR
