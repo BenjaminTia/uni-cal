@@ -2020,17 +2020,22 @@ DTSTART;TZID=Asia/Hong_Kong:20261026T195900
 DTEND;TZID=Asia/Hong_Kong:20261026T195900
 SUMMARY:Apart AI Collusion Sprint - research report DUE Mon 26 Oct 19:59 (2
  3:59 AoE Sun)
+CATEGORIES:Competition
 DESCRIPTION:Apart Research sprint email (kamil@apartresearch.com) "AI Collu
  sion Research Sprint: what to know before Friday"\, received 21 Oct 2026 (
  02:49 HKT 22 Oct)\, verbatim: "Submissions close Sunday\, October 25\, 11:
  59 PM Anywhere on Earth (Monday\, October 26\, 11:59 AM UTC)."\nDeliverabl
  e: research report PDF on the official template\, 4-8 pages (8-page hard c
  ap\, references/appendices excluded)\, abstract 150 words or fewer\, plus 
- the required Limitations and Dual-Use / Ethical Considerations appendix. S
- ubmit on the sprint page\; replacing a submission needs the exact same tit
- le.\nClashes the same week: UNI 2002BEW Assignment 2 closes 17:00 Mon 26 O
- ct and COMP 3500SEF Assign 4 closes 23:59 Mon 26 Oct.
-CATEGORIES:Competition
+ the required Limitations and Dual-Use / Ethical Considerations appendix.\n
+ SUBMISSION RULE CHANGED 24 Oct (HK AI Safety Hub <info@hkaisafetyhub.org>\
+ , subject "Update on submission rules for the AI agent collusion hackathon
+ "\, 24 Oct 2026 00:40 HKT)\, verbatim: "That is no longer the case. Submit
+  once only because resubmitting does not replace the PDF received. If you 
+ need to resubmit\, email Kamil at kamil@apartresearch.com and CC sprint@ap
+ artresearch.com." The earlier "same exact title replaces it" guidance is V
+ OID.\nClashes the same week: UNI 2002BEW Assignment 2 closes 17:00 Mon 26 
+ Oct and COMP 3500SEF Assign 4 closes 23:59 Mon 26 Oct.
 BEGIN:VALARM
 TRIGGER:-PT90M
 ACTION:DISPLAY
@@ -2107,14 +2112,16 @@ UID:ef7dd8c645663843e9672afd4c920136@hkmu
 DTSTAMP:20261023T120000Z
 DTSTART;TZID=Asia/Hong_Kong:20261025T100000
 DTEND;TZID=Asia/Hong_Kong:20261025T190000
-SUMMARY:Apart AI Collusion Sprint - in person\, hub day 2
+SUMMARY:Apart AI Collusion Sprint - in person, hub day 2
 LOCATION:Le Bureau\, 14/F Universal Trade Centre\, 3-5A Arbuthnot Road\, Ce
  ntral
-DESCRIPTION:Hub day 2 of 2. Venue hours 10:00-19:00. 15:00 is the mandatory
-  initial draft upload on the Apart portal (resubmit with the exact same ti
- tle to replace it). 18:30-19:00 closing remarks and the Local Hub Impact S
- urvey\, which must be completed before leaving. Final hard deadline Mon 26
-  Oct 19:59 HKT.
+DESCRIPTION:Hub day 2 of 2. Venue hours 10:00-19:00. 15:00 draft upload: RU
+ LE SUPERSEDED 24 Oct 00:40 HKT (HK AI Safety Hub\, "Update on submission r
+ ules") - submit once only\, because resubmitting does not replace the PDF 
+ received. The earlier "resubmit with the same title to replace it" instruc
+ tion is void\, so do not upload a draft unless it is the final paper. 18:3
+ 0-19:00 closing remarks and the Local Hub Impact Survey\, which must be co
+ mpleted before leaving. Final hard deadline Mon 26 Oct 19:59 HKT.
 END:VEVENT
 BEGIN:VEVENT
 UID:4372825224e4f078280a60eb7feca147@hkmu
@@ -2139,10 +2146,27 @@ UID:d1c2f0a4a11e4c33b0f1c0a5e7b29d10@hkmu
 DTSTAMP:20261023T120000Z
 DTSTART;TZID=Asia/Hong_Kong:20261025T150000
 DTEND;TZID=Asia/Hong_Kong:20261025T150000
-SUMMARY:Apart sprint - MANDATORY initial draft submission (portal)
-DESCRIPTION:Every team must upload an initial draft PDF on the Apart sprint
-  submission portal by 15:00 HKT Sunday. Resubmitting with the exact same p
- roject title replaces the earlier version\, so get a baseline in early. Fi
- nal hard deadline Mon 26 Oct 19:59 HKT.
+SUMMARY:Apart sprint - SINGLE submission only (no resubmission)
+DESCRIPTION:Rule changed 24 Oct 00:40 HKT (HK AI Safety Hub <info@hkaisafet
+ yhub.org>\, subject "Update on submission rules for the AI agent collusion
+  hackathon")\, verbatim: "Submit once only because resubmitting does not r
+ eplace the PDF received." Treat any 15:00 upload as FINAL - do not submit 
+ a draft. If a replacement is unavoidable\, email Kamil at kamil@apartresea
+ rch.com and CC sprint@apartresearch.com (the Luma copy of the same notice 
+ says sprints@apartresearch.com). Final hard deadline Mon 26 Oct 19:59 HKT.
+END:VEVENT
+BEGIN:VEVENT
+UID:elec3250-midterm-provisional-20261118@hkmu
+DTSTAMP:20261024T115613Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:ELEC 3250 midterm - PROVISIONAL DATE / TIME TBC
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+DESCRIPTION:Provisional date: 18 November 2026. User-reported on 14 October
+  and explicitly requested as a calendar safety marker on 24 October. NOT a
+ n official confirmed timetable. Time and room unannounced/unverified. Midt
+ erm weighting is 20% per saved induction slides. All-day marker indicates 
+ unknown time\, not an all-day test. Update this same event when confirmed.
 END:VEVENT
 END:VCALENDAR
