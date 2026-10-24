@@ -29,20 +29,14 @@ networking events, campus talks and workshops, professional-body membership - be
 `career-cal`. A dated item is added to exactly one of the two feeds.
 
 ## Files
-All four files carry the SAME uni-only content (byte-identical). Legacy names exist so a device
-subscribed to an older address still receives the correct, uni-only scope rather than the
-pre-split combined feed.
-- `uni.ics` - canonical subscription URL (use this one).
-- `university.ics` - legacy name, kept identical to `uni.ics`.
-- `university2.ics` - legacy cache-bypass mirror, kept identical.
-- `university-refresh-20261023.ics` - diagnostic cache-bypass copy (23 Oct 2026), kept identical.
+- `uni.ics` is the only supported feed. The owner confirmed the new subscriptions work and authorised retirement of all legacy aliases and outdated calendar snapshots on 24 Oct 2026.
+- Backups are kept privately outside this public repository. Old files remain in Git history; history has not been rewritten.
 
 ## Updating
-Edit `uni.ics`, copy it over the three legacy names, then stage exactly those files by name:
+Edit `uni.ics`, then stage only the changed canonical file and documentation by name:
 
 ```
-cp uni.ics university.ics; cp uni.ics university2.ics; cp uni.ics university-refresh-20261023.ics
-git -c core.autocrlf=false add uni.ics university.ics university2.ics university-refresh-20261023.ics README.md
+git -c core.autocrlf=false add uni.ics README.md
 git commit -m "..." && git push origin main
 ```
 
