@@ -1951,38 +1951,35 @@ CATEGORIES:Hackathon
 END:VEVENT
 BEGIN:VEVENT
 UID:bbdde0768fe34ce8ad211cb207965b80@hkmu
-DTSTAMP:20261021T110000Z
+DTSTAMP:20261024T120921Z
 DTSTART;TZID=Asia/Hong_Kong:20261113T235900
 DTEND;TZID=Asia/Hong_Kong:20261113T235900
-SUMMARY:COMP 3500SEF Assignment 2 (System Modeling) - DUE Fri 13 Nov
-DESCRIPTION:Deadline: 13 November 2026 (no time stated in the mail\, so 23:
- 59 shown).\n\nSOURCE: Dr. Ndudi Okechukwu Ezeamuzie (nezeamuz@hkmu.edu.hk)
- \, subject 'Software Engineering: Assignment 2 (System Modeling)'\, receiv
- ed Wed 21 Oct 2026 16:54 HKT\, verbatim: 'The second assignment for the co
- urse is now available. To submit\, please check Assignment 2 - System Mode
- ling in OLE's Assignment File. Deadline: Nov 13\, 2026.'\n\nTopic is Somme
- rville Ch.5 system modeling - context\, interaction\, structural and behav
- ioural models - which his Lecture 5 note already covers. Submit in OLE\; t
- he upload is his. Check whether the OLE dropbox called 'Assign 4' (due 26 
- Oct) is this same piece: OLE numbers its dropboxes independently of the co
- urse's own assignment numbers.
-CATEGORIES:COMP3500SEF
+SUMMARY:COMP 3500SEF Assignment 2 (System Modeling) - DUE 23:59
+DESCRIPTION:CONFIRMED live OLE Assignment File read 24 Oct: Assignment 2 - 
+ System Modeling\; Due Date: 13 Nov 2026 23:59. Multiple submission is NOT 
+ allowed. Team A models MIL. One PDF containing use-case diagram with three
+  short independent descriptions\, individual unique-use-case sequence diag
+ ram with <=200-word description\, and Assignment 1 specification. English 
+ recorded group meeting: each member presents 4-6 minutes and is identifiab
+ le. Complete MS Form https://forms.cloud.microsoft/r/eGRL4V57g4 and upload
+  the file in OLE\, then Submit manually. Previous 26 Oct Assign 2 alert is
+  superseded by this current live item\; Assign 4 on 26 Oct is Interim Prog
+ ress 02\, not this assignment. Keep both original dates as provenance\, no
+ t two deadlines.
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fbd0e65663d5105019025857113f72@hkmu
-DTSTAMP:20261021T110000Z
+DTSTAMP:20261024T120921Z
 DTSTART;TZID=Asia/Hong_Kong:20261107T100000
 DTEND;TZID=Asia/Hong_Kong:20261107T113000
-SUMMARY:COMP 3500SEF Assignment 2 (System Modeling) - work block
-DESCRIPTION:Preparation block for COMP 3500SEF Assignment 2 (System Modelin
- g)\, released 21 Oct 2026\, due Fri 13 Nov.\n\nWork to do: read the Assign
- ment 2 brief in OLE's Assignment File\, then build the models from Sommerv
- ille Ch.5 (context\, interaction\, structural\, behavioural)\, using the L
- ecture 5 note and its figures as the starting point. Saturday morning beca
- use Friday 6 Nov carries the SPSS Talent Development Scholarship deadline 
- and Tuesday 10 Nov onwards is exam-adjacent.\n\nSubmitting is his\; nothin
- g is sent from here.
-CATEGORIES:COMP3500SEF
+SUMMARY:COMP 3500SEF Assignment 2 - review models and prepare presentation
+DESCRIPTION:Actual brief downloaded from OLE on 24 Oct. Review Team A MIL u
+ se-case diagram with the team. Confirm a unique use case per member before
+  finalising the individual sequence diagram. Check three use-case descript
+ ions <=200 words combined conservatively and sequence description <=200 wo
+ rds. Rehearse 4-6 minute English explanation. Attach the original A1 speci
+ fication and arrange the new recording with team members. Due 13 Nov 23:59
+ \; no repeated submission allowed. Nothing submitted by agent.
 END:VEVENT
 BEGIN:VEVENT
 UID:b4dcb70cfbdd1e06e4584011d461d91b@hkmu
@@ -2124,24 +2121,6 @@ DESCRIPTION:Hub day 2 of 2. Venue hours 10:00-19:00. 15:00 draft upload: RU
  mpleted before leaving. Final hard deadline Mon 26 Oct 19:59 HKT.
 END:VEVENT
 BEGIN:VEVENT
-UID:4372825224e4f078280a60eb7feca147@hkmu
-DTSTAMP:20261023T110000Z
-DTSTART;TZID=Asia/Hong_Kong:20261026T235900
-DTEND;TZID=Asia/Hong_Kong:20261026T235900
-SUMMARY:COMP 3500SEF Assign 2 (OLE) - DUE Mon 26 Oct
-DESCRIPTION:OLE due-date alert\, HKMU-OLE <noreply@hkmu.edu.hk>\, subject "
- COMP3500SEF Assign 2 Due Date Alert"\, received Fri 23 Oct 2026 06:50 HKT\
- , verbatim: "We would like to remind you that the due date for Assignment 
- Assign 2 is 26-10-2026 ( Mon ) ." No time is stated\, so 23:59 is used as 
- the marker time\; read the dropbox own time in OLE. UNCERTAINTY: two COMP 
- 3500 dropboxes now both report 26 Oct (Assign 4 alert fired 19 and 23 Oct\
- , Assign 2 alert 23 Oct)\, while Dr Ezeamuzie mail of 21 Oct says "Assignm
- ent 2 - System Modeling ... Deadline: Nov 13\, 2026" - a different dropbox
- . Open OLE Assignment File and read the file names and dates before treati
- ng this as still owed.
-CATEGORIES:COMP 3500SEF
-END:VEVENT
-BEGIN:VEVENT
 UID:d1c2f0a4a11e4c33b0f1c0a5e7b29d10@hkmu
 DTSTAMP:20261023T120000Z
 DTSTART;TZID=Asia/Hong_Kong:20261025T150000
@@ -2168,5 +2147,18 @@ DESCRIPTION:Provisional date: 18 November 2026. User-reported on 14 October
  n official confirmed timetable. Time and room unannounced/unverified. Midt
  erm weighting is 20% per saved induction slides. All-day marker indicates 
  unknown time\, not an all-day test. Update this same event when confirmed.
+END:VEVENT
+BEGIN:VEVENT
+UID:comp3500-l01-test-20261124@hkmu
+DTSTAMP:20261024T120921Z
+DTSTART;TZID=Asia/Hong_Kong:20261124T090000
+DTEND;TZID=Asia/Hong_Kong:20261124T115000
+SUMMARY:COMP 3500SEF L01 - individual test (20%\; bring laptop)
+DESCRIPTION:Course Introduction Software Engineering deck\, Test (individua
+ l score) 20%: COMP3500SEF L01 Nov24\,2026 Tuesday Week13\; Time/Venue Same
+  as Lecture schedule\; bring laptop. Displayed block is the normal 09:00-1
+ 1:50 lecture/tutorial slot\, not a separately announced test duration. Ven
+ ue follows official lecture schedule\; not guessed. No final examination p
+ er same deck. Check OLE for any later timetable change.
 END:VEVENT
 END:VCALENDAR
