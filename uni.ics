@@ -207,11 +207,12 @@ UID:c8855366d48772ea3f69f383fbb53cfa@hkmu
 DTSTAMP:20260913T000000Z
 DTSTART;TZID=Asia/Hong_Kong:20261026T170000
 DTEND;TZID=Asia/Hong_Kong:20261026T170000
-SUMMARY:UNI 2002BEW Individual Assignment (Assignment 2) - DUE 17:00 Mon 26
-  Oct
-DESCRIPTION:OLE Assignments panel confirms Individual Assignment(Assignment
-  2)\, due 26 Oct 2026 at 17:00. This is Worksheet 1(individual\, 10%) on O
- LE.
+SUMMARY:UNI 2002BEW Assignment 2 - SUBMITTED 25 Oct
+DESCRIPTION:User confirmed submission on 25 October 2026. Historical deadli
+ ne marker retained for reference only\; no action owed.
+TRANSP:TRANSPARENT
+SEQUENCE:1
+LAST-MODIFIED:20261025T151248Z
 END:VEVENT
 BEGIN:VEVENT
 UID:c862c873b9f803fa64f5cb1b189a100b@hkmu
@@ -768,19 +769,15 @@ UID:78981c2cf0b085da07e39f482852135a@hkmu
 DTSTAMP:20261019T110500Z
 DTSTART;TZID=Asia/Hong_Kong:20261026T235900
 DTEND;TZID=Asia/Hong_Kong:20261026T235900
-SUMMARY:COMP 3500SEF Assign 4 (OLE) - DUE Mon 26 Oct
-DESCRIPTION:OLE due-date alert from HKMU-OLE <noreply@hkmu.edu.hk>\, subjec
- t 'COMP3500SEF Assign 4 Due Date Alert'\, received Mon 19 Oct 2026 06:40 H
- KT. Verbatim: "We would like to remind you that the due date for Assignmen
- t Assign 4 is 26-10-2026 ( Mon ) ." No time is stated in the mail\, so 23:
- 59 is used as the close\; the OLE dropbox itself may carry an earlier time
- . OLE numbers its dropboxes independently of the course's own titles (Assi
- gn 3 was the 4 Oct logbook form\; Assign 2 was the Requirement Engineering
-  brief due 20 Oct)\, so 'Assign 4' is not automatically the fourth piece: 
- open OLE > COMP 3500SEF > Assignment File > 'Assign 4' and read what it as
- ks for before planning the work. No prep block was scheduled because the p
- iece's brief has not been read yet. Submitting is his.
 CATEGORIES:COMP3500
+SUMMARY:COMP 3500SEF Interim Progress 02 logbook - SUBMITTED 25 Oct
+DESCRIPTION:User confirmed on 25 October 2026 that this logbook was submitt
+ ed earlier that day. OLE internal label Assign 4 refers to this same logbo
+ ok\; there is no separate Assignment 4 to complete. Historical due-date ma
+ rker retained for reference only\; no action owed.
+TRANSP:TRANSPARENT
+SEQUENCE:1
+LAST-MODIFIED:20261025T151248Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2b424cb7d7b07ecc628c8d8d4585b053@hkmu
