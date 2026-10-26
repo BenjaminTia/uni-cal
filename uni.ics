@@ -933,4 +933,39 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 CATEGORIES:ELEC 3050SEF
 END:VEVENT
+BEGIN:VEVENT
+UID:c3500-interim03-due-20261104@hkmu
+DTSTAMP:20261026T110825Z
+DTSTART;TZID=Asia/Hong_Kong:20261104T235900
+DTEND;TZID=Asia/Hong_Kong:20261104T235900
+SUMMARY:COMP 3500SEF Project Logbook (Interim Progress - 03) - DUE Wed 4 No
+ v
+DESCRIPTION:Dr. Ndudi Okechukwu Ezeamuzie <nezeamuz@hkmu.edu.hk>\, subject 
+ "Software Engineering: Project Logbook Submission (Interim Progress - 03) 
+ - Oct 30"\, received Mon 26 Oct 2026 09:07 HKT. Verbatim: "The submission 
+ portal for the Interim Project Report for Oct 30\, 2026 is now open." / "T
+ o submit\, please check Project Logbook Submission (Interim Progress - 03)
+  - Oct 30 in OLE's Assignment File" / "Deadline: Nov 4\, 2026." AMBIGUITY 
+ FLAGGED: the item name in OLE carries the cover date 30 Oct\, the body sta
+ tes the deadline as 4 Nov\; this event uses the body deadline. No time is 
+ stated\, so 23:59 is a placeholder\, not the dropbox's own close. Item is 
+ the Interim Progress 03 logbook\, the next in the series after Interim Pro
+ gress 02 (submitted 25 Oct). Submitting in OLE is his.
+CATEGORIES:COMP3500SEF
+END:VEVENT
+BEGIN:VEVENT
+UID:c3500-interim03-workblock-20261030@hkmu
+DTSTAMP:20261026T110825Z
+DTSTART;TZID=Asia/Hong_Kong:20261030T140000
+DTEND;TZID=Asia/Hong_Kong:20261030T153000
+SUMMARY:COMP 3500SEF Interim Progress 03 - write the logbook entry (DUE Wed
+  4 Nov)
+DESCRIPTION:One 90-minute block: open OLE Assignment File item "Project Log
+ book Submission (Interim Progress - 03) - Oct 30"\, read what it asks for\
+ , write the entry\, upload and submit. 14:00 start because Friday 30 Oct a
+ lready carries the 10:00-12:00 workplace etiquette workshop and the 12:30-
+ 14:00 heart-health talk\, and Saturday 31 Oct opens the IEEEXtreme 24-hour
+  run at 08:00 if he is sitting it. Submitting is his.
+CATEGORIES:COMP3500SEF
+END:VEVENT
 END:VCALENDAR
