@@ -918,4 +918,19 @@ DESCRIPTION:Course Introduction Software Engineering deck\, Test (individua
  ue follows official lecture schedule\; not guessed. No final examination p
  er same deck. Check OLE for any later timetable change.
 END:VEVENT
+BEGIN:VEVENT
+UID:elec3050-zoom-tentative-20261028@benjamintia
+DTSTAMP:20261026T045842Z
+DTSTART;TZID=Asia/Hong_Kong:20261028T190000
+SUMMARY:TENTATIVE: ELEC 3050 Zoom lecture (~19:00\; confirm)
+LOCATION:Online - Zoom (link unconfirmed)
+DESCRIPTION:Provisional safety marker requested by Benjamin on 26 Oct 2026.
+  Possible ELEC3050 Zoom lecture on Wednesday 28 Oct around 19:00 Hong Kong
+  time. Occurrence and exact start time are unconfirmed\; end time and Zoom
+  link are unknown. Check the lecturer announcement/OLE. Start-only marker\
+ , not an invented lecture duration.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+CATEGORIES:ELEC 3050SEF
+END:VEVENT
 END:VCALENDAR
