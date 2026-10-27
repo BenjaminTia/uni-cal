@@ -968,4 +968,26 @@ DESCRIPTION:One 90-minute block: open OLE Assignment File item "Project Log
   run at 08:00 if he is sitting it. Submitting is his.
 CATEGORIES:COMP3500SEF
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COMP 3500SEF lecture - REQUIRED ATTENDANCE
+DTSTART;TZID=Asia/Hong_Kong:20261103T090000
+DTEND;TZID=Asia/Hong_Kong:20261103T105000
+DTSTAMP:20261027T032728Z
+UID:comp3500-required-lecture-20261103@hkmu
+SEQUENCE:0
+CATEGORIES:COMP3500SEF,Required attendance
+DESCRIPTION:Attendance required for this lecture\, as explicitly confirmed
+  by Benjamin on 27 October 2026. Tuesday 3 November\, 09:00-10:50 HKT\, re
+ gular L01 lecture slot. Tutorial follows 11:00-11:50\; this marker is spec
+ ifically for the lecture. Venue follows the registered timetable: JCC\, DG
+ 309. One-off attendance marker\, not a new weekly recurring series.
+LOCATION:HKMU Jockey Club Campus\, DG309
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Required: COMP 3500SEF lecture at 09:00\, DG309
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
 END:VCALENDAR
