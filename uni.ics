@@ -1063,4 +1063,24 @@ DESCRIPTION:ELEC 3250 assignment - local lab setup and evidence
 TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COMP 3500 Assignment 2 - group Zoom call
+DTSTART;TZID=Asia/Hong_Kong:20261105T160000
+DTEND;TZID=Asia/Hong_Kong:20261105T173000
+DTSTAMP:20261028T130251Z
+UID:comp3500-a2-group-zoom-20261105@hkmu
+SEQUENCE:0
+DESCRIPTION:Group meeting for COMP 3500 Assignment 2. Date and 16:00 HKT s
+ tart supplied directly by Benjamin. A 90-minute calendar reservation is as
+ sumed\; actual finish time is not confirmed. Zoom joining link not supplie
+ d. No invitations sent.
+LOCATION:Zoom
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:COMP 3500 Assignment 2 group Zoom call in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
