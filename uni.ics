@@ -996,4 +996,29 @@ DESCRIPTION:Required: COMP 3500SEF lecture at 09:00\, DG309
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UNI 2002BEW - check and finish outstanding Unit 3/4 activities
+DTSTART;TZID=Asia/Hong_Kong:20261106T100000
+DTEND;TZID=Asia/Hong_Kong:20261106T113000
+DTSTAMP:20261028T085527Z
+UID:uni2002-check-finish-released-units-20261106@hkmu
+DESCRIPTION:Check OLE Assessments first and work only on items not already
+  completed. Records confirm Units 1 and 2 completed\; Unit 3 and Unit 4 su
+ bmissions are not confirmed. Unit 3: Activity 3.12\, AI Activity 3.1\, rev
+ iew quiz. Unit 4: Activity 4.22\, AI Activity 4.4\, review quiz. Only assi
+ gned activities are required\; review quizzes are attempt-once. Do not res
+ ubmit completed items. Later units: verify release and assigned list befor
+ e working. All online tasks close 29 November 2026 23:59. This is a checki
+ ng/completion work block\, not a claim that OLE shows these items incomple
+ te. Authorised in the 28 October conversation about remaining unit reminde
+ rs.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Check OLE and finish only unfinished UNI2002 Unit 3/4 assigned
+  activities.
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
