@@ -997,27 +997,26 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UNI 2002BEW - check and finish outstanding Unit 3/4 activities
+SUMMARY:UNI 2002BEW - check Units 4/5 and finish released assigned tasks
 DTSTART;TZID=Asia/Hong_Kong:20261106T100000
 DTEND;TZID=Asia/Hong_Kong:20261106T113000
-DTSTAMP:20261028T085527Z
+DTSTAMP:20261028T085930Z
 UID:uni2002-check-finish-released-units-20261106@hkmu
-DESCRIPTION:Check OLE Assessments first and work only on items not already
-  completed. Records confirm Units 1 and 2 completed\; Unit 3 and Unit 4 su
- bmissions are not confirmed. Unit 3: Activity 3.12\, AI Activity 3.1\, rev
- iew quiz. Unit 4: Activity 4.22\, AI Activity 4.4\, review quiz. Only assi
- gned activities are required\; review quizzes are attempt-once. Do not res
- ubmit completed items. Later units: verify release and assigned list befor
- e working. All online tasks close 29 November 2026 23:59. This is a checki
- ng/completion work block\, not a claim that OLE shows these items incomple
- te. Authorised in the 28 October conversation about remaining unit reminde
- rs.
+SEQUENCE:1
+DESCRIPTION:Benjamin reports 28 October that he thinks Unit 3 is finished
+ \; verify its completion tick only\, do not redo or resubmit completed qui
+ zzes. Check Unit 4 status and finish only its outstanding assigned Activit
+ y 4.22\, AI Activity 4.4 and review quiz. Check whether Unit 5 is released
+  and read its actual assigned list\; do not assume it is released or inven
+ t activity numbers. Complete only released\, unfinished required work. Uni
+ ts 1/2 recorded complete. All assigned online tasks close 29 November 2026
+  at 23:59. Review quizzes are attempt-once.
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Check OLE and finish only unfinished UNI2002 Unit 3/4 assigned
-  activities.
+DESCRIPTION:Check UNI2002 Units 4/5\; finish only released outstanding tas
+ ks. Unit 3 believed completed: verify\, do not redo.
 TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
