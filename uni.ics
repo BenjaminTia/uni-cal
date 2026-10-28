@@ -1020,4 +1020,47 @@ DESCRIPTION:Check UNI2002 Units 4/5\; finish only released outstanding tas
 TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC 3250 second-part individual assignment - DUE 23:59
+DTSTART;TZID=Asia/Hong_Kong:20261127T235900
+DTEND;TZID=Asia/Hong_Kong:20261127T235900
+DTSTAMP:20261028T091102Z
+UID:elec3250-second-part-assignment-20261127@hkmu
+DESCRIPTION:ELEC3250 second-part individual assignment\; command injection
+ \, SQL injection\, stored XSS in supplied local training VM. PDF report wi
+ th steps and screenshots through OLE only. Weight 10%\; late submission no
+ t accepted\; no filename rule given. Source: Week 9 assignment PDF\, page 
+ 1\, read 28 October. Deadline 27 Nov 2026 23:59\; HKT is institutional wor
+ king interpretation\, timezone not printed. Confirm live dropbox settings.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ELEC 3250 second-part individual assignment - DUE 23:59
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC 3250 assignment - local lab setup and evidence
+DTSTART;TZID=Asia/Hong_Kong:20261121T100000
+DTEND;TZID=Asia/Hong_Kong:20261121T113000
+DTSTAMP:20261028T091102Z
+UID:elec3250-second-part-assignment-work-20261121@hkmu
+DESCRIPTION:First work session\, not a completion-time estimate. Check aut
+ horised supplied VM/setup\, perform only local coursework tasks and record
+  genuine steps/screenshots. No public targets. ELEC3250 second-part indivi
+ dual assignment\; command injection\, SQL injection\, stored XSS in suppli
+ ed local training VM. PDF report with steps and screenshots through OLE on
+ ly. Weight 10%\; late submission not accepted\; no filename rule given. So
+ urce: Week 9 assignment PDF\, page 1\, read 28 October. Deadline 27 Nov 20
+ 26 23:59\; HKT is institutional working interpretation\, timezone not prin
+ ted. Confirm live dropbox settings.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ELEC 3250 assignment - local lab setup and evidence
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
