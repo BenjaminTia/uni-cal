@@ -1083,4 +1083,27 @@ DESCRIPTION:COMP 3500 Assignment 2 group Zoom call in 30 minutes
 TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC 3050SEF Lab 3 TCP - DUE 23:59
+DTSTART;TZID=Asia/Hong_Kong:20261101T235900
+DTEND;TZID=Asia/Hong_Kong:20261102T000000
+DTSTAMP:20261029T005021Z
+UID:elec3050-lab3-tcp-deadline-20261101@hkmu
+CATEGORIES:HKMU,ELEC3050SEF,Deadline
+DESCRIPTION:Source: Lab3-TCP-Lab manual-2026.pdf\, page 1: "Submission dea
+ dline: 11:59pm\, 1 Nov 2026 (Sunday)". Submit the Google Form answer sheet
+ \, save its response as StudentID-Lab3-TCP.pdf\, then upload the response 
+ to Lab3-TCP on OLE. The 29 October OLE email separately labels a 1 Novembe
+ r deadline "Assign 6"\; the matching date suggests the same task\, but the
+  email alone does not confirm the label-to-lab mapping. Nothing submitted 
+ by the assistant.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://forms.gle/BWkLbzAeBAGHtFV9A
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ELEC 3050SEF Lab 3 TCP due tomorrow at 23:59
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
 END:VCALENDAR
