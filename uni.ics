@@ -1107,42 +1107,37 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:elec3050-tutorial3-20261103@hkmu
-DTSTAMP:20261030T053000Z
+SUMMARY:ELEC 3050SEF Tutorial 3 - OFFICIAL OLE deadline 3 Nov / TIME TBC
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-SUMMARY:ELEC 3050SEF Tutorial 3 - DUE 3 Nov (his date\; the sheet prints 8 
- Nov 23:59)
-DESCRIPTION:Two dates are in play. The supplied sheet (Week 7/Tutorial3.doc
- x) states verbatim: "Submission Deadline: 8 Nov 2026\, 11:59 pm" and "Form
- at: Tutorial3-studentID.pdf". He stated on 30 Oct 2026 that it is due 3 No
- vember. No OLE due-date alert for Tutorial 3 had arrived as of 30 Oct 2026
-  (Gmail search for Assign 7 and Assign 8 returned nothing)\, so OLE has no
- t announced it. Aim for the earlier date so either reading is met. Time TB
- C: the sheet gives 23:59 on its own date\, nothing is stated for 3 Nov. An
- swers are already prepared\; exporting Tutorial3-14463982.pdf and uploadin
- g it are his.
+DTSTAMP:20261030T053244Z
+UID:elec3050-tutorial3-20261103@hkmu
+SEQUENCE:1
 CATEGORIES:ELEC
+DESCRIPTION:Official OLE deadline: 3 November 2026. Benjamin confirmed on 
+ 30 October 2026 that the updated date he supplied comes directly from OLE.
+  This supersedes the older sheet's 8 November date\; it is not provisional
+  or an unresolved conflict. Cutoff time not supplied: TIME TBC. Prepare th
+ e required Tutorial3-studentID.pdf and upload through OLE.
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:elec3630-assignment2-20261115@hkmu
-DTSTAMP:20261030T053000Z
+SUMMARY:ELEC 3630SEF Assignment 2 - OFFICIAL OLE deadline 15 Nov / TIME TB
+ C
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-SUMMARY:ELEC 3630SEF Assignment 2 (50 marks) - DUE Sun 15 Nov (his date\; n
- o printed deadline)
-DESCRIPTION:Released on OLE 30 Oct 2026: Dr Eddie Tjon Kai Chun\, "[Advance
- d Computer Design] Assignment 2 Released on OLE"\, 30 Oct 2026 10:50 HKT\,
-  verbatim: "Assignment 2 is released on OLE. Please check." Paper: ELEC 36
- 30SEF/Assignment 2.pdf\, 5 pages\, 50 marks (Q1 cache write-back trace 15\
- , Q2 AMAT and L2 comparison 7\, Q3 MESIF three-processor states 19\, Q4 L4
-  cache in Meteor Lake 9). NEITHER the paper NOR the release mail states a 
- deadline\; 15 November 2026 is the date he reported in chat on 30 Oct 2026
- \, so it is provisional until the OLE dropbox confirms. Time TBC. Submissi
- on: one PDF to OLE named StudentName_s12345678_A2\, name and student numbe
- r on page 1\; JPEG uploads and email submission are penalised.
+DTSTAMP:20261030T053244Z
+UID:elec3630-assignment2-20261115@hkmu
+SEQUENCE:1
 CATEGORIES:ELEC
+DESCRIPTION:Official OLE deadline: 15 November 2026. Benjamin confirmed on
+  30 October 2026 that the date he supplied comes directly from OLE. The pa
+ per and release email omit a deadline\, but OLE supplies it\; the date is 
+ official\, not provisional. Cutoff time not supplied: TIME TBC. Assignment
+  2: 50 marks. Submit a PDF through OLE using the filename convention presc
+ ribed in the paper.
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
