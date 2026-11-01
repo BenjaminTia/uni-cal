@@ -957,7 +957,10 @@ DESCRIPTION:Dr. Ndudi Okechukwu Ezeamuzie <nezeamuz@hkmu.edu.hk>\, subject
  ates the deadline as 4 Nov\; this event uses the body deadline. No time is
   stated\, so 23:59 is a placeholder\, not the dropbox's own close. Item is
   the Interim Progress 03 logbook\, the next in the series after Interim Pr
- ogress 02 (submitted 25 Oct). Submitting in OLE is his.
+ ogress 02 (submitted 25 Oct). Submitting in OLE is his. OLE labels this dr
+ opbox "Assign 5": HKMU-OLE due-date alert received Sun 1 Nov 2026 06:40 HKT
+ \, verbatim "the due date for Assignment Assign 5 is 04-11-2026 ( Wed )". S
+ ame claim as this marker\, not a second task.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:COMP 3500SEF Interim Progress 03 - write the logbook entry (DUE We
@@ -1118,5 +1121,25 @@ ACTION:DISPLAY
 DESCRIPTION:COMP 3500SEF - work on presentation/PPT
 TRIGGER:-PT15M
 END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UNI 1002ABW course completion (viewing requirements) - DUE Mon 30 N
+ ov
+DTSTART;TZID=Asia/Hong_Kong:20261130T235900
+DTEND;TZID=Asia/Hong_Kong:20261130T235900
+DTSTAMP:20261101T110500Z
+UID:uni1002abw-completion-due-20261130@hkmu
+CATEGORIES:UNI1002ABW
+DESCRIPTION:HKMU-OLE <noreply@hkmu.edu.hk>\, subject "Reminder: Course Comp
+ letion Date for UNI1002ABW"\, received Sun 1 Nov 2026 07:21 HKT at s1446398
+ @live.hkmu.edu.hk (forwarded into Gmail). Verbatim: "This is to remind you 
+ that the completion date for the course UNI1002ABW University Core Values i
+ s 2026-11-30 23:59." and "In additon to submtting the assignment\, please b
+ e reminded to also check your completion status by clicking the My Study Pr
+ ogress button on the course front page\, and ensure that you meet all the v
+ iewing requirements of this course." Typos quoted as sent. DISTINCT from th
+ e 23 Nov reflective-essay deadline: a viewing-progress shortfall fails the 
+ course on its own\, so this is a separate close. The stated close time 23:5
+ 9 is the one printed in the mail. Submitting and checking progress is his.
 END:VEVENT
 END:VCALENDAR
