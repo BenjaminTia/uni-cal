@@ -1101,4 +1101,22 @@ DESCRIPTION:Official OLE deadline: 15 November 2026. Benjamin confirmed on
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COMP 3500SEF - work on presentation/PPT
+DTSTART;TZID=Asia/Hong_Kong:20261102T140000
+DTEND;TZID=Asia/Hong_Kong:20261102T153000
+DTSTAMP:20261101T102857Z
+UID:comp3500-ppt-work-20261102@hkmu
+CATEGORIES:COMP3500SEF,Work
+DESCRIPTION:Course presentation preparation\, requested by Benjamin for 2 
+ November. No presentation submission deadline inferred. Scheduled after th
+ e ELEC3050 test and lunch.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:COMP 3500SEF - work on presentation/PPT
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
