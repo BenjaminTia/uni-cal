@@ -921,15 +921,11 @@ DESCRIPTION:COMP3500SEF L01 individual test\, 20%. Course Introduction deck
  : Nov 24 2026 Tuesday Week 13\, time and venue same as the lecture schedul
  e\, bring laptop. Displayed block is the normal 09:00-11:50 lecture/tutori
  al slot\, not an announced test duration. Same deck: no final examination\
- , and a minimum of 50% in OCAS and 50% in OES is required. SCOPE: no decla
- red topic list. Course Guide 6.1 says only that the test evaluates mastery
-  of software engineering concepts and techniques. Lecturer on 24 Sep said 
- areas were not yet decided and would be announced about two weeks before\,
-  so an announcement is due around 10 Nov and none has arrived. Course topi
- c envelope: introduction\, software processes\, agile\, requirements engin
- eering\, system modeling\, architectural design\, design and implementatio
- n\, software testing\, software evolution. CILOs 1 to 6. Check OLE for lat
- er changes.
+ , and a minimum of 50% in OCAS and 50% in OES is required. SCOPE\, declare
+ d 2 November 2026 by the professor (reported by Benjamin): Lecture 1 throu
+ gh Lecture 9\, ending at Software Testing. Software Evolution is excluded.
+  Format and further details are due in a release a fortnight before the te
+ st\, around 10 November. CILOs 1 to 6. Check OLE for the detail release.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TENTATIVE: ELEC 3050 Zoom lecture (~19:00\; confirm)
