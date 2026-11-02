@@ -917,12 +917,19 @@ DTSTART;TZID=Asia/Hong_Kong:20261124T090000
 DTEND;TZID=Asia/Hong_Kong:20261124T115000
 DTSTAMP:20261024T120921Z
 UID:comp3500-l01-test-20261124@hkmu
-DESCRIPTION:Course Introduction Software Engineering deck\, Test (individu
- al score) 20%: COMP3500SEF L01 Nov24\,2026 Tuesday Week13\; Time/Venue Sam
- e as Lecture schedule\; bring laptop. Displayed block is the normal 09:00-
- 11:50 lecture/tutorial slot\, not a separately announced test duration. Ve
- nue follows official lecture schedule\; not guessed. No final examination 
- per same deck. Check OLE for any later timetable change.
+DESCRIPTION:COMP3500SEF L01 individual test\, 20%. Course Introduction deck
+ : Nov 24 2026 Tuesday Week 13\, time and venue same as the lecture schedul
+ e\, bring laptop. Displayed block is the normal 09:00-11:50 lecture/tutori
+ al slot\, not an announced test duration. Same deck: no final examination\
+ , and a minimum of 50% in OCAS and 50% in OES is required. SCOPE: no decla
+ red topic list. Course Guide 6.1 says only that the test evaluates mastery
+  of software engineering concepts and techniques. Lecturer on 24 Sep said 
+ areas were not yet decided and would be announced about two weeks before\,
+  so an announcement is due around 10 Nov and none has arrived. Course topi
+ c envelope: introduction\, software processes\, agile\, requirements engin
+ eering\, system modeling\, architectural design\, design and implementatio
+ n\, software testing\, software evolution. CILOs 1 to 6. Check OLE for lat
+ er changes.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TENTATIVE: ELEC 3050 Zoom lecture (~19:00\; confirm)
