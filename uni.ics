@@ -961,8 +961,10 @@ DESCRIPTION:Dr. Ndudi Okechukwu Ezeamuzie <nezeamuz@hkmu.edu.hk>\, subject
   stated\, so 23:59 is a placeholder\, not the dropbox's own close. Item is
   the Interim Progress 03 logbook\, the next in the series after Interim Pr
  ogress 02 (submitted 25 Oct). Submitting in OLE is his. OLE labels this dr
- opbox "Assign 5": HKMU-OLE due-date alert received Sun 1 Nov 2026 06:40 HKT
- \, verbatim "the due date for Assignment Assign 5 is 04-11-2026 ( Wed )". S
+ opbox "Assign 5": HKMU-OLE due-date alert received Sun 1 Nov 2026 06:40 HK
+ T
+ \, verbatim "the due date for Assignment Assign 5 is 04-11-2026 ( Wed )". 
+ S
  ame claim as this marker\, not a second task.
 END:VEVENT
 BEGIN:VEVENT
@@ -1134,15 +1136,53 @@ DTSTAMP:20261101T110500Z
 UID:uni1002abw-completion-due-20261130@hkmu
 CATEGORIES:UNI1002ABW
 DESCRIPTION:HKMU-OLE <noreply@hkmu.edu.hk>\, subject "Reminder: Course Comp
- letion Date for UNI1002ABW"\, received Sun 1 Nov 2026 07:21 HKT at s1446398
- @live.hkmu.edu.hk (forwarded into Gmail). Verbatim: "This is to remind you 
- that the completion date for the course UNI1002ABW University Core Values i
- s 2026-11-30 23:59." and "In additon to submtting the assignment\, please b
- e reminded to also check your completion status by clicking the My Study Pr
- ogress button on the course front page\, and ensure that you meet all the v
- iewing requirements of this course." Typos quoted as sent. DISTINCT from th
- e 23 Nov reflective-essay deadline: a viewing-progress shortfall fails the 
- course on its own\, so this is a separate close. The stated close time 23:5
+ letion Date for UNI1002ABW"\, received Sun 1 Nov 2026 07:21 HKT at s144639
+ 8
+ @live.hkmu.edu.hk (forwarded into Gmail). Verbatim: "This is to remind you
+  
+ that the completion date for the course UNI1002ABW University Core Values 
+ i
+ s 2026-11-30 23:59." and "In additon to submtting the assignment\, please 
+ b
+ e reminded to also check your completion status by clicking the My Study P
+ r
+ ogress button on the course front page\, and ensure that you meet all the 
+ v
+ iewing requirements of this course." Typos quoted as sent. DISTINCT from t
+ h
+ e 23 Nov reflective-essay deadline: a viewing-progress shortfall fails the
+  
+ course on its own\, so this is a separate close. The stated close time 23:
+ 5
  9 is the one printed in the mail. Submitting and checking progress is his.
+END:VEVENT
+BEGIN:VEVENT
+UID:comp3500-project-report-20261208@hkmu
+DTSTAMP:20261102T000000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:COMP 3500SEF Project Report - DUE Tue 8 Dec (leader submits PDF)
+DESCRIPTION:Course Introduction deck slide 25: project report not more than
+  1000 words\, source code excluded from the count\, GitHub link on the fir
+ st line of the report\, free format\, submitted as a PDF through the OLE a
+ ssignment link by the group leader or representative. Deadline Dec 8 2026\
+ , early submission encouraged\, late submission not accepted. No time of d
+ ay is printed\, so this marker is all-day.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:comp3500-project-logbook-final-20261208@hkmu
+DTSTAMP:20261102T000000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:COMP 3500SEF Project Logbook final - DUE Tue 8 Dec (individual)
+DESCRIPTION:Course Introduction deck slide 26: individual component\, no co
+ pying from group members\, final project logbook submitted with questions 
+ about participation. Interim dropboxes are labelled Sep 30\, Oct 15\, Oct 
+ 30 and Nov 15 on the deck\; those are item labels\, and OLE's actual due d
+ ates lag them (Oct 15 item due 26 Oct\, Oct 30 item due 4 Nov as Assign 5)
+ . Final deadline Dec 8 2026\, late submission not accepted. No time of day
+  is printed\, so this marker is all-day.
+TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
