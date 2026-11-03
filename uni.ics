@@ -221,10 +221,15 @@ DTSTART;TZID=Asia/Hong_Kong:20261116T170000
 DTEND;TZID=Asia/Hong_Kong:20261116T170000
 DTSTAMP:20260913T000000Z
 UID:c862c873b9f803fa64f5cb1b189a100b@hkmu
-DESCRIPTION:OLE Assignments panel confirms Group Assignment (Assignment1)
- \, due 16 Nov 2026 at 17:00. This is Worksheet 2 (group\, 20%): TaskC camp
- aign plan and Task D team-performance video\; every memberseparately uploa
- ds their Peer Evaluation Form.
+DESCRIPTION:OLE Assignments panel confirms Group Assignment (Assignment 1)\
+ , due 16 Nov 2026 at 17:00. This is Worksheet 2 (group\, 20%): Task C camp
+ aign plan plus Task D team-performance video. Two uploads happen: one memb
+ er submits Worksheet 2\, and every member separately submits their own Pee
+ r Evaluation Form. The video itself is not uploaded. Worksheet 2 Task D ca
+ rries either a Zoom link with password or a YouTube URL the teacher can op
+ en\, plus the presenter list with student number and name\, the AI tools l
+ ist and APA 7 references. Source: Group Assignment brief and rubrics saved
+  3 Nov 2026.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UNI 2002BEW COMPULSORY Day School (T48) 13:00-16:00 - MISS = FAIL 
@@ -1011,22 +1016,18 @@ DTEND;TZID=Asia/Hong_Kong:20261106T113000
 DTSTAMP:20261028T085930Z
 UID:uni2002-check-finish-released-units-20261106@hkmu
 SEQUENCE:1
-DESCRIPTION:Benjamin reports 28 October that he thinks Unit 3 is finished
- \; verify its completion tick only\, do not redo or resubmit completed qui
- zzes. Check Unit 4 status and finish only its outstanding assigned Activit
- y 4.22\, AI Activity 4.4 and review quiz. Check whether Unit 5 is released
-  and read its actual assigned list\; do not assume it is released or inven
- t activity numbers. Complete only released\, unfinished required work. Uni
- ts 1/2 recorded complete. All assigned online tasks close 29 November 2026
-  at 23:59. Review quizzes are attempt-once.
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Check UNI2002 Units 4/5\; finish only released outstanding tas
- ks. Unit 3 believed completed: verify\, do not redo.
 TRIGGER:-PT30M
 END:VALARM
+DESCRIPTION:Units 1 to 4 assigned online activities and review quizzes are 
+ all submitted as of 3 Nov 2026. Unit 4 was finished that evening: Activity
+  4.22\, AI Activity 4.4 and the Unit 4 review quiz. This block is now a ch
+ eck for Unit 5 release and its assigned list\, plus anything OLE still sho
+ ws as outstanding. Nothing in Units 1 to 4 needs redoing\, and the review 
+ quizzes are attempt-once so they must not be repeated.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELEC 3250 second-part individual assignment - DUE 23:59
