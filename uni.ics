@@ -1185,4 +1185,45 @@ DESCRIPTION:Course Introduction deck slide 26: individual component\, no co
   is printed\, so this marker is all-day.
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:comp3500-progress-review-g9-20261110@hkmu
+DTSTAMP:20261103T015558Z
+DTSTART;TZID=Asia/Hong_Kong:20261110T090000
+DTEND;TZID=Asia/Hong_Kong:20261110T105000
+SUMMARY:COMP 3500SEF project progress review - Group 9 presents (6th of 8)
+LOCATION:HKMU Jockey Club Campus\, DG309 (lecture room\; the order sheet pr
+ ints no venue)
+DESCRIPTION:COMP 3500SEF 10-minute group project progress review\, run insi
+ de the Tuesday lecture slot. Order per the OLE sheet presentation_order_So
+ ftware_Engineering_L01.pdf (3 Nov 2026): 10 Nov runs groups 22\, 18\, 24\,
+  20\, 3\, 9\, 6\, 17\, so Group 9 is 6th of 8 that day. The exact clock sl
+ ot within the session is not printed on the sheet.\nSheet requirements: al
+ l group members on stage\; two or more members may share the talking\; all
+  students attend the presentations\; lectures continue with Q&A. Cover req
+ uirement engineering\, system modelling/design\, implementation\, validati
+ on/testing and evolution\, and skip a topic only if the lecture has not co
+ vered it yet.\nSlides go to SE03 MS Form https://forms.cloud.microsoft/r/t
+ yaGV1CSBY as .ppt or .pptx only\, at least 24h before the lecture time of 
+ the presentation date.
+CATEGORIES:COMP3500
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:comp3500-progress-review-g9-slides-due-20261109@hkmu
+DTSTAMP:20261103T015558Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:COMP 3500SEF Group 9 slides DUE - 24h before the 10 Nov review (by 
+ 09:00 Mon)
+DESCRIPTION:Submit the Group 9 progress-review deck through SE03: Project P
+ rogress Review MS Form https://forms.cloud.microsoft/r/tyaGV1CSBY - .ppt o
+ r .pptx only.\nThe OLE order sheet says 'at least 24hrs before the Lecture
+  time of the group's presentation date'. The Tuesday lecture slot is 09:00
+ -10:50\, so the cutoff lands at 09:00 on Monday 9 Nov. Submitted by the gr
+ oup leader or a representative.
+CATEGORIES:COMP3500
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
 END:VCALENDAR
