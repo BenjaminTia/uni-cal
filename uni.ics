@@ -1227,4 +1227,23 @@ CATEGORIES:COMP3500
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
+BEGIN:VEVENT
+UID:lc-ielts-intensive-course-registration-20261108@hkmu
+DTSTAMP:20261104T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Language Centre IELTS Intensive Course - registration DUE Sun 8 Nov
+DESCRIPTION:Language Centre lc@hkmu.edu.hk\, '(Join Now!) Get Ready for IEL
+ TS : Intensive 8-Lesson Course by the Language Centre (Nov 10 to Dec 3) (1
+ 00% FREE for HKMU students)'\, 4 Nov 2026 12:56 HKT. Verbatim: 'Applicatio
+ n deadline: Nov 8\, 2026'. Eight lessons\, two per week\, Tue and Thu 11:0
+ 0-13:00 (10\, 12\, 17\, 19\, 24\, 26 Nov\; 1\, 3 Dec)\, classroom A0411\, 
+ Main Campus. Tuition free\, but a HK00 deposit is required\, refunded to t
+ hose who attend at least 6 of 8 lessons and non-refundable on cancellation
+ . Quota about 30 per class\, first come first served. Register: https://st
+ udent.intranet.hkmu.edu.hk/ers/prod/ERS_detail.jsp?eid=010939&lang=eng&mod
+ e=all . The mail prints only a date\, so this is an all-day marker with TI
+ ME TBC.
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
