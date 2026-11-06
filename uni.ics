@@ -1246,4 +1246,24 @@ DESCRIPTION:Language Centre lc@hkmu.edu.hk\, '(Join Now!) Get Ready for IEL
  ME TBC.
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC 3050SEF Assign 8 - DUE 23:59 Fri 13 Nov
+DTSTART;TZID=Asia/Hong_Kong:20261113T235900
+DTEND;TZID=Asia/Hong_Kong:20261113T235900
+DTSTAMP:20261106T110000Z
+UID:74334158d4208467ec59332d78a75eea@hkmu
+DESCRIPTION:OLE due-date alert. HKMU-OLE <noreply@hkmu.edu.hk>\, subject "E
+ LEC3050SEF Assign 8 Due Date Alert"\, received Fri 6 Nov 2026 07:00 HKT\, v
+ erbatim: "the due date for Assignment Assign 8 is 13-11-2026 ( Fri )" and "
+ If you have already submitted the assignment\, please ignore this message."
+  No clock time is printed\; 23:59 is the OLE convention already confirmed o
+ n COMP 3500 Assignment 2 and used on this course's earlier items. The deliv
+ erable behind the label is NOT identified: OLE numbers its dropboxes indepe
+ ndently of the course's own numbering (Assign 6 = Lab 3 TCP\, Assign 7 = Tu
+ torial 3)\, so open the OLE Assignment File before planning the work. No re
+ ceipt exists for Assign 8\; Assign 6 and Assign 7 were both receipted on 31
+  Oct 2026. Submitting is his.
+CATEGORIES:ELEC 3050SEF
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
