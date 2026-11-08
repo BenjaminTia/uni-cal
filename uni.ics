@@ -1093,20 +1093,23 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ELEC 3630SEF Assignment 2 - OFFICIAL OLE deadline 15 Nov / TIME TB
- C
+SUMMARY:ELEC 3630SEF Assignment 2 (TMA 2) - OFFICIAL OLE deadline 15 Nov / 
+ TIME TBC
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 DTSTAMP:20261030T053244Z
 UID:elec3630-assignment2-20261115@hkmu
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:ELEC
-DESCRIPTION:Official OLE deadline: 15 November 2026. Benjamin confirmed on
-  30 October 2026 that the date he supplied comes directly from OLE. The pa
- per and release email omit a deadline\, but OLE supplies it\; the date is 
- official\, not provisional. Cutoff time not supplied: TIME TBC. Assignment
-  2: 50 marks. Submit a PDF through OLE using the filename convention presc
- ribed in the paper.
+DESCRIPTION:Official OLE deadline: 15 November 2026. OLE's own reminder of 
+ 8 Nov 2026 06:45 HKT (HKMU-OLE\, "ELEC3630SEF TMA 2 Due Date Alert") print
+ s the date verbatim: "the due date for Assignment TMA 2 is 15-11-2026 ( Su
+ n )". OLE calls Assignment 2 TMA 2\, exactly as the Assignment 1 receipt c
+ alled that one "Assignment TMA 1"\, so a TMA 2 alert refers to this item a
+ nd not to a separate assignment. Cutoff time not supplied: TIME TBC. Assig
+ nment 2: 50 marks. Submit a PDF through OLE using the filename convention 
+ prescribed in the paper. Nothing filed against the dropbox as of 8 Nov 202
+ 6.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
