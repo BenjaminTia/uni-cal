@@ -922,15 +922,17 @@ DTSTART;TZID=Asia/Hong_Kong:20261124T090000
 DTEND;TZID=Asia/Hong_Kong:20261124T115000
 DTSTAMP:20261024T120921Z
 UID:comp3500-l01-test-20261124@hkmu
-DESCRIPTION:COMP3500SEF L01 individual test\, 20%. Course Introduction dec
- k: Nov 24 2026 Tuesday Week 13\, time and venue same as the lecture schedu
- le\, bring laptop. Displayed block is the normal 09:00-11:50 lecture/tutor
- ial slot\, not an announced test duration. Same deck: no final examination
- \, and a minimum of 50% in OCAS and 50% in OES is required. SCOPE\, declar
- ed 2 November 2026 by the professor (reported by Benjamin): Lecture 1 thro
- ugh Lecture 9\, ending at Software Testing. Software Evolution is excluded
- . Format and further details are due in a release a fortnight before the t
- est\, around 10 November. CILOs 1 to 6. Check OLE for the detail release.
+DESCRIPTION:COMP3500SEF L01 individual test\, 20%. Course Introduction deck
+ : Nov 24 2026 Tuesday Week 13\, time and venue same as the lecture schedul
+ e\, bring laptop. Displayed block is the normal 09:00-11:50 lecture/tutori
+ al slot\, not an announced test duration. Same deck: no final examination\
+ , and a minimum of 50% in OCAS and 50% in OES is required. SCOPE\, declare
+ d 2 November 2026 by the professor (reported by Benjamin): Lecture 1 throu
+ gh Lecture 9\, ending at Software Testing. Software Evolution is excluded.
+  The detail release has landed: Dr Ezeamuzie's 9 November 2026 12:04 mail 
+ says to check OLE week 1 for the two files 'Test - Instructions' and 'Test
+  - Find Your Seat No'\; read both and note the seat number before the day.
+  CILOs 1 to 6.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TENTATIVE: ELEC 3050 Zoom lecture (~19:00\; confirm)
