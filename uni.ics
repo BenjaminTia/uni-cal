@@ -221,15 +221,15 @@ DTSTART;TZID=Asia/Hong_Kong:20261116T170000
 DTEND;TZID=Asia/Hong_Kong:20261116T170000
 DTSTAMP:20260913T000000Z
 UID:c862c873b9f803fa64f5cb1b189a100b@hkmu
-DESCRIPTION:OLE Assignments panel confirms Group Assignment (Assignment 1)\
- , due 16 Nov 2026 at 17:00. This is Worksheet 2 (group\, 20%): Task C camp
- aign plan plus Task D team-performance video. Two uploads happen: one memb
- er submits Worksheet 2\, and every member separately submits their own Pee
- r Evaluation Form. The video itself is not uploaded. Worksheet 2 Task D ca
- rries either a Zoom link with password or a YouTube URL the teacher can op
- en\, plus the presenter list with student number and name\, the AI tools l
- ist and APA 7 references. Source: Group Assignment brief and rubrics saved
-  3 Nov 2026.
+DESCRIPTION:OLE Assignments panel confirms Group Assignment (Assignment 1)
+ \, due 16 Nov 2026 at 17:00. This is Worksheet 2 (group\, 20%): Task C cam
+ paign plan plus Task D team-performance video. Two uploads happen: one mem
+ ber submits Worksheet 2\, and every member separately submits their own Pe
+ er Evaluation Form. The video itself is not uploaded. Worksheet 2 Task D c
+ arries either a Zoom link with password or a YouTube URL the teacher can o
+ pen\, plus the presenter list with student number and name\, the AI tools 
+ list and APA 7 references. Source: Group Assignment brief and rubrics save
+ d 3 Nov 2026.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UNI 2002BEW COMPULSORY Day School (T48) 13:00-16:00 - MISS = FAIL 
@@ -922,15 +922,15 @@ DTSTART;TZID=Asia/Hong_Kong:20261124T090000
 DTEND;TZID=Asia/Hong_Kong:20261124T115000
 DTSTAMP:20261024T120921Z
 UID:comp3500-l01-test-20261124@hkmu
-DESCRIPTION:COMP3500SEF L01 individual test\, 20%. Course Introduction deck
- : Nov 24 2026 Tuesday Week 13\, time and venue same as the lecture schedul
- e\, bring laptop. Displayed block is the normal 09:00-11:50 lecture/tutori
- al slot\, not an announced test duration. Same deck: no final examination\
- , and a minimum of 50% in OCAS and 50% in OES is required. SCOPE\, declare
- d 2 November 2026 by the professor (reported by Benjamin): Lecture 1 throu
- gh Lecture 9\, ending at Software Testing. Software Evolution is excluded.
-  Format and further details are due in a release a fortnight before the te
- st\, around 10 November. CILOs 1 to 6. Check OLE for the detail release.
+DESCRIPTION:COMP3500SEF L01 individual test\, 20%. Course Introduction dec
+ k: Nov 24 2026 Tuesday Week 13\, time and venue same as the lecture schedu
+ le\, bring laptop. Displayed block is the normal 09:00-11:50 lecture/tutor
+ ial slot\, not an announced test duration. Same deck: no final examination
+ \, and a minimum of 50% in OCAS and 50% in OES is required. SCOPE\, declar
+ ed 2 November 2026 by the professor (reported by Benjamin): Lecture 1 thro
+ ugh Lecture 9\, ending at Software Testing. Software Evolution is excluded
+ . Format and further details are due in a release a fortnight before the t
+ est\, around 10 November. CILOs 1 to 6. Check OLE for the detail release.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TENTATIVE: ELEC 3050 Zoom lecture (~19:00\; confirm)
@@ -967,10 +967,8 @@ DESCRIPTION:Dr. Ndudi Okechukwu Ezeamuzie <nezeamuz@hkmu.edu.hk>\, subject
   the Interim Progress 03 logbook\, the next in the series after Interim Pr
  ogress 02 (submitted 25 Oct). Submitting in OLE is his. OLE labels this dr
  opbox "Assign 5": HKMU-OLE due-date alert received Sun 1 Nov 2026 06:40 HK
- T
- \, verbatim "the due date for Assignment Assign 5 is 04-11-2026 ( Wed )". 
- S
- ame claim as this marker\, not a second task.
+ T\, verbatim "the due date for Assignment Assign 5 is 04-11-2026 ( Wed )".
+  Same claim as this marker\, not a second task.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:COMP 3500SEF Interim Progress 03 - write the logbook entry (DUE We
@@ -1016,18 +1014,18 @@ DTEND;TZID=Asia/Hong_Kong:20261106T113000
 DTSTAMP:20261028T085930Z
 UID:uni2002-check-finish-released-units-20261106@hkmu
 SEQUENCE:1
+DESCRIPTION:Units 1 to 4 assigned online activities and review quizzes are
+  all submitted as of 3 Nov 2026. Unit 4 was finished that evening: Activit
+ y 4.22\, AI Activity 4.4 and the Unit 4 review quiz. This block is now a c
+ heck for Unit 5 release and its assigned list\, plus anything OLE still sh
+ ows as outstanding. Nothing in Units 1 to 4 needs redoing\, and the review
+  quizzes are attempt-once so they must not be repeated.
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
 END:VALARM
-DESCRIPTION:Units 1 to 4 assigned online activities and review quizzes are 
- all submitted as of 3 Nov 2026. Unit 4 was finished that evening: Activity
-  4.22\, AI Activity 4.4 and the Unit 4 review quiz. This block is now a ch
- eck for Unit 5 release and its assigned list\, plus anything OLE still sho
- ws as outstanding. Nothing in Units 1 to 4 needs redoing\, and the review 
- quizzes are attempt-once so they must not be repeated.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELEC 3250 second-part individual assignment - DUE 23:59
@@ -1093,23 +1091,23 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ELEC 3630SEF Assignment 2 (TMA 2) - OFFICIAL OLE deadline 15 Nov / 
- TIME TBC
+SUMMARY:ELEC 3630SEF Assignment 2 (TMA 2) - OFFICIAL OLE deadline 15 Nov /
+  TIME TBC
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 DTSTAMP:20261030T053244Z
 UID:elec3630-assignment2-20261115@hkmu
 SEQUENCE:2
 CATEGORIES:ELEC
-DESCRIPTION:Official OLE deadline: 15 November 2026. OLE's own reminder of 
- 8 Nov 2026 06:45 HKT (HKMU-OLE\, "ELEC3630SEF TMA 2 Due Date Alert") print
- s the date verbatim: "the due date for Assignment TMA 2 is 15-11-2026 ( Su
- n )". OLE calls Assignment 2 TMA 2\, exactly as the Assignment 1 receipt c
- alled that one "Assignment TMA 1"\, so a TMA 2 alert refers to this item a
- nd not to a separate assignment. Cutoff time not supplied: TIME TBC. Assig
- nment 2: 50 marks. Submit a PDF through OLE using the filename convention 
- prescribed in the paper. Nothing filed against the dropbox as of 8 Nov 202
- 6.
+DESCRIPTION:Official OLE deadline: 15 November 2026. OLE's own reminder of
+  8 Nov 2026 06:45 HKT (HKMU-OLE\, "ELEC3630SEF TMA 2 Due Date Alert") prin
+ ts the date verbatim: "the due date for Assignment TMA 2 is 15-11-2026 ( S
+ un )". OLE calls Assignment 2 TMA 2\, exactly as the Assignment 1 receipt 
+ called that one "Assignment TMA 1"\, so a TMA 2 alert refers to this item 
+ and not to a separate assignment. Cutoff time not supplied: TIME TBC. Assi
+ gnment 2: 50 marks. Submit a PDF through OLE using the filename convention
+  prescribed in the paper. Nothing filed against the dropbox as of 8 Nov 20
+ 26.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1132,121 +1130,114 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UNI 1002ABW course completion (viewing requirements) - DUE Mon 30 N
- ov
+SUMMARY:UNI 1002ABW course completion (viewing requirements) - DUE Mon 30 
+ Nov
 DTSTART;TZID=Asia/Hong_Kong:20261130T235900
 DTEND;TZID=Asia/Hong_Kong:20261130T235900
 DTSTAMP:20261101T110500Z
 UID:uni1002abw-completion-due-20261130@hkmu
 CATEGORIES:UNI1002ABW
-DESCRIPTION:HKMU-OLE <noreply@hkmu.edu.hk>\, subject "Reminder: Course Comp
- letion Date for UNI1002ABW"\, received Sun 1 Nov 2026 07:21 HKT at s144639
- 8
- @live.hkmu.edu.hk (forwarded into Gmail). Verbatim: "This is to remind you
-  
- that the completion date for the course UNI1002ABW University Core Values 
- i
- s 2026-11-30 23:59." and "In additon to submtting the assignment\, please 
- b
- e reminded to also check your completion status by clicking the My Study P
- r
- ogress button on the course front page\, and ensure that you meet all the 
- v
- iewing requirements of this course." Typos quoted as sent. DISTINCT from t
- h
- e 23 Nov reflective-essay deadline: a viewing-progress shortfall fails the
-  
- course on its own\, so this is a separate close. The stated close time 23:
- 5
- 9 is the one printed in the mail. Submitting and checking progress is his.
+DESCRIPTION:HKMU-OLE <noreply@hkmu.edu.hk>\, subject "Reminder: Course Com
+ pletion Date for UNI1002ABW"\, received Sun 1 Nov 2026 07:21 HKT at s14463
+ 98@live.hkmu.edu.hk (forwarded into Gmail). Verbatim: "This is to remind y
+ ou that the completion date for the course UNI1002ABW University Core Valu
+ es is 2026-11-30 23:59." and "In additon to submtting the assignment\, ple
+ ase be reminded to also check your completion status by clicking the My St
+ udy Progress button on the course front page\, and ensure that you meet al
+ l the viewing requirements of this course." Typos quoted as sent. DISTINCT
+  from the 23 Nov reflective-essay deadline: a viewing-progress shortfall f
+ ails the course on its own\, so this is a separate close. The stated close
+  time 23:59 is the one printed in the mail. Submitting and checking progre
+ ss is his.
 END:VEVENT
 BEGIN:VEVENT
-UID:comp3500-project-report-20261208@hkmu
-DTSTAMP:20261102T000000Z
-DTSTART;VALUE=DATE:20261208
-DTEND;VALUE=DATE:20261209
 SUMMARY:COMP 3500SEF Project Report - DUE Tue 8 Dec (leader submits PDF)
-DESCRIPTION:Course Introduction deck slide 25: project report not more than
-  1000 words\, source code excluded from the count\, GitHub link on the fir
- st line of the report\, free format\, submitted as a PDF through the OLE a
- ssignment link by the group leader or representative. Deadline Dec 8 2026\
- , early submission encouraged\, late submission not accepted. No time of d
- ay is printed\, so this marker is all-day.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:comp3500-project-logbook-final-20261208@hkmu
-DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
-SUMMARY:COMP 3500SEF Project Logbook final - DUE Tue 8 Dec (individual)
-DESCRIPTION:Course Introduction deck slide 26: individual component\, no co
- pying from group members\, final project logbook submitted with questions 
- about participation. Interim dropboxes are labelled Sep 30\, Oct 15\, Oct 
- 30 and Nov 15 on the deck\; those are item labels\, and OLE's actual due d
- ates lag them (Oct 15 item due 26 Oct\, Oct 30 item due 4 Nov as Assign 5)
- . Final deadline Dec 8 2026\, late submission not accepted. No time of day
-  is printed\, so this marker is all-day.
+DTSTAMP:20261102T000000Z
+UID:comp3500-project-report-20261208@hkmu
+DESCRIPTION:Course Introduction deck slide 25: project report not more tha
+ n 1000 words\, source code excluded from the count\, GitHub link on the fi
+ rst line of the report\, free format\, submitted as a PDF through the OLE 
+ assignment link by the group leader or representative. Deadline Dec 8 2026
+ \, early submission encouraged\, late submission not accepted. No time of 
+ day is printed\, so this marker is all-day.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:comp3500-progress-review-g9-20261110@hkmu
-DTSTAMP:20261103T015558Z
+SUMMARY:COMP 3500SEF Project Logbook final - DUE Tue 8 Dec (individual)
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+DTSTAMP:20261102T000000Z
+UID:comp3500-project-logbook-final-20261208@hkmu
+DESCRIPTION:Course Introduction deck slide 26: individual component\, no c
+ opying from group members\, final project logbook submitted with questions
+  about participation. Interim dropboxes are labelled Sep 30\, Oct 15\, Oct
+  30 and Nov 15 on the deck\; those are item labels\, and OLE's actual due 
+ dates lag them (Oct 15 item due 26 Oct\, Oct 30 item due 4 Nov as Assign 5
+ ). Final deadline Dec 8 2026\, late submission not accepted. No time of da
+ y is printed\, so this marker is all-day.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COMP 3500SEF project progress review - Group 9 presents (6th of 8)
 DTSTART;TZID=Asia/Hong_Kong:20261110T090000
 DTEND;TZID=Asia/Hong_Kong:20261110T105000
-SUMMARY:COMP 3500SEF project progress review - Group 9 presents (6th of 8)
-LOCATION:HKMU Jockey Club Campus\, DG309 (lecture room\; the order sheet pr
- ints no venue)
-DESCRIPTION:COMP 3500SEF 10-minute group project progress review\, run insi
- de the Tuesday lecture slot. Order per the OLE sheet presentation_order_So
- ftware_Engineering_L01.pdf (3 Nov 2026): 10 Nov runs groups 22\, 18\, 24\,
-  20\, 3\, 9\, 6\, 17\, so Group 9 is 6th of 8 that day. The exact clock sl
- ot within the session is not printed on the sheet.\nSheet requirements: al
- l group members on stage\; two or more members may share the talking\; all
-  students attend the presentations\; lectures continue with Q&A. Cover req
- uirement engineering\, system modelling/design\, implementation\, validati
- on/testing and evolution\, and skip a topic only if the lecture has not co
- vered it yet.\nSlides go to SE03 MS Form https://forms.cloud.microsoft/r/t
- yaGV1CSBY as .ppt or .pptx only\, at least 24h before the lecture time of 
- the presentation date.
+DTSTAMP:20261103T015558Z
+UID:comp3500-progress-review-g9-20261110@hkmu
 CATEGORIES:COMP3500
+DESCRIPTION:COMP 3500SEF 10-minute group project progress review\, run ins
+ ide the Tuesday lecture slot. Order per the OLE sheet presentation_order_S
+ oftware_Engineering_L01.pdf (3 Nov 2026): 10 Nov runs groups 22\, 18\, 24
+ \, 20\, 3\, 9\, 6\, 17\, so Group 9 is 6th of 8 that day. The exact clock 
+ slot within the session is not printed on the sheet.\nSheet requirements: 
+ all group members on stage\; two or more members may share the talking\; a
+ ll students attend the presentations\; lectures continue with Q&A. Cover r
+ equirement engineering\, system modelling/design\, implementation\, valida
+ tion/testing and evolution\, and skip a topic only if the lecture has not 
+ covered it yet.\nSlides go to SE03 MS Form https://forms.cloud.microsoft/r
+ /tyaGV1CSBY as .ppt or .pptx only\, at least 24h before the lecture time o
+ f the presentation date.
+LOCATION:HKMU Jockey Club Campus\, DG309 (lecture room\; the order sheet p
+ rints no venue)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:comp3500-progress-review-g9-slides-due-20261109@hkmu
-DTSTAMP:20261103T015558Z
+SUMMARY:COMP 3500SEF Group 9 slides DUE - 24h before the 10 Nov review (by
+  09:00 Mon)
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-SUMMARY:COMP 3500SEF Group 9 slides DUE - 24h before the 10 Nov review (by 
- 09:00 Mon)
-DESCRIPTION:Submit the Group 9 progress-review deck through SE03: Project P
- rogress Review MS Form https://forms.cloud.microsoft/r/tyaGV1CSBY - .ppt o
- r .pptx only.\nThe OLE order sheet says 'at least 24hrs before the Lecture
-  time of the group's presentation date'. The Tuesday lecture slot is 09:00
- -10:50\, so the cutoff lands at 09:00 on Monday 9 Nov. Submitted by the gr
- oup leader or a representative.
+DTSTAMP:20261103T015558Z
+UID:comp3500-progress-review-g9-slides-due-20261109@hkmu
 CATEGORIES:COMP3500
+DESCRIPTION:Submit the Group 9 progress-review deck through SE03: Project 
+ Progress Review MS Form https://forms.cloud.microsoft/r/tyaGV1CSBY - .ppt 
+ or .pptx only.\nThe OLE order sheet says 'at least 24hrs before the Lectur
+ e time of the group's presentation date'. The Tuesday lecture slot is 09:0
+ 0-10:50\, so the cutoff lands at 09:00 on Monday 9 Nov. Submitted by the g
+ roup leader or a representative.
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:lc-ielts-intensive-course-registration-20261108@hkmu
-DTSTAMP:20261104T000000Z
+SUMMARY:Language Centre IELTS Intensive Course - registration DUE Sun 8 No
+ v
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-SUMMARY:Language Centre IELTS Intensive Course - registration DUE Sun 8 Nov
-DESCRIPTION:Language Centre lc@hkmu.edu.hk\, '(Join Now!) Get Ready for IEL
- TS : Intensive 8-Lesson Course by the Language Centre (Nov 10 to Dec 3) (1
- 00% FREE for HKMU students)'\, 4 Nov 2026 12:56 HKT. Verbatim: 'Applicatio
- n deadline: Nov 8\, 2026'. Eight lessons\, two per week\, Tue and Thu 11:0
- 0-13:00 (10\, 12\, 17\, 19\, 24\, 26 Nov\; 1\, 3 Dec)\, classroom A0411\, 
- Main Campus. Tuition free\, but a HK00 deposit is required\, refunded to t
- hose who attend at least 6 of 8 lessons and non-refundable on cancellation
- . Quota about 30 per class\, first come first served. Register: https://st
- udent.intranet.hkmu.edu.hk/ers/prod/ERS_detail.jsp?eid=010939&lang=eng&mod
- e=all . The mail prints only a date\, so this is an all-day marker with TI
- ME TBC.
+DTSTAMP:20261104T000000Z
+UID:lc-ielts-intensive-course-registration-20261108@hkmu
+DESCRIPTION:Language Centre lc@hkmu.edu.hk\, '(Join Now!) Get Ready for IE
+ LTS : Intensive 8-Lesson Course by the Language Centre (Nov 10 to Dec 3) (
+ 100% FREE for HKMU students)'\, 4 Nov 2026 12:56 HKT. Verbatim: 'Applicati
+ on deadline: Nov 8\, 2026'. Eight lessons\, two per week\, Tue and Thu 11:
+ 00-13:00 (10\, 12\, 17\, 19\, 24\, 26 Nov\; 1\, 3 Dec)\, classroom A0411\,
+  Main Campus. Tuition free\, but a HK00 deposit is required\, refunded to 
+ those who attend at least 6 of 8 lessons and non-refundable on cancellatio
+ n. Quota about 30 per class\, first come first served. Register: https://s
+ tudent.intranet.hkmu.edu.hk/ers/prod/ERS_detail.jsp?eid=010939&lang=eng&mo
+ de=all . The mail prints only a date\, so this is an all-day marker with T
+ IME TBC.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1255,18 +1246,50 @@ DTSTART;TZID=Asia/Hong_Kong:20261113T235900
 DTEND;TZID=Asia/Hong_Kong:20261113T235900
 DTSTAMP:20261106T110000Z
 UID:74334158d4208467ec59332d78a75eea@hkmu
-DESCRIPTION:OLE due-date alert. HKMU-OLE <noreply@hkmu.edu.hk>\, subject "E
- LEC3050SEF Assign 8 Due Date Alert"\, received Fri 6 Nov 2026 07:00 HKT\, v
- erbatim: "the due date for Assignment Assign 8 is 13-11-2026 ( Fri )" and "
- If you have already submitted the assignment\, please ignore this message."
-  No clock time is printed\; 23:59 is the OLE convention already confirmed o
- n COMP 3500 Assignment 2 and used on this course's earlier items. The deliv
- erable behind the label is NOT identified: OLE numbers its dropboxes indepe
- ndently of the course's own numbering (Assign 6 = Lab 3 TCP\, Assign 7 = Tu
- torial 3)\, so open the OLE Assignment File before planning the work. No re
- ceipt exists for Assign 8\; Assign 6 and Assign 7 were both receipted on 31
-  Oct 2026. Submitting is his.
 CATEGORIES:ELEC 3050SEF
+DESCRIPTION:OLE due-date alert. HKMU-OLE <noreply@hkmu.edu.hk>\, subject "
+ ELEC3050SEF Assign 8 Due Date Alert"\, received Fri 6 Nov 2026 07:00 HKT\,
+  verbatim: "the due date for Assignment Assign 8 is 13-11-2026 ( Fri )" an
+ d "If you have already submitted the assignment\, please ignore this messa
+ ge." No clock time is printed\; 23:59 is the OLE convention already confir
+ med on COMP 3500 Assignment 2 and used on this course's earlier items. The
+  deliverable behind the label is NOT identified: OLE numbers its dropboxes
+  independently of the course's own numbering (Assign 6 = Lab 3 TCP\, Assig
+ n 7 = Tutorial 3)\, so open the OLE Assignment File before planning the wo
+ rk. No receipt exists for Assign 8\; Assign 6 and Assign 7 were both recei
+ pted on 31 Oct 2026. Submitting is his.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COMP 3500: Required progress review attendance
+DTSTART;TZID=Asia/Hong_Kong:20261117T090000
+DTEND;TZID=Asia/Hong_Kong:20261117T105000
+DTSTAMP:20261109T083827Z
+UID:comp3500-required-progress-review-20261117@hkmu
+DESCRIPTION:All students must attend presentations\; Group 9 is not schedu
+ led to present this day. Date from L01 presentation order\; time is the ex
+ isting Tuesday lecture slot.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COMP 3500: Recorded project presentation due
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+DTSTAMP:20261109T083827Z
+UID:comp3500-recorded-presentation-due-20261208@hkmu
+DESCRIPTION:Time TBC. Lecturer course chat 11 October: recorded presentati
+ on\, report and final logbook due on or before 8 December. Confirm submiss
+ ion portal when announced.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UNI 2002: Individual peer evaluation due
+DTSTART;TZID=Asia/Hong_Kong:20261116T170000
+DTEND;TZID=Asia/Hong_Kong:20261116T170500
+DTSTAMP:20261109T083827Z
+UID:uni2002-peer-evaluation-due-20261116@hkmu
+DESCRIPTION:Individual peer evaluation due 16 November at 17:00 per group 
+ assignment brief. Separate from the group worksheet and video.
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
