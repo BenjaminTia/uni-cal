@@ -547,15 +547,20 @@ DESCRIPTION:Dr Ezeamuzie: groups decide the topic and inform via the MS Fo
  movals.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UNI 2002BEW: Units 1-3 assigned online activities - OLE deadline
+SUMMARY:UNI 2002BEW: Units 1-4 assigned online activities - OLE deadline 23:59 (miss = fail risk)
 DTSTART;TZID=Asia/Hong_Kong:20261129T235900
 DTEND;TZID=Asia/Hong_Kong:20261129T235900
 DTSTAMP:20260924T150000Z
 UID:ddbfd3c73662ec7705889efd47868bf0@hkmu
-DESCRIPTION:Compulsory: Unit 1 (Activity 1.5\, AI activity 1.7\, review qu
- iz)\, Unit 2 (Activity 2.17\, AI activity 2.4\, review quiz)\, plus Unit 3
-  as released. Missing activities can fail the course. Source: Dr Joey Ng\,
-  UNI 2002BEW Unit 2 email\, 24 Sep 2026.
+DESCRIPTION:Compulsory per course leaders (13 Nov 2026): Unit 1 Activity 1.
+ 5\, AI activity 1.7 and Unit 1 review quiz\; Unit 2 Activity 2.17\, AI ac
+ tivity 2.4 and Unit 2 review quiz\; Unit 3 Activity 3.12\, AI activity 3.
+ 1 and Unit 3 review quiz\; Unit 4 Activity 4.22\, AI activity 4.4 and Uni
+ t 4 review quiz. Unit 5 is released this week (Activities 5.3 and 5.11 pl
+ us the Unit 5 review quiz) and falls inside the same online activity requ
+ irement. All assigned online activities close 29 Nov 2026 23:59 and count
+  60 percent of the course. Source: Joey Ng and Anthenian Chiu\, UNI 2002B
+ EW course leaders\, 13 Nov 2026.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:COMP 3500SEF Assignment 1 (Project Logbook) - draft and submit
