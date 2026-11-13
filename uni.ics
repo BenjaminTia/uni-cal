@@ -1243,23 +1243,19 @@ DESCRIPTION:Language Centre lc@hkmu.edu.hk\, '(Join Now!) Get Ready for IE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ELEC 3050SEF Assign 8 - DUE 23:59 Fri 13 Nov
-DTSTART;TZID=Asia/Hong_Kong:20261113T235900
-DTEND;TZID=Asia/Hong_Kong:20261113T235900
+SUMMARY:ELEC 3050SEF Lab 4 NETACAD (Assign 8) - DUE Mon 16 Nov 23:59
+DTSTART;TZID=Asia/Hong_Kong:20261116T235900
+DTEND;TZID=Asia/Hong_Kong:20261116T235900
 DTSTAMP:20261106T110000Z
 UID:74334158d4208467ec59332d78a75eea@hkmu
 CATEGORIES:ELEC 3050SEF
-DESCRIPTION:OLE due-date alert. HKMU-OLE <noreply@hkmu.edu.hk>\, subject "
- ELEC3050SEF Assign 8 Due Date Alert"\, received Fri 6 Nov 2026 07:00 HKT\,
-  verbatim: "the due date for Assignment Assign 8 is 13-11-2026 ( Fri )" an
- d "If you have already submitted the assignment\, please ignore this messa
- ge." No clock time is printed\; 23:59 is the OLE convention already confir
- med on COMP 3500 Assignment 2 and used on this course's earlier items. The
-  deliverable behind the label is NOT identified: OLE numbers its dropboxes
-  independently of the course's own numbering (Assign 6 = Lab 3 TCP\, Assig
- n 7 = Tutorial 3)\, so open the OLE Assignment File before planning the wo
- rk. No receipt exists for Assign 8\; Assign 6 and Assign 7 were both recei
- pted on 31 Oct 2026. Submitting is his.
+DESCRIPTION:Hugh announced an extension to Monday 16 November 2026 at 23:59
+  due to a Microsoft email service outage preventing Cisco Networking Acade
+ my login. Announcement supplied by Benjamin on 13 November 2026. Supersede
+ s 13 November 23:59. NETACAD exam complete at 100/100. Upload the prepared
+  DOCX to OLE Lab4-netacad. OLE submission not confirmed. This extension is
+  for submission\; NETACAD exam-window extension is not independently confi
+ rmed.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
