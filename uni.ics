@@ -1346,4 +1346,23 @@ DESCRIPTION:One 90-minute block: open OLE Assignment File item "Project Lo
   the 12:00 Venturebuild registration close in the career feed. Submitting
   is his.
 END:VEVENT
+BEGIN:VEVENT
+UID:elec3050-tutorial4-due-20261122@hkmu
+DTSTAMP:20261116T055000Z
+DTSTART;TZID=Asia/Hong_Kong:20261122T235900
+DTEND;TZID=Asia/Hong_Kong:20261122T235900
+SUMMARY:ELEC 3050SEF Tutorial 4 submission - DUE Sun 22 Nov 23:59
+CATEGORIES:Assessment
+LOCATION:OLE
+DESCRIPTION:Tutorial 4 worksheet. Exact words from Tutorial4.docx: "Deadli
+ ne: 22 Nov 2026, 11:59 pm" and "Format: Tutorial4-studentID.pdf". Answers
+  to tutorial questions are not distributed; they are shown after the atte
+ mpt in the tutorial session.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
 END:VCALENDAR
