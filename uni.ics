@@ -1364,4 +1364,21 @@ ACTION:DISPLAY
 TRIGGER:-PT3H
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:hkmu-course-eval-2026autumn-20261206@hkmu
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:HKMU course evaluation surveys (2026 Autumn) - DUE Sun 6 Dec
+DESCRIPTION:HKMU Registry (regsurvey@hkmu.edu.hk)\, “Submit your course e
+ valuation survey to win a souvenir 回答學科評估問卷，贏取紀念
+ 品”\, received 16 Nov 2026 09:01 HKT. Verbatim: “Please take a few mi
+ nutes to complete and submit the questionnaire online using your PC or mob
+ ile phone through the link below on or before 6 December 2026.” One ques
+ tionnaire per course\; each completed survey is one lucky-draw entry for 1
+ 0 prizes\, draw held Jan 2027 with winners announced end of Jan. Voluntary
+ \, and no closing hour is printed\, so the time is TBC. The mail carries t
+ he Registry survey-portal link\; completing the surveys is his.
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
