@@ -1317,17 +1317,21 @@ DTEND;TZID=Asia/Hong_Kong:20261121T235900
 DTSTAMP:20261115T110632Z
 UID:c3500-interim04-due-20261121@hkmu
 CATEGORIES:COMP3500SEF
-DESCRIPTION:Dr. Ndudi Okechukwu Ezeamuzie <nezeamuz@hkmu.edu.hk>\, subject
-  "Software Engineering: Project Logbook Submission (Interim Progress - 04
- ) - Nov 15"\, received Sat 14 Nov 2026 10:06 HKT. Verbatim: "The submissi
- on portal for the Interim Project Report for Nov 15\, 2026 is now open." 
- / "To submit\, please check Project Logbook Submission (Interim Progress 
- - 04) - Nov 15 in OLE's Assignment File" / "Deadline: Nov 21\, 2026." AMB
- IGUITY FLAGGED: the item name carries the cover date 15 Nov\, the body st
- ates the deadline as 21 Nov\; this event uses the body deadline\, the sam
- e way Interim Progress 03 was handled. No time is stated\, so 23:59 is a 
- placeholder\, not the dropbox's own close. Next in the series after Inter
- im Progress 03 (OLE "Assign 5"\, due 4 Nov). Submitting in OLE is his.
+DESCRIPTION:Dr. Ndudi Okechukwu Ezeamuzie <nezeamuz@hkmu.edu.hk>\, subject 
+ "Software Engineering: Project Logbook Submission (Interim Progress - 04) 
+ - Nov 15"\, received Sat 14 Nov 2026 10:06 HKT. Verbatim: "The submission 
+ portal for the Interim Project Report for Nov 15\, 2026 is now open." / "T
+ o submit\, please check Project Logbook Submission (Interim Progress - 04)
+  - Nov 15 in OLE's Assignment File" / "Deadline: Nov 21\, 2026." AMBIGUITY
+  FLAGGED: the item name carries the cover date 15 Nov\, the body states th
+ e deadline as 21 Nov\; this event uses the body deadline\, the same way In
+ terim Progress 03 was handled. No time is stated\, so 23:59 is a placehold
+ er\, not the dropbox's own close. Next in the series after Interim Progres
+ s 03 (OLE "Assign 5"\, due 4 Nov). Submitting in OLE is his. OLE reminder\
+ , HKMU-OLE <noreply@hkmu.edu.hk>\, "COMP3500SEF Assign 6 Due Date Alert"\,
+  Wed 18 Nov 2026 06:40 HKT\, verbatim: "the due date for Assignment Assign
+  6 is 21-11-2026 ( Sat )" - same date as the Dr Ezeamuzie mail\, and it na
+ mes this dropbox OLE "Assign 6".
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:COMP 3500SEF Interim Progress 04 - write the logbook entry (DUE Sa
