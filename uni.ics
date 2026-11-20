@@ -547,21 +547,29 @@ DESCRIPTION:Dr Ezeamuzie: groups decide the topic and inform via the MS Fo
  removals.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UNI 2002BEW: Units 1-4 assigned online activities - OLE deadline 2
- 3:59 (miss = fail risk)
+SUMMARY:UNI 2002BEW: Units 1-5 assigned online activities - OLE deadline 23
+ :59 (miss = fail risk)
 DTSTART;TZID=Asia/Hong_Kong:20261129T235900
 DTEND;TZID=Asia/Hong_Kong:20261129T235900
 DTSTAMP:20260924T150000Z
 UID:ddbfd3c73662ec7705889efd47868bf0@hkmu
-DESCRIPTION:Compulsory per course leaders (13 Nov 2026): Unit 1 Activity 1
- .5\, AI activity 1.7 and Unit 1 review quiz\; Unit 2 Activity 2.17\, AI a
- ctivity 2.4 and Unit 2 review quiz\; Unit 3 Activity 3.12\, AI activity 3
- .1 and Unit 3 review quiz\; Unit 4 Activity 4.22\, AI activity 4.4 and Un
- it 4 review quiz. Unit 5 is released this week (Activities 5.3 and 5.11 p
- lus the Unit 5 review quiz) and falls inside the same online activity req
- uirement. All assigned online activities close 29 Nov 2026 23:59 and coun
- t 60 percent of the course. Source: Joey Ng and Anthenian Chiu\, UNI 2002
- BEW course leaders\, 13 Nov 2026.
+DESCRIPTION:Compulsory per course leaders (13 Nov 2026): Unit 1 Activity 1.
+ 5\, AI activity 1.7 and Unit 1 review quiz\; Unit 2 Activity 2.17\, AI act
+ ivity 2.4 and Unit 2 review quiz\; Unit 3 Activity 3.12\, AI activity 3.1 
+ and Unit 3 review quiz\; Unit 4 Activity 4.22\, AI activity 4.4 and Unit 4
+  review quiz. Unit 5 is released this week (Activities 5.3 and 5.11 plus t
+ he Unit 5 review quiz) and falls inside the same online activity requireme
+ nt. All assigned online activities close 29 Nov 2026 23:59 and count 60 pe
+ rcent of the course. Source: Joey Ng and Anthenian Chiu\, UNI 2002BEW cour
+ se leaders\, 13 Nov 2026. Course Leader mail\, Dr Joey Ng <jng@hkmu.edu.hk
+ >\, "UNI 2002BEW (2026 Autumn): Assigned Online Activities"\, Fri 20 Nov 2
+ 026 12:58 HKT\, verbatim: "the assigned online activities are due on 29 No
+ vember 2026 at 23:59" and "Failure to complete and pass them will result i
+ n a failing grade for the course". Its attachment\, "UNI 2002BEW_2026 Autu
+ mn_Online Tasks or Activities (Units 1 - 5)"\, lists Unit 5: Activity 5.3 
+ (Identifying benefits of high-performing teams)\, Activity 5.11 (Identifyi
+ ng strengths and weaknesses) and the Unit 5 review quiz\, taking the list 
+ to 15 items. Same 29 Nov 23:59 close\; nothing moved.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:COMP 3500SEF Assignment 1 (Project Logbook) - draft and submit
@@ -1053,13 +1061,16 @@ DTSTART;TZID=Asia/Hong_Kong:20261127T235900
 DTEND;TZID=Asia/Hong_Kong:20261127T235900
 DTSTAMP:20261028T091102Z
 UID:elec3250-second-part-assignment-20261127@hkmu
-DESCRIPTION:ELEC3250 second-part individual assignment\; command injection
- \, SQL injection\, stored XSS in supplied local training VM. PDF report w
- ith steps and screenshots through OLE only. Weight 10%\; late submission 
- not accepted\; no filename rule given. Source: Week 9 assignment PDF\, pa
- ge 1\, read 28 October. Deadline 27 Nov 2026 23:59\; HKT is institutional
-  working interpretation\, timezone not printed. Confirm live dropbox sett
- ings.
+DESCRIPTION:ELEC3250 second-part individual assignment\; command injection\
+ , SQL injection\, stored XSS in supplied local training VM. PDF report wit
+ h steps and screenshots through OLE only. Weight 10%\; late submission not
+  accepted\; no filename rule given. Source: Week 9 assignment PDF\, page 1
+ \, read 28 October. Deadline 27 Nov 2026 23:59\; HKT is institutional work
+ ing interpretation\, timezone not printed. Confirm live dropbox settings. 
+ OLE names this dropbox "Assign 1": HKMU-OLE\, "ELEC3250SEF Assign 1 Due Da
+ te Alert"\, Fri 20 Nov 2026 07:00 HKT\, verbatim: "the due date for Assign
+ ment Assign 1 is 27-11-2026 ( Fri )". Same date as this marker\, so the al
+ ias is recorded rather than a second event created.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1391,5 +1402,23 @@ DESCRIPTION:HKMU Registry (regsurvey@hkmu.edu.hk)\, “Submit your course e
  \, and no closing hour is printed\, so the time is TBC. The mail carries t
  he Registry survey-portal link\; completing the surveys is his.
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HKMU IT OUTAGE: SAS + MyHKMU down 27-30 Nov (30 Nov scholarship fil
+ ings at risk)
+DTSTART;TZID=Asia/Hong_Kong:20261127T190000
+DTEND;TZID=Asia/Hong_Kong:20261130T140000
+DTSTAMP:20261120T110000Z
+UID:hkmuit-outage-sas-myhkmu-20261127@hkmu
+CATEGORIES:HKMU IT
+DESCRIPTION:ITO <ito@hkmu.edu.hk>\, "Scheduled System Maintenance for SAS a
+ nd MyHKMU on 27-30 November 2026"\, Fri 20 Nov 2026 18:26 HKT\, verbatim: 
+ "system maintenance of SAS and MyHKMU for version update will take place f
+ rom 19:00\, 27 November 2026(Fri) to 14:00\, 30 November 2026(Mon)". Suspe
+ nded during the window: Student Administration System (SAS)\, MyHKMU\, HKM
+ U Student Mobile App and Online Payment Services. Consequence: the ROA-B a
+ nd GLAS applications due 30 Nov are filed through MyHKMU\, so they have to
+  be in before 19:00 on 27 Nov or wait for the 30 Nov afternoon window. ITO
+  Helpdesk 2711 2100\, itohelp@hkmu.edu.hk.
 END:VEVENT
 END:VCALENDAR
