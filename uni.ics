@@ -262,6 +262,30 @@ LOCATION:Grand Ballroom\, New World Millennium Hong Kong Hotel\, 72 Mody R
  oad\, Tsim Sha Tsui East
 END:VEVENT
 BEGIN:VEVENT
+UID:uni2002bew-part1-due-20261128@hkmu
+DTSTAMP:20261121T110000Z
+DTSTART;TZID=Asia/Hong_Kong:20261128T235900
+DTEND;TZID=Asia/Hong_Kong:20261128T235900
+SUMMARY:UNI 2002BEW PART 1 (OLE) - DUE Sat 28 Nov 23:59
+CATEGORIES:UNI 2002BEW
+LOCATION:OLE
+DESCRIPTION:UNI 2002BEW assignment dropbox "PART 1"\, OLE. HKMU-OLE <norepl
+ y@hkmu.edu.hk>\, "UNI2002BEW PART 1 Due Date Alert"\, Sat 21 Nov 2026 07:0
+ 5 HKT\, verbatim: "the due date for Assignment PART 1 is 28-11-2026 ( Sat 
+ )". The alert prints no clock time\, so 23:59 is used as the end-of-day cl
+ ose. The alert does not say what PART 1 contains\; it is recorded by dropb
+ ox label only. Same morning\, the course leader Dr Joey Ng repeated that t
+ he assigned online activities (Units 1-5) are due 29 November 2026 at 23:5
+ 9 - a separate obligation with its own marker. The compulsory Day School (
+ T48) is 28 Nov 13:00-16:00 on the same day. Submitting is his.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:UNI 2002BEW online tasks + review quizzes close (60%) 23:59
 DTSTART;TZID=Asia/Hong_Kong:20261129T223000
 DTEND;TZID=Asia/Hong_Kong:20261129T235900
@@ -1365,7 +1389,8 @@ UID:elec3050-tutorial4-due-20261122@hkmu
 DTSTAMP:20261116T055000Z
 DTSTART;TZID=Asia/Hong_Kong:20261122T235900
 DTEND;TZID=Asia/Hong_Kong:20261122T235900
-SUMMARY:ELEC 3050SEF Tutorial 4 submission - DUE Sun 22 Nov 23:59
+SUMMARY:ELEC 3050SEF Tutorial 4 (Assign 9) - SUBMITTED Sat 21 Nov\, was DUE
+  Sun 22 Nov 23:59
 CATEGORIES:Assessment
 LOCATION:OLE
 DESCRIPTION:Tutorial 4 worksheet. Exact words from Tutorial4.docx: "Deadlin
@@ -1378,13 +1403,15 @@ DESCRIPTION:Tutorial 4 worksheet. Exact words from Tutorial4.docx: "Deadlin
  ask\; the established dropbox sequence (Lab 1 = Assign 3\, Lab 2 = Assign 
  4\, Lab 3 = Assign 6\, Tutorial 3 = Assign 7\, Lab 4 = Assign 8) puts Tuto
  rial 4 next\, so "Assign 9" is recorded here as this hand-in's OLE label b
- y date match\, not as a stated identity.
+ y date match\, not as a stated identity. RECEIPTED: HKMU-OLE <noreply@hkmu
+ .edu.hk>\, "Receipt of assignment"\, Sat 21 Nov 2026 03:53 HKT\, fields ve
+ rbatim: Course "ELEC 3050SEF (SEP 2026)" / Assignment "Assign 9" / Submiss
+ ion Date "21/11/2026 (DD/MM/YYYY)" / Attachment "Tutorial4-14463982.pdf". 
+ The attachment filename matches this Tutorial 4 PDF\, which confirms the A
+ ssign 9 label by file rather than by date match. In a day before the 22 No
+ v close\, so the item is closed. Display alarm removed on receipt.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT3H
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hkmu-course-eval-2026autumn-20261206@hkmu
