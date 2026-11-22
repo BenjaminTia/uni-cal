@@ -356,16 +356,15 @@ DESCRIPTION:Work block for the core-values reflective essay. Fri\, not Sun
  day. Check OLE for the exact close time first.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UNI 1002ABW reflective essay — DUE Mon 23 Nov (confirm time on O
- LE)
-DTSTART;TZID=Asia/Hong_Kong:20261123T235900
-DTEND;TZID=Asia/Hong_Kong:20261124T003000
+SUMMARY:UNI 1002ABW Reflective Learning Journal 1 - DUE 30 Nov 23:59
+DTSTART;TZID=Asia/Hong_Kong:20261130T235900
+DTEND;TZID=Asia/Hong_Kong:20261201T003000
 DTSTAMP:20260917T050132Z
 UID:75a36c7685104fd1a546b6ee81e00c2c@hkmu
-DESCRIPTION:Deadline 23:59:59 (settled from the OLE progress panel). MS Wo
- rd only (PDF rejected). English 270-550 words or Chinese 360-660 characte
- rs. Pass needs 50pct of videos AND 50pct of text viewed\, plus 50/100 on 
- the essay.
+DESCRIPTION:Benjamin directly verified the live HKMU OLE Assignments dashbo
+ ard card: Reflective Learning Journal 1\, UNI 1002ABW\, due 30/11/2026 23:
+ 59 HKT. Supersedes the earlier 23 Nov progress-panel reading. MS Word only
+ \; check My Study Progress separately.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UNI 1002ABW - OLE setup + Module 1 start (core values)
@@ -451,10 +450,10 @@ DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 DTSTAMP:20260918T150000Z
 UID:cff6651493d529b65257599fd0c4253e@hkmu
-DESCRIPTION:Worksheet 1 submitted (26 Oct 17:00). UNI 2002BEW team T48E op
- ened for Task C (30 Oct). L.I.O.N. + Tencent applications decided (31 Oct
- ). Next up in November: Worksheet 2 group video (due 16 Nov) and the UNI 
- 1002ABW essay (due 23 Nov).
+DESCRIPTION:Worksheet 1 submitted (26 Oct 17:00). UNI 2002BEW team T48E ope
+ ned for Task C (30 Oct). L.I.O.N. + Tencent applications decided (31 Oct).
+  Next up in November: Worksheet 2 group video (due 16 Nov) and the UNI 100
+ 2ABW essay (due 30 Nov 23:59).
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CHECK: pre-Assign 1 - video captured?
@@ -462,10 +461,10 @@ DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 DTSTAMP:20260918T150000Z
 UID:ae73d9325afd2fce393002a46c81ee2c@hkmu
-DESCRIPTION:UNI 2002BEW Worksheet 2 for Mon 16 Nov 17:00: Task D video fil
- med in the 9 to 15 Nov window\, Task C campaign plan drafted\, peer evalu
- ation form ready. UNI 1002ABW essay draft started (due 23 Nov). ELEC 3050
- SEF test result noted (test 2 Nov).
+DESCRIPTION:UNI 2002BEW Worksheet 2 for Mon 16 Nov 17:00: Task D video film
+ ed in the 9 to 15 Nov window\, Task C campaign plan drafted\, peer evaluat
+ ion form ready. UNI 1002ABW essay draft started (due 30 Nov 23:59). ELEC 3
+ 050SEF test result noted (test 2 Nov).
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CHECK: finish line - everything submitted?
@@ -473,11 +472,11 @@ DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 DTSTAMP:20260918T150000Z
 UID:3d6d442df43e3cd603e100a28c8a53e2@hkmu
-DESCRIPTION:UNI 2002BEW Assign 1 submitted (16 Nov). UNI 1002ABW reflectiv
- e essay submitted or about to be (due Mon 23 Nov 23:59). Day School prep 
- for 28 Nov 13:00 Grand Ballroom: laptop with data\, casual clothes + spor
- ts shoes\, Worksheet 3 uploaded on the day. Exam revision plan for 7 to 2
- 7 Dec.
+DESCRIPTION:UNI 2002BEW Assign 1 submitted (16 Nov). UNI 1002ABW reflective
+  essay submitted or about to be (due Mon 30 Nov 23:59). Day School prep fo
+ r 28 Nov 13:00 Grand Ballroom: laptop with data\, casual clothes + sports 
+ shoes\, Worksheet 3 uploaded on the day. Exam revision plan for 7 to 27 De
+ c.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELEC 3050SEF Lab 01 (HTTP) | DUE (confirm time on OLE)
@@ -1186,25 +1185,17 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UNI 1002ABW course completion (viewing requirements) - DUE Mon 30 
- Nov
+SUMMARY:UNI 1002ABW course completion (viewing requirements) - DUE Mon 30 N
+ ov
 DTSTART;TZID=Asia/Hong_Kong:20261130T235900
 DTEND;TZID=Asia/Hong_Kong:20261130T235900
 DTSTAMP:20261101T110500Z
 UID:uni1002abw-completion-due-20261130@hkmu
 CATEGORIES:UNI1002ABW
-DESCRIPTION:HKMU-OLE <noreply@hkmu.edu.hk>\, subject "Reminder: Course Com
- pletion Date for UNI1002ABW"\, received Sun 1 Nov 2026 07:21 HKT at s1446
- 398@live.hkmu.edu.hk (forwarded into Gmail). Verbatim: "This is to remind
-  you that the completion date for the course UNI1002ABW University Core V
- alues is 2026-11-30 23:59." and "In additon to submtting the assignment\,
-  please be reminded to also check your completion status by clicking the 
- My Study Progress button on the course front page\, and ensure that you m
- eet all the viewing requirements of this course." Typos quoted as sent. D
- ISTINCT from the 23 Nov reflective-essay deadline: a viewing-progress sho
- rtfall fails the course on its own\, so this is a separate close. The sta
- ted close time 23:59 is the one printed in the mail. Submitting and check
- ing progress is his.
+DESCRIPTION:HKMU OLE course completion reminder: course completion date 30 
+ Nov 2026 23:59 HKT. Check My Study Progress and meet all viewing requireme
+ nts. This is a separate requirement from Reflective Learning Journal 1\, a
+ lso due 30 Nov 23:59 per Benjamin’s direct OLE dashboard verification.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:COMP 3500SEF Project Report - DUE Tue 8 Dec (leader submits PDF)
