@@ -1439,4 +1439,22 @@ DESCRIPTION:ITO <ito@hkmu.edu.hk>\, "Scheduled System Maintenance for SAS a
   be in before 19:00 on 27 Nov or wait for the 30 Nov afternoon window. ITO
   Helpdesk 2711 2100\, itohelp@hkmu.edu.hk.
 END:VEVENT
+BEGIN:VEVENT
+UID:cpet-putonghua-psc-course-reg-20261210@hkmu
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:CPET Putonghua PSC Course (Spring 2027) - REG DUE Thu 10 Dec
+DESCRIPTION:HKMU Putonghua Education and Testing Centre (cpet@hkmu.edu.hk)\
+ , "【開放報名】普通話正音與進階能力訓練課程 (2027春
+ 季學期)"\, Mon 23 Nov 2026 15:48 HKT. Verbatim deadline: 「有意報
+ 讀的同學請於2026年12月10日 前填妥網上報名表格」 (submit
+  the online registration form before 10 December 2026)\; the mail prints n
+ o clock time. Course: 15 sessions\, Thu 18:30-21:30\, 17 Dec 2026 to 1 Apr
+  2027\, Room F0423\, IOH\; fee HK$5\,500\; 20 places. ELIGIBILITY GATE: 
+ 「考獲普通話水平測試三級甲等或以上成績的人士」 (PSC
+  Level 3A or above)\, and the fee subsidy needs PSC 2B or above. Registrat
+ ion form: student intranet ERS eid=010950.
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
