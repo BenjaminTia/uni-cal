@@ -1457,4 +1457,26 @@ DESCRIPTION:HKMU Putonghua Education and Testing Centre (cpet@hkmu.edu.hk)\
  ion form: student intranet ERS eid=010950.
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:hkmu-visa-entry-permit-proof-20261215@hkmu
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:HKMU visa/entry permit renewal proof - SUBMIT DUE Tue 15 Dec (TIME 
+ TBC)
+DESCRIPTION:Enrolment Team (Undergraduate) <regftae@hkmu.edu.hk>\, "[Action
+  Required] - Submission of New Visa/Entry Permit for study in Hong Kong"\,
+  received Tue 24 Nov 2026 11:05 HKT. Registry records his dependant visa a
+ s expiring 13 January 2027 and requires\, verbatim: "If you have already r
+ enewed your visa\, please reply to this email and attach a scanned copy of
+  the following documents on or before 15 December 2026" - either the renew
+ ed Dependant Visa\, or the New Student Visa and Landing Slip. Consequence 
+ quoted: "If you are unable to provide the above document by the specified 
+ deadline will result in de-registration." Renewal itself needs an Immigrat
+ ion Department application and appointment before 13 Jan 2027\, so start n
+ ow rather than waiting for the deadline. Reply by email to regftae@hkmu.ed
+ u.hk\; the 27-30 Nov MyHKMU/SAS outage does not block email. Sending the r
+ eply and the renewal are his own.
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
