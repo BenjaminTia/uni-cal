@@ -262,22 +262,18 @@ LOCATION:Grand Ballroom\, New World Millennium Hong Kong Hotel\, 72 Mody R
  oad\, Tsim Sha Tsui East
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:UNI 2002BEW PART 1 (OLE) - DUE 28 Nov / TIME TBC
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20261125T091419Z
 UID:uni2002bew-part1-due-20261128@hkmu
-DTSTAMP:20261121T110000Z
-DTSTART;TZID=Asia/Hong_Kong:20261128T235900
-DTEND;TZID=Asia/Hong_Kong:20261128T235900
-SUMMARY:UNI 2002BEW PART 1 (OLE) - DUE Sat 28 Nov 23:59
 CATEGORIES:UNI 2002BEW
+DESCRIPTION:HKMU-OLE PART 1 Due Date Alert\, 21 Nov 2026: "the due date fo
+ r Assignment PART 1 is 28-11-2026 ( Sat )". No cutoff time is specified in
+  that alert\; verify in OLE. The alert does not identify what PART 1 conta
+ ins. The 29 Nov 23:59 online activities are separately described in the co
+ urse leader email.
 LOCATION:OLE
-DESCRIPTION:UNI 2002BEW assignment dropbox "PART 1"\, OLE. HKMU-OLE <norepl
- y@hkmu.edu.hk>\, "UNI2002BEW PART 1 Due Date Alert"\, Sat 21 Nov 2026 07:0
- 5 HKT\, verbatim: "the due date for Assignment PART 1 is 28-11-2026 ( Sat 
- )". The alert prints no clock time\, so 23:59 is used as the end-of-day cl
- ose. The alert does not say what PART 1 contains\; it is recorded by dropb
- ox label only. Same morning\, the course leader Dr Joey Ng repeated that t
- he assigned online activities (Units 1-5) are due 29 November 2026 at 23:5
- 9 - a separate obligation with its own marker. The compulsory Day School (
- T48) is 28 Nov 13:00-16:00 on the same day. Submitting is his.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
