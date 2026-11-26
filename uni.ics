@@ -1489,4 +1489,70 @@ DESCRIPTION:HKMU-OLE <noreply@hkmu.edu.hk>\, "ELEC3050SEF Assign 10 Due Dat
  work.
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC 3630SEF EXAM (Advanced Computer Design) 1400-1600
+DTSTART;TZID=Asia/Hong_Kong:20261222T140000
+DTEND;TZID=Asia/Hong_Kong:20261222T160000
+DTSTAMP:20261126T131347Z
+UID:exam-20261222-elec3630@benjamintia
+DESCRIPTION:2026 Autumn Examination Centre Notification\, exam no. D7362069
+ . Calculators allowed (HKMU approved list only)\; dictionaries NOT allowed
+ . Bring the printed notification\, HK ID card and student card.
+LOCATION:HKMU Jockey Club Campus\, Room D0720\, 7/F Block D\, 81 Chung Hau 
+ Street\, Ho Man Tin
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Exam in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Exam tomorrow
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC 3050SEF EXAM (Computer Networking) 0930-1130
+DTSTART;TZID=Asia/Hong_Kong:20261224T093000
+DTEND;TZID=Asia/Hong_Kong:20261224T113000
+DTSTAMP:20261126T131347Z
+UID:exam-20261224-elec3050@benjamintia
+DESCRIPTION:2026 Autumn Examination Centre Notification\, exam no. CH400229
+ . Calculators allowed (HKMU approved list only)\; dictionaries NOT allowed
+ . Bring the printed notification\, HK ID card and student card.
+LOCATION:HKMU Main Campus Multi-purpose Hall\, 10/F Kwok Tak Seng Building 
+ (Block C)\, 30 Good Shepherd Street\, Ho Man Tin\, Kowloon
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Exam in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Exam tomorrow
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEC 3250SEF EXAM (Computer and Network Security) 1400-1600
+DTSTART;TZID=Asia/Hong_Kong:20261227T140000
+DTEND;TZID=Asia/Hong_Kong:20261227T160000
+DTSTAMP:20261126T131347Z
+UID:exam-20261227-elec3250@benjamintia
+DESCRIPTION:2026 Autumn Examination Centre Notification\, exam no. EH442240
+ . Calculators allowed (HKMU approved list only)\; dictionaries NOT allowed
+ . Bring the printed notification\, HK ID card and student card.
+LOCATION:HKMU Jockey Club Campus Agile Sports Hall\, 1/F Block E\, 81 Chung
+  Hau Street\, Ho Man Tin\, Kowloon
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Exam in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Exam tomorrow
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
 END:VCALENDAR
